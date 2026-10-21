@@ -54,8 +54,7 @@ export default function About() {
         {hero && <Image src={hero.backdropUrl} alt="" fill priority sizes="100vw" className="-z-10 object-cover object-right opacity-60" />}
         <div className="absolute inset-0 -z-10 bg-gradient-to-r from-bg via-bg/85 to-bg/30 max-sm:to-bg/70" />
         <div className="mx-auto max-w-5xl px-4 py-14 sm:py-24">
-          <p className="inline-block rounded bg-accent px-2 py-1 text-xs font-black uppercase tracking-wider text-white">About fdfs.lk</p>
-          <h1 className="mt-4 max-w-3xl font-display text-6xl uppercase leading-[0.9] sm:text-8xl">First day,<br />first show,<br /><span className="text-accent">found fast.</span></h1>
+          <h1 className="max-w-3xl font-display text-6xl uppercase leading-[0.9] sm:text-8xl">First day,<br />first show,<br /><span className="text-accent">found fast.</span></h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink/90">fdfs.lk shows you which Sri Lankan cinemas are playing a movie and when, then takes you straight to the cinema&apos;s own booking page.</p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="/movies" className="inline-flex min-h-12 items-center rounded-full bg-link2 px-6 text-sm font-bold text-white hover:brightness-110">Browse movies</Link>
