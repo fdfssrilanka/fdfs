@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
-import { BarChart3, CalendarDays, Database, Heart, MapPin, Search, ShieldCheck, Ticket } from "lucide-react";
-import { getCities, getMovies, getNowShowing, getShowtimes, getTheatres } from "@/lib/data";
+import { BarChart3, ChevronDown, Heart, MapPin } from "lucide-react";
+import { getCinema, getCities, getFeatured, getNowShowing, getShowtimes, getTheatres, hasShowtimes } from "@/lib/data";
+import { CONTACT_EMAIL } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About fdfs.lk – Sri Lanka Movie Showtimes, How It Works & Privacy | fdfs.lk",
@@ -10,100 +12,135 @@ export const metadata: Metadata = {
 };
 
 const STEPS = [
-  { icon: Search, title: "Pick a movie", text: "Browse what's showing today, by language, or search for a movie or cinema." },
-  { icon: CalendarDays, title: "Choose a date and cinema", text: "See every cinema playing it, with showtimes by date and format, nearest first." },
-  { icon: Ticket, title: "Book on the cinema's site", text: "Tap a showtime and you land on the cinema's own booking page to choose seats and pay." },
+  { title: "Pick a movie", text: "Browse what's on today, filter by language, or search for a movie or cinema." },
+  { title: "Choose a date and a cinema", text: "Every cinema playing it, with showtimes by date and format, nearest first." },
+  { title: "Book on the cinema's site", text: "Tap a showtime to open the cinema's own booking page, where you choose seats and pay." },
+];
+
+const FAQ = [
+  { q: "Do you sell tickets?", a: "No. fdfs.lk lists showtimes and sends you to the cinema's own site to book. Payment, refunds and tickets are handled by the cinema." },
+  { q: "How up to date are the showtimes?", a: "They're read from the cinemas' websites each time we refresh our data, and cinemas can change or cancel shows. The cinema's page is always the final word, so check it before you travel." },
+  { q: "Why does a cinema say to call?", a: "It's listed from the National Film Corporation's cinema directory and doesn't publish showtimes online that we can read. We show its address and phone number instead of guessing." },
+  { q: "Why don't I see ticket prices?", a: "Cinemas don't publish prices in a form we can read, so we don't show any. The price appears on the cinema's booking page." },
+  { q: "A cinema or movie is missing.", a: CONTACT_EMAIL ? `We list cinemas that publish showtimes online or appear in public directories. Tell us what's missing at ${CONTACT_EMAIL}.` : "We list cinemas that publish showtimes online or appear in public directories, and add more as their sites allow." },
 ];
 
 const PRIVACY = [
-  { icon: MapPin, title: "Your location", text: "On your first visit we read your approximate location from your connection (through Cloudflare) to suggest a city. Tap Use my location for a precise match. It is used in your browser to pick a city and sort theatres, and is never stored on our servers." },
-  { icon: Heart, title: "Saved movies and theatres", text: "When you tap a heart, the choice is saved in this browser only. We never receive it." },
-  { icon: BarChart3, title: "Booking clicks", text: "When you tap a showtime or a booking button we count it: which movie, theatre and format, and your country. No cookies, no account, no personal details." },
+  { icon: MapPin, title: "Location", text: "Your approximate location picks a city on your first visit. It's used in your browser and never stored by us." },
+  { icon: Heart, title: "Saved items", text: "Hearts are saved in this browser only. We never receive them." },
+  { icon: BarChart3, title: "Booking clicks", text: "We count which showtimes get tapped, with your country. No cookies, no account, no personal details." },
 ];
 
 export default function About() {
+  const hero = getFeatured().find((m) => m.backdropUrl);
   const stats = [
     { n: getNowShowing().length, label: "movies now showing" },
     { n: getTheatres().length, label: "cinemas listed" },
     { n: getCities().length, label: "cities and districts" },
-    { n: getShowtimes().length, label: "showtimes today and ahead" },
+    { n: getShowtimes().length, label: "showtimes loaded" },
   ];
-  const total = getMovies().length;
+  // Cinemas whose showtimes we read live, with how many of their theatres have times today.
+  const live = new Map<string, { name: string; theatres: number }>();
+  for (const t of getTheatres()) {
+    if (!hasShowtimes(t.id)) continue;
+    const c = getCinema(t.cinemaId);
+    if (c) live.set(c.id, { name: c.name, theatres: (live.get(c.id)?.theatres ?? 0) + 1 });
+  }
+  const listedOnly = getTheatres().filter((t) => !hasShowtimes(t.id)).length;
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-10">
-      <header className="max-w-3xl">
-        <p className="text-xs font-bold uppercase tracking-wider text-accent">About</p>
-        <h1 className="mt-1 font-display text-5xl uppercase leading-none sm:text-7xl">First day, first show, found fast</h1>
-        <p className="mt-4 text-lg leading-relaxed text-ink/85">
-          fdfs.lk helps you find which Sri Lankan cinemas are playing a movie, and when. Pick a film, choose a date, and jump to the cinema&apos;s own booking page.
-        </p>
-        <div className="mt-6 flex flex-wrap gap-3">
-          <Link href="/movies" className="inline-flex min-h-12 items-center rounded-full bg-link2 px-6 text-sm font-bold text-white hover:brightness-110">Browse movies</Link>
-          <Link href="/theatres" className="inline-flex min-h-12 items-center rounded-full border border-white/40 px-6 text-sm font-bold hover:border-accent hover:text-accent">Find a cinema</Link>
-        </div>
-      </header>
-
-      <dl className="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-4">
-        {stats.map((s) => (
-          <div key={s.label} className="rounded-xl border border-line bg-surface p-4">
-            <dd className="font-display text-4xl leading-none text-accent">{s.n}</dd>
-            <dt className="mt-1 text-xs text-muted">{s.label}</dt>
-          </div>
-        ))}
-      </dl>
-
-      <section aria-labelledby="how" className="mt-14">
-        <h2 id="how" className="mb-4 text-base font-extrabold uppercase tracking-wide sm:text-lg">How it works</h2>
-        <ol className="grid gap-3 md:grid-cols-3">
-          {STEPS.map((s, i) => (
-            <li key={s.title} className="relative rounded-xl border border-line bg-surface p-5">
-              <span className="absolute right-4 top-3 font-display text-5xl leading-none text-white/10">{i + 1}</span>
-              <span className="flex size-11 items-center justify-center rounded-full bg-utility text-white"><s.icon className="size-5" aria-hidden /></span>
-              <h3 className="mt-4 font-bold">{s.title}</h3>
-              <p className="mt-1 text-sm leading-relaxed text-muted">{s.text}</p>
-            </li>
-          ))}
-        </ol>
-      </section>
-
-      <section aria-labelledby="data" className="mt-14">
-        <h2 id="data" className="mb-4 text-base font-extrabold uppercase tracking-wide sm:text-lg">Where the showtimes come from</h2>
-        <div className="grid gap-3 md:grid-cols-2">
-          <div className="rounded-xl border border-line bg-surface p-5">
-            <span className="flex size-11 items-center justify-center rounded-full bg-utility text-white"><Database className="size-5" aria-hidden /></span>
-            <h3 className="mt-4 font-bold">Read from the cinemas&apos; own websites</h3>
-            <p className="mt-1 text-sm leading-relaxed text-muted">Scope Cinemas, JP Cineplex, EAP and Savoy, and the STR theatres in Jaffna, Vavuniya and Batticaloa. {total} movies are tracked, and times refresh whenever we update. They can change, so check the cinema before you travel.</p>
-          </div>
-          <div className="rounded-xl border border-line bg-surface p-5">
-            <span className="flex size-11 items-center justify-center rounded-full bg-utility text-white"><ShieldCheck className="size-5" aria-hidden /></span>
-            <h3 className="mt-4 font-bold">Never guessed</h3>
-            <p className="mt-1 text-sm leading-relaxed text-muted">Where a cinema doesn&apos;t publish showtimes we can read, we show its address and phone number or link to its booking page. Cinemas listed from the National Film Corporation directory say so, and should be confirmed before you go. We don&apos;t sell tickets: booking and payment happen on the cinema&apos;s site.</p>
+    <div>
+      <section className="relative isolate overflow-hidden border-b border-line">
+        {hero && <Image src={hero.backdropUrl} alt="" fill priority sizes="100vw" className="-z-10 object-cover object-right opacity-60" />}
+        <div className="absolute inset-0 -z-10 bg-gradient-to-r from-bg via-bg/85 to-bg/30 max-sm:to-bg/70" />
+        <div className="mx-auto max-w-5xl px-4 py-14 sm:py-24">
+          <p className="inline-block rounded bg-accent px-2 py-1 text-xs font-black uppercase tracking-wider text-white">About fdfs.lk</p>
+          <h1 className="mt-4 max-w-3xl font-display text-6xl uppercase leading-[0.9] sm:text-8xl">First day,<br />first show,<br /><span className="text-accent">found fast.</span></h1>
+          <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink/90">fdfs.lk shows you which Sri Lankan cinemas are playing a movie and when, then takes you straight to the cinema&apos;s own booking page.</p>
+          <div className="mt-8 flex flex-wrap gap-3">
+            <Link href="/movies" className="inline-flex min-h-12 items-center rounded-full bg-link2 px-6 text-sm font-bold text-white hover:brightness-110">Browse movies</Link>
+            <Link href="/theatres" className="inline-flex min-h-12 items-center rounded-full border border-white/40 px-6 text-sm font-bold hover:border-accent hover:text-accent">Find a cinema</Link>
           </div>
         </div>
       </section>
 
-      <section aria-labelledby="privacy" className="mt-14">
-        <h2 id="privacy" className="mb-4 text-base font-extrabold uppercase tracking-wide sm:text-lg">Your privacy</h2>
-        <div className="grid gap-3 md:grid-cols-3">
-          {PRIVACY.map((p) => (
-            <div key={p.title} className="rounded-xl border border-line bg-surface p-5">
-              <span className="flex size-11 items-center justify-center rounded-full bg-utility text-white"><p.icon className="size-5" aria-hidden /></span>
-              <h3 className="mt-4 font-bold">{p.title}</h3>
-              <p className="mt-1 text-sm leading-relaxed text-muted">{p.text}</p>
+      <div className="mx-auto max-w-5xl px-4">
+        <dl className="-mt-px grid grid-cols-2 divide-line border-b border-line sm:grid-cols-4 sm:divide-x">
+          {stats.map((s, i) => (
+            <div key={s.label} className={`px-4 py-6 ${i % 2 === 1 ? "max-sm:border-l max-sm:border-line" : ""} ${i > 1 ? "max-sm:border-t max-sm:border-line" : ""}`}>
+              <dd className="font-display text-5xl leading-none text-accent">{s.n}</dd>
+              <dt className="mt-1 text-sm text-muted">{s.label}</dt>
             </div>
           ))}
-        </div>
-        <p className="mt-4 text-sm text-muted">
-          More detail: <Link href="/privacy" className="text-link underline underline-offset-2">privacy policy</Link>, <Link href="/cookies" className="text-link underline underline-offset-2">cookie policy</Link> and <Link href="/terms" className="text-link underline underline-offset-2">terms of use</Link>.
-        </p>
-        {process.env.NEXT_PUBLIC_ADSENSE_CLIENT && (
-          <p className="mt-4 text-sm leading-relaxed text-muted">
-            Ads on fdfs.lk are served by Google AdSense, which may use cookies to show relevant ads. See{" "}
-            <a href="https://policies.google.com/technologies/ads" className="text-link underline underline-offset-2">Google&apos;s advertising policy</a> for how to manage them.
+        </dl>
+
+        <section aria-labelledby="how" className="py-14">
+          <h2 id="how" className="font-display text-4xl uppercase sm:text-5xl">How it works</h2>
+          <ol className="mt-8 space-y-0">
+            {STEPS.map((s, i) => (
+              <li key={s.title} className="relative flex gap-5 pb-10 last:pb-0">
+                {i < STEPS.length - 1 && <span aria-hidden className="absolute left-[1.35rem] top-14 h-[calc(100%-3.5rem)] w-px bg-line" />}
+                <span className="flex size-11 shrink-0 items-center justify-center rounded-full bg-accent font-display text-2xl text-white">{i + 1}</span>
+                <div className="pt-1">
+                  <h3 className="text-lg font-bold">{s.title}</h3>
+                  <p className="mt-1 max-w-xl text-muted">{s.text}</p>
+                </div>
+              </li>
+            ))}
+          </ol>
+        </section>
+
+        <section aria-labelledby="sources" className="border-t border-line py-14">
+          <h2 id="sources" className="font-display text-4xl uppercase sm:text-5xl">Where the showtimes come from</h2>
+          <p className="mt-3 max-w-2xl text-muted">Read from each cinema&apos;s own website. We never guess a time.</p>
+          <h3 className="mt-8 flex items-center gap-2 text-sm font-bold uppercase tracking-wider"><span className="size-2 rounded-full bg-green" aria-hidden /> Live showtimes</h3>
+          <ul className="mt-3 flex flex-wrap gap-2">
+            {[...live.values()].map((c) => (
+              <li key={c.name} className="rounded-full border border-line bg-surface px-4 py-2 text-sm font-semibold">
+                {c.name} <span className="font-normal text-muted">· {c.theatres} {c.theatres === 1 ? "cinema" : "cinemas"}</span>
+              </li>
+            ))}
+          </ul>
+          <h3 className="mt-6 flex items-center gap-2 text-sm font-bold uppercase tracking-wider"><span className="size-2 rounded-full bg-muted" aria-hidden /> Listed, call to confirm</h3>
+          <p className="mt-2 max-w-2xl text-sm text-muted">{listedOnly} more cinemas appear in the National Film Corporation&apos;s directory and other public listings. They show an address and phone number, and should be confirmed before you go.</p>
+        </section>
+
+        <section aria-labelledby="faq" className="border-t border-line py-14">
+          <h2 id="faq" className="font-display text-4xl uppercase sm:text-5xl">Questions</h2>
+          <div className="mt-6 divide-y divide-line border-y border-line">
+            {FAQ.map((f) => (
+              <details key={f.q} className="group py-1">
+                <summary className="flex min-h-14 cursor-pointer list-none items-center justify-between gap-4 font-bold [&::-webkit-details-marker]:hidden">
+                  {f.q}
+                  <ChevronDown className="size-5 shrink-0 text-muted transition-transform group-open:rotate-180" aria-hidden />
+                </summary>
+                <p className="max-w-2xl pb-4 text-muted">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        <section aria-labelledby="privacy" className="border-t border-line py-14">
+          <h2 id="privacy" className="font-display text-4xl uppercase sm:text-5xl">Your privacy</h2>
+          <div className="mt-8 grid gap-6 md:grid-cols-3">
+            {PRIVACY.map((p) => (
+              <div key={p.title}>
+                <p.icon className="size-7 text-accent" aria-hidden strokeWidth={1.75} />
+                <h3 className="mt-3 font-bold">{p.title}</h3>
+                <p className="mt-1 text-sm leading-relaxed text-muted">{p.text}</p>
+              </div>
+            ))}
+          </div>
+          <p className="mt-8 text-sm text-muted">
+            Read the full <Link href="/privacy" className="text-link underline underline-offset-2">privacy policy</Link>, <Link href="/cookies" className="text-link underline underline-offset-2">cookie policy</Link> and <Link href="/terms" className="text-link underline underline-offset-2">terms of use</Link>.
           </p>
-        )}
-      </section>
+          {process.env.NEXT_PUBLIC_ADSENSE_CLIENT && (
+            <p className="mt-3 text-sm text-muted">
+              Ads are served by Google AdSense, which may use cookies. See <a href="https://policies.google.com/technologies/ads" className="text-link underline underline-offset-2">Google&apos;s advertising policy</a>.
+            </p>
+          )}
+        </section>
+      </div>
     </div>
   );
 }
