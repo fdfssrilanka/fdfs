@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+:root {
+  --outer: #1e1e1e;
+  --bg: #121212;
+  --surface: #1e1e1e;
+  --surface-2: #2a2a2a;
+  --line: #2a2a2a;
+  --text: #f2f3f3;
+  --muted: #949494;
+  --soft: #cccccc;
+  --nav: #000000;
+  --accent: #ef7622;
+  --accent-ink: #121212;
+  --showtime: #e36600;
+  --warm: #fef7f1;
+  --link: #4691e3;
+  --link-2: #3478c1;
+  --utility: #285b93;
+  --purple: #9c4eb0;
+  --green: #32ae88;
+}
+
+@theme inline {
+  --color-outer: var(--outer);
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-ink: var(--text);
+  --color-muted: var(--muted);
+  --color-soft: var(--soft);
+  --color-nav: var(--nav);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-showtime: var(--showtime);
+  --color-warm: var(--warm);
+  --color-link: var(--link);
+  --color-link2: var(--link-2);
+  --color-utility: var(--utility);
+  --color-purple: var(--purple);
+  --color-green: var(--green);
+  --font-sans: var(--font-figtree), Helvetica, Arial, sans-serif;
+  --font-display: var(--font-league), Impact, "Arial Narrow", sans-serif;
+}
+
+html {
+  color-scheme: dark;
+  scroll-padding-top: 8rem;
+}
+
+body {
+  background: var(--outer);
+  color: var(--text);
+  font-family: var(--font-sans);
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* League Gothic ships one weight; keep browsers from faking bold on condensed headlines. */
+.font-display {
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+/* Skip rendering (and loading images in) sections far below the fold until they scroll near. */
+.cv-auto { content-visibility: auto; contain-intrinsic-size: auto 520px; }
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+
+@keyframes shimmer { 100% { transform: translateX(100%); } }
+.skeleton { position: relative; overflow: hidden; background: var(--surface); }
+.skeleton::after {
+  content: ""; position: absolute; inset: 0; transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,.06), transparent);
+  animation: shimmer 1.4s infinite;
+}
+@media (prefers-reduced-motion: reduce) { .skeleton::after { animation: none; } }

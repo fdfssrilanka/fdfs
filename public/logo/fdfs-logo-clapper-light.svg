@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -4 272 72" role="img" aria-label="fdfs.lk">
+<g transform="translate(0 10)">
+  <g>
+    <rect x="0" y="18" width="56" height="34" rx="6" fill="#ef7622"/>
+    <path d="M22 26 40 35 22 44Z" fill="#ffffff" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
+    <g transform="rotate(-14 4 18)">
+      <rect x="0" y="4" width="56" height="12" rx="3" fill="#121212"/>
+      <path d="M10 4 18 4 12 16 4 16Z M26 4 34 4 28 16 20 16Z M42 4 50 4 44 16 36 16Z" fill="#ffffff"/>
+    </g>
+    <rect x="0" y="18" width="56" height="3" fill="#121212" opacity="0"/>
+  </g></g>
+<g transform="translate(70 8)">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
+    <g stroke="#121212">
+      <path d="M13 48V21Q13 9 25 9H29"/><path d="M4 28H24"/>
+      <circle cx="51" cy="36" r="11.5"/><path d="M62.5 8V48"/>
+      <path d="M85 48V21Q85 9 97 9H101"/><path d="M76 28H96"/>
+      <path d="M124 29Q121 24 113 24Q104 24 104 31Q104 36 113 37Q123 38 123 43.5Q123 48 114 48Q106 48 102 44"/>
+    </g>
+    <g stroke="#ef7622">
+      <circle cx="138" cy="45.5" r="2.6" fill="#ef7622" stroke-width="3"/>
+      <path d="M152 8V48"/><path d="M168 8V48"/><path d="M184 24 168 38"/><path d="M172.5 34 185 48"/>
+    </g>
+  </g></g>
+</svg>

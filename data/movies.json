@@ -1,0 +1,815 @@
+[
+  {
+    "id": "scope-street-fighter",
+    "slug": "street-fighter",
+    "title": "Street Fighter",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "runtimeMin": 119,
+    "certificate": "",
+    "releaseDate": "2026-10-16",
+    "status": "now_showing",
+    "featured": true,
+    "synopsis": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction.",
+    "cast": [
+      "Callina Liang",
+      "Noah Centineo"
+    ],
+    "director": "Kitao Sakurai",
+    "posterUrl": "/images/posters/street-fighter.webp",
+    "backdropUrl": "/images/backdrops/street-fighter.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=Xt4X4FvXk2A"
+  },
+  {
+    "id": "scope-jailer-2-imax-tamil",
+    "slug": "jailer-2-imax-tamil",
+    "title": "Jailer 2 - IMAX",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "runtimeMin": 166,
+    "certificate": "",
+    "releaseDate": "2026-10-15",
+    "status": "now_showing",
+    "featured": true,
+    "synopsis": "A retired officer's peaceful life is disrupted when a dangerous criminal organization threatens his family. He must use his skills one final time to protect his loved ones and preserve his legacy.",
+    "cast": [
+      "Rajinikanth"
+    ],
+    "director": "Nelson Dilipkumar",
+    "posterUrl": "/images/posters/jailer-2-imax-tamil.webp",
+    "backdropUrl": "/images/backdrops/jailer-2-imax-tamil.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=FW_PPcr1sPE"
+  },
+  {
+    "id": "scope-jailer-2-tamil",
+    "slug": "jailer-2-tamil",
+    "title": "Jailer 2",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "runtimeMin": 175,
+    "certificate": "U/A",
+    "releaseDate": "2026-10-15",
+    "status": "now_showing",
+    "featured": true,
+    "synopsis": "A retired officer's peaceful life is disrupted when a dangerous criminal organization threatens his family. He must use his skills one final time to protect his loved ones and preserve his legacy.",
+    "cast": [
+      "Rajinikanth"
+    ],
+    "director": "Nelson Dilipkumar",
+    "posterUrl": "/images/posters/jailer-2-tamil.webp",
+    "backdropUrl": "/images/backdrops/jailer-2-tamil.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=FW_PPcr1sPE"
+  },
+  {
+    "id": "scope-teardrop-nation-foundations-of-conflict-ep-1",
+    "slug": "teardrop-nation-foundations-of-conflict-ep-1",
+    "title": "Teardrop Nation - Foundations Of Conflict  ( EP–1 )",
+    "language": "English",
+    "genres": [
+      "Documentary"
+    ],
+    "runtimeMin": 75,
+    "certificate": "",
+    "releaseDate": "2026-10-15",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "The Seeds We Sow Discover how three decades of class, caste, and institutional discrimination following independence fractured Sri Lankan society and ignited parallel youth revolutionary movements across the island.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/teardrop-nation-foundations-of-conflict-ep-1.webp",
+    "backdropUrl": "/images/backdrops/teardrop-nation-foundations-of-conflict-ep-1.webp",
+    "trailerUrl": ""
+  },
+  {
+    "id": "scope-heart-of-the-beast",
+    "slug": "heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Drama"
+    ],
+    "runtimeMin": 101,
+    "certificate": "",
+    "releaseDate": "2026-09-25",
+    "status": "now_showing",
+    "featured": true,
+    "synopsis": "After a harrowing plane crash, a Special Forces officer and his combat dog find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "cast": [
+      "Brad Pitt",
+      "J.K. Simmons"
+    ],
+    "director": "David Ayer",
+    "posterUrl": "/images/posters/heart-of-the-beast.webp",
+    "backdropUrl": "/images/backdrops/heart-of-the-beast.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=JFQcDFhNh4o"
+  },
+  {
+    "id": "scope-teardrop-nation-the-trigger-ep-2",
+    "slug": "teardrop-nation-the-trigger-ep-2",
+    "title": "Teardrop Nation - The Trigger  ( EP-2 )",
+    "language": "English",
+    "genres": [
+      "Documentary"
+    ],
+    "runtimeMin": 84,
+    "certificate": "",
+    "releaseDate": "2026-10-15",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "The Trigger Explore the volatile political flashpoints, rising authoritarianism, and deadly consolidation of power that ultimately triggered the devastating First Eelam War.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/teardrop-nation-the-trigger-ep-2.webp",
+    "backdropUrl": "/images/backdrops/teardrop-nation-the-trigger-ep-2.webp",
+    "trailerUrl": ""
+  },
+  {
+    "id": "scope-avengers-endgame-encore-2026",
+    "slug": "avengers-endgame-encore-2026",
+    "title": "Avengers Endgame- Encore",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "runtimeMin": 183,
+    "certificate": "",
+    "releaseDate": "2026-09-25",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}",
+    "cast": [
+      "Robert Downey Jr",
+      "Chris Evans"
+    ],
+    "director": "Anthony and Joe Russo",
+    "posterUrl": "/images/posters/avengers-endgame-encore-2026.webp",
+    "backdropUrl": "",
+    "trailerUrl": "https://www.youtube.com/watch?v=-4_1a6JmqfQ"
+  },
+  {
+    "id": "scope-teardrop-nation-battle-for-peace-ep-3",
+    "slug": "teardrop-nation-battle-for-peace-ep-3",
+    "title": "Teardrop Nation - Battle For Peace (EP–3)",
+    "language": "English",
+    "genres": [
+      "Documentary"
+    ],
+    "runtimeMin": 66,
+    "certificate": "",
+    "releaseDate": "2026-10-16",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "A Battle for Peace Experience one of the nation's bloodiest eras as the state battles dual insurgencies amidst failed international peace accords, mass disappearances, and a hidden toll on the Muslim community.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/teardrop-nation-battle-for-peace-ep-3.webp",
+    "backdropUrl": "/images/backdrops/teardrop-nation-battle-for-peace-ep-3.webp",
+    "trailerUrl": ""
+  },
+  {
+    "id": "scope-eda-re-sinhala",
+    "slug": "eda-re-sinhala",
+    "title": "Eda Re - එදා රෑ",
+    "language": "Sinhala",
+    "genres": [
+      "Drama"
+    ],
+    "runtimeMin": 140,
+    "certificate": "",
+    "releaseDate": "2026-09-18",
+    "status": "now_showing",
+    "featured": true,
+    "synopsis": "Eda Raa (One Voice, Million Hearts) is a highly anticipated 2026 Sri Lankan Sinhala biographical drama film that chronicles the life, true-to-life struggles, and enduring musical legacy of the legendary vocalist Milton Mallawarachchi.",
+    "cast": [
+      "Roshan Ravindra",
+      "Nethmi Roshel Rogers",
+      "Senali Fonseka",
+      "Sheshadrie Priyasad"
+    ],
+    "director": "Aruna Jayawardane",
+    "posterUrl": "/images/posters/eda-re-sinhala.webp",
+    "backdropUrl": "/images/backdrops/eda-re-sinhala.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=u-GLAoXCnp4"
+  },
+  {
+    "id": "scope-adaraneeya-tharuwak-sinhala",
+    "slug": "adaraneeya-tharuwak-sinhala",
+    "title": "Adaraneeya Tharuwak - ආදරණීය තරුවක්",
+    "language": "Sinhala",
+    "genres": [
+      "Drama"
+    ],
+    "runtimeMin": 120,
+    "certificate": "U/A",
+    "releaseDate": "2026-08-06",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "“Follows a male singer's emotional journey to fame, which intertwines with a powerful story of love, loss, and a special promise to a woman he can never forget.”",
+    "cast": [
+      "Saranga Disasekara",
+      "Shanudrie Priyasad",
+      "Sangeetha Weeraratne"
+    ],
+    "director": "Dilshan Amarasinghe",
+    "posterUrl": "/images/posters/adaraneeya-tharuwak-sinhala.webp",
+    "backdropUrl": "/images/backdrops/adaraneeya-tharuwak-sinhala.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=s9kep4mLfj0"
+  },
+  {
+    "id": "scope-resident-evil",
+    "slug": "resident-evil",
+    "title": "Resident Evil",
+    "language": "English",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "runtimeMin": 90,
+    "certificate": "",
+    "releaseDate": "2026-09-18",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+    "cast": [
+      "Austin Abrams"
+    ],
+    "director": "Zach Cregger",
+    "posterUrl": "/images/posters/resident-evil.webp",
+    "backdropUrl": "",
+    "trailerUrl": "https://www.youtube.com/watch?v=mNd1gb19A-c"
+  },
+  {
+    "id": "scope-linkin-park-unshatter",
+    "slug": "linkin-park-unshatter",
+    "title": "Linkin Park: Unshatter",
+    "language": "English",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "runtimeMin": 110,
+    "certificate": "",
+    "releaseDate": "2026-10-09",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "After seven years, Linkin Park's surviving members reunite with two new bandmates to forge a path forward following Chester Bennington's death. Through studio sessions, performances, and interviews, a journey of healing and reinvention.",
+    "cast": [
+      "Emily Armstrong",
+      "Chester Bennington",
+      "Rob Bourdon"
+    ],
+    "director": "Joseph Hahn, Mark Ritchie",
+    "posterUrl": "/images/posters/linkin-park-unshatter.webp",
+    "backdropUrl": "/images/backdrops/linkin-park-unshatter.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=K9Lpxc7bVTM"
+  },
+  {
+    "id": "scope-cricket-sadu-sinhala",
+    "slug": "cricket-sadu-sinhala",
+    "title": "Cricket Sadu - ක්‍රිකට් සාදු",
+    "language": "Sinhala",
+    "genres": [
+      "Drama"
+    ],
+    "runtimeMin": 115,
+    "certificate": "",
+    "releaseDate": "2026-08-28",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": ". It follows a gifted boy named Nuwan and a compassionate young monk as they navigate childhood, faith, and the social pressures of sport.",
+    "cast": [
+      "Priyantha Sirikumara"
+    ],
+    "director": "Dilshara Jayamanna",
+    "posterUrl": "/images/posters/cricket-sadu-sinhala.webp",
+    "backdropUrl": "/images/backdrops/cricket-sadu-sinhala.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=MK6F9i43SEI"
+  },
+  {
+    "id": "scope-ahasa-tharam-sinhala",
+    "slug": "ahasa-tharam-sinhala",
+    "title": "Ahasa Tharam - අහස තරම්",
+    "language": "Sinhala",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtimeMin": 110,
+    "certificate": "",
+    "releaseDate": "2026-10-02",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Set against the vibrant backdrop of Colombo, the story weaves together the lives of two young individuals from entirely different worlds who are chasing separate dreams",
+    "cast": [
+      "Rashiprabha Sandeepani",
+      "Ridma Weerawardena"
+    ],
+    "director": "Prasadi Abeygunarathne",
+    "posterUrl": "/images/posters/ahasa-tharam-sinhala.webp",
+    "backdropUrl": "/images/backdrops/ahasa-tharam-sinhala.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=6KuZhZN2BOU"
+  },
+  {
+    "id": "scope-baththa-tamil",
+    "slug": "baththa-tamil",
+    "title": "Baththa",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "runtimeMin": 157,
+    "certificate": "",
+    "releaseDate": "2026-10-02",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
+    "cast": [
+      "Vijay Sethupathi"
+    ],
+    "director": "Balaji Tharaneetharan",
+    "posterUrl": "/images/posters/baththa-tamil.webp",
+    "backdropUrl": "/images/backdrops/baththa-tamil.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=CFroXKVQtuw"
+  },
+  {
+    "id": "scope-digger-2026",
+    "slug": "digger-2026",
+    "title": "Digger",
+    "language": "English",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Satire"
+    ],
+    "runtimeMin": 128,
+    "certificate": "",
+    "releaseDate": "2026-10-09",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "cast": [
+      "Tom Cruise"
+    ],
+    "director": "Alejandro G. Iñárritu",
+    "posterUrl": "/images/posters/digger-2026.webp",
+    "backdropUrl": "/images/backdrops/digger-2026.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=qORTe1wW3Wg"
+  },
+  {
+    "id": "scope-clayface-2026",
+    "slug": "clayface-2026",
+    "title": "Clayface",
+    "language": "English",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "runtimeMin": 110,
+    "certificate": "",
+    "releaseDate": "2026-10-23",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity.",
+    "cast": [
+      "Eddie Marsan",
+      "Naomi Ackie"
+    ],
+    "director": "James Watkins",
+    "posterUrl": "/images/posters/clayface-2026.webp",
+    "backdropUrl": "/images/backdrops/clayface-2026.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=OGO4Mqvo3jI"
+  },
+  {
+    "id": "scope-hansa-vilak-1980",
+    "slug": "hansa-vilak-1980",
+    "title": "Hansa Vilak - හංස විලක් (1980)",
+    "language": "Sinhala",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtimeMin": 110,
+    "certificate": "",
+    "releaseDate": "2026-10-29",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "A married man (Nissanka) and woman (Miranda) find their lives disrupted after their affair is exposed by the police. Leaving their respective families, the two decide to live together. Shortly afterwards, Miranda secretly goes back to see her former husband. As paranoia mounts, Nissanka disintegrates psychologically to point where reality and fantasy are blurred.",
+    "cast": [
+      "Swarna Mallawarachchi",
+      "Dharmasiri Bandaranayake"
+    ],
+    "director": "Dharmasiri Bandaranayake",
+    "posterUrl": "/images/posters/hansa-vilak-1980.webp",
+    "backdropUrl": "/images/backdrops/hansa-vilak-1980.webp",
+    "trailerUrl": ""
+  },
+  {
+    "id": "scope-jumanji-open-world",
+    "slug": "jumanji-open-world",
+    "title": "Jumanji: Open World",
+    "language": "English",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "2026-12-25",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "The players have escaped the ever-changing jungles of Jumanji, but this time the game breaks free of its console, unleashing chaos into our world.",
+    "cast": [
+      "Karen Gillan",
+      "Dwayne Johnson"
+    ],
+    "director": "Jake Kasdan",
+    "posterUrl": "/images/posters/jumanji-open-world.webp",
+    "backdropUrl": "/images/backdrops/jumanji-open-world.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=zhApeaHMvfs"
+  },
+  {
+    "id": "scope-avengers-doomsday",
+    "slug": "avengers-doomsday",
+    "title": "Avengers: Doomsday",
+    "language": "English",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "2026-12-18",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "Heroes from three different worlds must unite when they're thrust together to confront a catastrophic danger that could destroy everything they know.",
+    "cast": [
+      "Robert Downey Jr.",
+      "Pedro Pascal"
+    ],
+    "director": "Anthony Russo, Anthony and Joe Russo",
+    "posterUrl": "/images/posters/avengers-doomsday.webp",
+    "backdropUrl": "/images/backdrops/avengers-doomsday.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=irVNGjRFZGk"
+  },
+  {
+    "id": "scope-dune-part-three",
+    "slug": "dune-part-three",
+    "title": "Dune: Part Three",
+    "language": "English",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "2026-12-18",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
+    "cast": [
+      "Florence Pugh"
+    ],
+    "director": "Denis Villeneuve",
+    "posterUrl": "/images/posters/dune-part-three.webp",
+    "backdropUrl": "/images/backdrops/dune-part-three.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=NdvqHc56lE0"
+  },
+  {
+    "id": "scope-spying-stars-sinhala",
+    "slug": "spying-stars-sinhala",
+    "title": "Spying Stars - ඔත්තු බලන තරු",
+    "language": "Sinhala",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "Back in Sri Lanka after years in space, Anandi is quarantined during a viral outbreak. Strange events push her to flee to a village, where she confronts the loss of her father.",
+    "cast": [
+      "Indira Tiwari"
+    ],
+    "director": "Vimukthi Jayasundara",
+    "posterUrl": "/images/posters/spying-stars-sinhala.webp",
+    "backdropUrl": "/images/backdrops/spying-stars-sinhala.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=oMDj9UWpun8"
+  },
+  {
+    "id": "scope-king-hindi",
+    "slug": "king-hindi",
+    "title": "King",
+    "language": "Hindi",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "2026-12-25",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "a deadly underworld assassin who acts as a mentor to a young woman—played by Shah Rukh Khan and his real-life daughter Suhana Khan—as they embark on a perilous, high-stakes journey of survival and revenge",
+    "cast": [
+      "Shah Rukh Khan",
+      "Deepika Padukone"
+    ],
+    "director": "Siddharth Anand",
+    "posterUrl": "/images/posters/king-hindi.webp",
+    "backdropUrl": "/images/backdrops/king-hindi.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=Uu2QK9Z9X5E"
+  },
+  {
+    "id": "scope-the-hunger-games-sunrise-on-the-reaping",
+    "slug": "the-hunger-games-sunrise-on-the-reaping",
+    "title": "The Hunger Games: Sunrise On The Reaping",
+    "language": "English",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "2026-11-20",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}",
+    "cast": [
+      "Jennifer Lawrence",
+      "Mckenna Grace"
+    ],
+    "director": "Francis Lawrence",
+    "posterUrl": "/images/posters/the-hunger-games-sunrise-on-the-reaping.webp",
+    "backdropUrl": "/images/backdrops/the-hunger-games-sunrise-on-the-reaping.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=CINFIAohu4U"
+  },
+  {
+    "id": "scope-focker-in-law",
+    "slug": "focker-in-law",
+    "title": "Focker-In-Law",
+    "language": "English",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "2026-11-27",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "A young man named Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+    "cast": [
+      "Skyler Gisondo",
+      "Robert De Niro"
+    ],
+    "director": "John Hamburg",
+    "posterUrl": "/images/posters/focker-in-law.webp",
+    "backdropUrl": "/images/backdrops/focker-in-law.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=vyISuWUWcFs"
+  },
+  {
+    "id": "scope-ebenezer",
+    "slug": "ebenezer",
+    "title": "Ebenezer",
+    "language": "English",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "2026-11-20",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
+    "cast": [
+      "Johnny Depp"
+    ],
+    "director": "Ti West",
+    "posterUrl": "/images/posters/ebenezer.webp",
+    "backdropUrl": "/images/backdrops/ebenezer.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=l_Ozo1xUgbU"
+  },
+  {
+    "id": "scope-ekageyi-sokari-sinhala",
+    "slug": "ekageyi-sokari-sinhala",
+    "title": "Ekageyi Sokari - එක ගෙයි සොකරි",
+    "language": "Sinhala",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "The story dated back to 1930s prior to Soulbury constitutional reforms. In a rural hilly village called Akiriyankumbura in Wellassa, a beautiful girl, Sedera Menike is protected by her two brothers Dingira and Dungura.",
+    "cast": [
+      "Akila Anthony",
+      "Sajitha Anuththara",
+      "Warnakulasooriya Udari"
+    ],
+    "director": "Jackson Anthony",
+    "posterUrl": "/images/posters/ekageyi-sokari-sinhala.webp",
+    "backdropUrl": "/images/backdrops/ekageyi-sokari-sinhala.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=fX3FsMZ7Vdg"
+  },
+  {
+    "id": "scope-ramayana-hindi",
+    "slug": "ramayana-hindi",
+    "title": "Ramayana",
+    "language": "Hindi",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "2026-11-06",
+    "status": "coming_soon",
+    "featured": false,
+    "synopsis": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "cast": [
+      "Ranbir Kapoor",
+      "Yash"
+    ],
+    "director": "Nitesh Tiwari",
+    "posterUrl": "/images/posters/ramayana-hindi.webp",
+    "backdropUrl": "",
+    "trailerUrl": "https://www.youtube.com/watch?v=1zip1rNaNYs"
+  },
+  {
+    "id": "jp-tom-jerry-forbidden-compass",
+    "slug": "tom-jerry-forbidden-compass",
+    "title": "Tom & Jerry: Forbidden Compass",
+    "language": "English",
+    "genres": [],
+    "runtimeMin": 100,
+    "certificate": "",
+    "releaseDate": "2026-10-23",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "During a chase in a museum, Tom and Jerry accidentally activate a magical compass that transports them to another world.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/tom-jerry-forbidden-compass.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "jp-spider-man-brand-new-day",
+    "slug": "spider-man-brand-new-day",
+    "title": "Spider-Man: Brand New Day - 3D",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Fantasy",
+      "Adventure",
+      "Superhero"
+    ],
+    "runtimeMin": 141,
+    "certificate": "PG",
+    "releaseDate": "2026-08-08",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "cast": [],
+    "director": "Destin Daniel Cretton",
+    "posterUrl": "/images/posters/spider-man-brand-new-day.webp",
+    "backdropUrl": "",
+    "trailerUrl": "https://www.youtube.com/watch?v=8TZMtslA3UY"
+  },
+  {
+    "id": "eap-2002",
+    "slug": "man-hoyanne-premayak-sinhala-eap",
+    "title": "Man Hoyanne Premayak",
+    "language": "Sinhala",
+    "genres": [],
+    "runtimeMin": 120,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Man Hoyanne Premayak\" follows the lives of young individuals navigating complex emotional hurdles, societal expectations, and past heartbreaks in their search for authentic connection and modern romance.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/man-hoyanne-premayak-sinhala-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2011",
+    "slug": "mandaadi-tamil-eap",
+    "title": "Mandaadi",
+    "language": "Tamil",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/mandaadi-tamil-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2012",
+    "slug": "sardar-2-tamil-eap",
+    "title": "Sardar 2",
+    "language": "Tamil",
+    "genres": [],
+    "runtimeMin": 150,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Follows spy Sardar's origin story in flashback while his son Inspector Vijay confronts a villain known as Black Dagger in the present day.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/sardar-2-tamil-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2015",
+    "slug": "the-paradise-tamil-eap",
+    "title": "The Paradise",
+    "language": "Tamil",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/the-paradise-tamil-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2020",
+    "slug": "meesaya-murukku-2-tamil-eap",
+    "title": "Meesaya Murukku 2",
+    "language": "Tamil",
+    "genres": [],
+    "runtimeMin": 138,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "The continuation of Hiphop Tamizha Adhi's semi-biopic Meesaya Murukku (2017), which consists of the journey of starting his own band called \"Hip-Hop Tamizha.\"",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/meesaya-murukku-2-tamil-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2024",
+    "slug": "dorathy-eap",
+    "title": "Dorathy",
+    "language": "",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "",
+    "cast": [],
+    "director": "",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2025",
+    "slug": "paradise-eap",
+    "title": "Paradise",
+    "language": "",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "",
+    "cast": [],
+    "director": "",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2029",
+    "slug": "sigma-tamil-eap",
+    "title": "Sigma",
+    "language": "Tamil",
+    "genres": [],
+    "runtimeMin": 145,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "A rogue treasure hunter breaks every rule in pursuit of the ultimate score, navigating deadly traps and double-crosses with wit and audacity in this adrenaline-fueled adventure.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/sigma-tamil-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  }
+]

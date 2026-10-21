@@ -1,0 +1,2371 @@
+[
+  {
+    "id": "scope-ccc",
+    "cinemaId": "scope",
+    "slug": "scope-cinemas-colombo-city-centre",
+    "name": "Scope Cinemas Multiplex - Colombo City Centre",
+    "city": "Colombo",
+    "address": "137, Sir James Pieris Mawatha, Colombo 2",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Scope%20Cinemas%20Colombo%20City%20Centre%2C%20Colombo%202",
+    "formats": [
+      "2D",
+      "3D",
+      "Gold Class",
+      "Dolby Atmos"
+    ],
+    "experiences": [
+      "Gold Class",
+      "Dolby Atmos",
+      "4K",
+      "3D",
+      "2D"
+    ],
+    "phone": "+94112083065",
+    "details": "6 screens · A/C · 4K digital"
+  },
+  {
+    "id": "scope-hcm",
+    "cinemaId": "scope",
+    "slug": "scope-cinemas-havelock-city-mall",
+    "name": "Scope Cinemas Multiplex - Havelock City Mall",
+    "city": "Colombo",
+    "address": "Havelock City Mall, 324 Havelock Road, Colombo 5",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Scope%20Cinemas%20Havelock%20City%20Mall%2C%20Colombo%205",
+    "formats": [
+      "2D",
+      "IMAX",
+      "Dolby Atmos"
+    ],
+    "experiences": [
+      "IMAX",
+      "Director's Lounge",
+      "Dolby Atmos",
+      "4K",
+      "Laser",
+      "3D",
+      "2D"
+    ],
+    "phone": "+94112590814",
+    "details": "6 screens · A/C · IMAX"
+  },
+  {
+    "id": "scope-colpetty",
+    "cinemaId": "scope",
+    "slug": "scope-cinemas-colpetty",
+    "name": "Liberty by Scope Cinemas - Colpetty",
+    "city": "Colombo",
+    "address": "No. 35, Srimath Anagarika Dharmapala Mawatha, Colombo 3",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberty%20by%20Scope%20Cinemas%2C%20Colpetty%2C%20Colombo%203",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "experiences": [
+      "3D",
+      "2D"
+    ],
+    "phone": "+94112325266",
+    "details": "2 screens · A/C · 2K digital"
+  },
+  {
+    "id": "scope-kiribathgoda",
+    "cinemaId": "scope",
+    "slug": "liberty-by-scope-cinemas-kiribathgoda",
+    "name": "Liberty By Scope Cinemas - Kiribathgoda",
+    "city": "Kiribathgoda",
+    "address": "No. 94, Makola Road, Kiribathgoda",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberty%20by%20Scope%20Cinemas%2C%20Kiribathgoda",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "experiences": [
+      "Balcony Seating",
+      "3D",
+      "2D"
+    ],
+    "phone": "+94112269005",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-savoy-metro-maharagama",
+    "cinemaId": "eap",
+    "slug": "savoy-metro-maharagama-maharagama",
+    "name": "Savoy Metro Maharagama",
+    "city": "Maharagama",
+    "address": "No. 38, Dehiwala Road, Maharagama",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Metro%20Maharagama%20Maharagama%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94117021443",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-savoy-metro-gampaha",
+    "cinemaId": "eap",
+    "slug": "savoy-metro-gampaha-gampaha",
+    "name": "Savoy Metro Gampaha",
+    "city": "Gampaha",
+    "address": "7th floor - wardcity shopping complex",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Metro%20Gampaha%20Gampaha%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94117024047",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-savoy-premier-rajagiriya",
+    "cinemaId": "eap",
+    "slug": "savoy-premier-rajagiriya-rajagiriya",
+    "name": "Savoy Premier Rajagiriya",
+    "city": "Rajagiriya",
+    "address": "Jana Jaya City Super Market Complex",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Premier%20Rajagiriya%20Rajagiriya%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94114341782",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-savoy-premiere-roxy-cinema",
+    "cinemaId": "eap",
+    "slug": "savoy-premiere-roxy-cinema-wellawatte",
+    "name": "Savoy Premiere (Roxy Cinema)",
+    "city": "Wellawatte",
+    "address": "No 472, Roxy Cinema, Wellawatta, Colombo 06",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Premiere%20(Roxy%20Cinema)%20Wellawatte%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94117446223",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-regal",
+    "cinemaId": "eap",
+    "slug": "regal-ambalangoda",
+    "name": "Regal",
+    "city": "Ambalangoda",
+    "address": "Arthur De Silva Mw, Ambalangoda",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Ambalangoda%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94917214512",
+    "details": "1 screen · Non A/C · digital (E-Cinema)"
+  },
+  {
+    "id": "eap-samantha-2d",
+    "cinemaId": "eap",
+    "slug": "samantha-2d-dematagoda",
+    "name": "Samantha 2D",
+    "city": "Dematagoda",
+    "address": "679, Base Line Road, Dematagoda",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samantha%202D%20Dematagoda%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94117432429",
+    "details": "1 screen · A/C · digital (E-Cinema)"
+  },
+  {
+    "id": "eap-sinexpo-3d",
+    "cinemaId": "eap",
+    "slug": "sinexpo-3d-kurunegala",
+    "name": "Sinexpo 3D",
+    "city": "Kurunegala",
+    "address": "No 18, South Circular Rd, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinexpo%203D%20Kurunegala%20Sri%20Lanka",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "experiences": [
+      "3D"
+    ],
+    "phone": "+94377214542",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-jothi",
+    "cinemaId": "eap",
+    "slug": "jothi-rathnapura",
+    "name": "Jothi",
+    "city": "Rathnapura",
+    "address": "203, Bandaranayaka Mawatha, Rathnapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jothi%20Rathnapura%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94457213751",
+    "details": "1 screen · Non A/C · digital (E-Cinema)"
+  },
+  {
+    "id": "eap-willmax",
+    "cinemaId": "eap",
+    "slug": "willmax-anuradhapura",
+    "name": "Willmax",
+    "city": "Anuradhapura",
+    "address": "No 5014/02 , Maithripala Senanayake Mawatha, Anuradhapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Willmax%20Anuradhapura%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94257429300",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-cinemax-3d",
+    "cinemaId": "eap",
+    "slug": "cinemax-3d-jaela",
+    "name": "Cinemax 3D",
+    "city": "Jaela",
+    "address": "No 165, Reality Plaza, Colombo Road, Ja-ela",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinemax%203D%20Jaela%20Sri%20Lanka",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "experiences": [
+      "3D"
+    ],
+    "phone": "+94117549650",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-concord",
+    "cinemaId": "eap",
+    "slug": "concord-dehiwala",
+    "name": "Concord",
+    "city": "Dehiwala",
+    "address": "No 139, Galle Road, Dehiwela",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Concord%20Dehiwala%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94117549630",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-savoy-3d-dolby-atmos",
+    "cinemaId": "eap",
+    "slug": "savoy-3d-dolby-atmos-wellawatte",
+    "name": "Savoy 3D Dolby ATMOS",
+    "city": "Wellawatte",
+    "address": "No 12, Savoy Building, Wellwatte, Colombo 6",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%203D%20Dolby%20ATMOS%20Wellawatte%20Sri%20Lanka",
+    "formats": [
+      "2D",
+      "Dolby Atmos",
+      "3D"
+    ],
+    "experiences": [
+      "Dolby Atmos",
+      "3D"
+    ],
+    "phone": "+94117444466",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "eap-savoy-2",
+    "cinemaId": "eap",
+    "slug": "savoy-2-wellawatte",
+    "name": "Savoy 2",
+    "city": "Wellawatte",
+    "address": "No 12, Savoy Building, Wellwatte, Colombo 6",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%202%20Wellawatte%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94117444466"
+  },
+  {
+    "id": "pvr-ogf",
+    "cinemaId": "pvr",
+    "slug": "pvr-cinemas-one-galle-face",
+    "name": "PVR Cinemas - One Galle Face",
+    "city": "Colombo",
+    "address": "Level 06, 1A Centre Road, Colombo 00200",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PVR+Cinemas+One+Galle+Face+Colombo",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "Dolby Atmos"
+    ],
+    "experiences": [
+      "IMAX",
+      "Dolby Atmos",
+      "3D",
+      "Luxe"
+    ],
+    "phone": "+94766447664",
+    "details": "9 screens · A/C · 4K digital"
+  },
+  {
+    "id": "jp-kandy",
+    "cinemaId": "jp",
+    "slug": "jp-cineplex-kandy",
+    "name": "JP Cineplex",
+    "city": "Kandy",
+    "address": "No. 377, Peradeniya Road, Kandy",
+    "mapsUrl": "https://maps.app.goo.gl/4cS9JLjx91uosgHeA",
+    "formats": [
+      "Platinum",
+      "Gold",
+      "Luxe",
+      "Silver"
+    ],
+    "experiences": [
+      "Platinum",
+      "Luxe",
+      "Food to Seat",
+      "Couple Seats",
+      "Dolby Atmos",
+      "Laser",
+      "3D"
+    ],
+    "phone": "0710186186",
+    "details": "4 screens · A/C · 4K digital"
+  },
+  {
+    "id": "str-rajah-1",
+    "cinemaId": "str",
+    "slug": "rajah-1-cinema-jaffna",
+    "name": "Rajah 1 Cinema",
+    "city": "Jaffna",
+    "address": "Kasturiyar Road, Jaffna",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rajah%201%20Cinema%20Jaffna%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94212227232",
+    "details": "2 screens · A/C · 2K digital"
+  },
+  {
+    "id": "str-rajah-2",
+    "cinemaId": "str",
+    "slug": "rajah-2-cinema-jaffna",
+    "name": "Rajah 2 Cinema",
+    "city": "Jaffna",
+    "address": "Kasturiyar Road, Jaffna",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rajah%202%20Cinema%20Jaffna%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94212227232",
+    "details": "2 screens · A/C · 2K digital"
+  },
+  {
+    "id": "str-amutha",
+    "cinemaId": "str",
+    "slug": "amutha-cinema-vavuniya",
+    "name": "Amutha Cinema",
+    "city": "Vavuniya",
+    "address": "Vavuniya Town",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amutha%20Cinema%20Vavuniya%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": ""
+  },
+  {
+    "id": "str-vasanthy",
+    "cinemaId": "str",
+    "slug": "vasanthy-cinema-vavuniya",
+    "name": "Vasanthy Cinema",
+    "city": "Vavuniya",
+    "address": "No. 40, Kandy Road, Vavuniya",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasanthy%20Cinema%20Vavuniya%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94242221410",
+    "details": "2 screens · Non A/C · digital (E-Cinema)"
+  },
+  {
+    "id": "str-shanthi",
+    "cinemaId": "str",
+    "slug": "shanthi-cinema-batticaloa",
+    "name": "Shanthi Cinema",
+    "city": "Batticaloa",
+    "address": "Kallady, Batticaloa",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shanthi%20Cinema%20Batticaloa%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94652223516",
+    "details": "2 screens · A/C · 2K digital"
+  },
+  {
+    "id": "str-suganthi",
+    "cinemaId": "str",
+    "slug": "suganthi-cinema-batticaloa",
+    "name": "Suganthi Cinema",
+    "city": "Batticaloa",
+    "address": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suganthi%20Cinema%20Batticaloa%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": ""
+  },
+  {
+    "id": "str-saraswathi",
+    "cinemaId": "str",
+    "slug": "saraswathi-cinema-trincomalee",
+    "name": "Saraswathi Cinema",
+    "city": "Trincomalee",
+    "address": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saraswathi%20Cinema%20Trincomalee%20Sri%20Lanka",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94262222221",
+    "details": "1 screen · Non A/C · digital (E-Cinema)"
+  },
+  {
+    "id": "kcc-multiplex",
+    "cinemaId": "kcc",
+    "slug": "kcc-multiplex-kandy",
+    "name": "KCC Multiplex",
+    "city": "Kandy",
+    "address": "Kandy City Centre, Sri Wickrama Rajasinghe Mawatha, Kandy",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KCC+Multiplex+Kandy+City+Centre",
+    "formats": [
+      "2D",
+      "Dolby Atmos"
+    ],
+    "experiences": [
+      "Dolby Atmos",
+      "4K",
+      "Laser",
+      "Multiplex"
+    ],
+    "phone": "+94812208077",
+    "details": "3 screens · A/C · 4K digital"
+  },
+  {
+    "id": "ceylon-majestic-jaffna",
+    "cinemaId": "ceylon",
+    "slug": "majestic-cineplex-jaffna",
+    "name": "Majestic Cineplex Jaffna",
+    "city": "Jaffna",
+    "address": "Cargills Square, Hospital Road, Jaffna",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Majestic+Cineplex+Cargills+Square+Jaffna",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [
+      "Platinum",
+      "Multiplex"
+    ],
+    "phone": "+94212227712",
+    "details": "3 screens · A/C · 2K digital"
+  },
+  {
+    "id": "chelva-jaffna",
+    "cinemaId": "chelva",
+    "slug": "chelva-cinema-jaffna",
+    "name": "Chelva Cinema",
+    "city": "Jaffna",
+    "address": "Hospital Road, Jaffna",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chelva+Cinema+Hospital+Road+Jaffna",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94212227973",
+    "details": "1 screen · A/C · digital (E-Cinema)"
+  },
+  {
+    "id": "vijaya-batticaloa",
+    "cinemaId": "vijaya",
+    "slug": "vijaya-cinema-batticaloa",
+    "name": "Vijaya Cinema",
+    "city": "Batticaloa",
+    "address": "60 Loyds Avenue, Batticaloa",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vijaya+Cinema+Loyds+Avenue+Batticaloa",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "+94701503677",
+    "details": "1 screen · A/C · digital (E-Cinema)"
+  },
+  {
+    "id": "lite-aqua-negombo",
+    "cinemaId": "lite",
+    "slug": "aqua-lite-3d-negombo",
+    "name": "Aqua Lite 3D Cinema",
+    "city": "Negombo",
+    "address": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aqua+Lite+Cinema+Negombo",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "experiences": [
+      "3D"
+    ],
+    "phone": "+94312121345",
+    "details": "1 screen · A/C · 2K digital"
+  },
+  {
+    "id": "nfc-vox-lite",
+    "cinemaId": "nfc",
+    "slug": "vox-lite",
+    "name": "Vox Lite",
+    "city": "Colombo",
+    "town": "Avissawella",
+    "address": "Avissawella, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vox%20Lite%20cinema%20Avissawella%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94362222408",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-majestic-city",
+    "cinemaId": "nfc",
+    "slug": "majestic-city",
+    "name": "Majestic City",
+    "city": "Colombo",
+    "town": "Bambalapitiya",
+    "address": "Bambalapitiya, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Majestic%20City%20cinema%20Bambalapitiya%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94769371960",
+    "details": "3 screens · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-vijayanthi-kaduwela",
+    "cinemaId": "nfc",
+    "slug": "vijayanthi-kaduwela",
+    "name": "Vijayanthi Kaduwela",
+    "city": "Colombo",
+    "town": "Kaduwela",
+    "address": "Kaduwela, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vijayanthi%20Kaduwela%20cinema%20Kaduwela%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94112415647",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ritz-borella",
+    "cinemaId": "nfc",
+    "slug": "ritz-borella",
+    "name": "Ritz Borella",
+    "city": "Colombo",
+    "town": "Borella",
+    "address": "Borella, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ritz%20Borella%20cinema%20Borella%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94112695384",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-rio-colombo",
+    "cinemaId": "nfc",
+    "slug": "rio-colombo",
+    "name": "Rio Colombo",
+    "city": "Colombo",
+    "town": "Colombo",
+    "address": "Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20Colombo%20cinema%20Colombo%20Sri%20Lanka",
+    "formats": [
+      "35mm",
+      "Non A/C"
+    ],
+    "experiences": [
+      "35mm Film"
+    ],
+    "phone": "+94112432170",
+    "details": "1 screen · Non A/C · 35mm film",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-regal-colombo",
+    "cinemaId": "nfc",
+    "slug": "regal-colombo",
+    "name": "Regal Colombo",
+    "city": "Colombo",
+    "town": "Colombo",
+    "address": "Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Colombo%20cinema%20Colombo%20Sri%20Lanka",
+    "formats": [],
+    "experiences": [],
+    "phone": "",
+    "details": "1 screen",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ricky-colombo-02",
+    "cinemaId": "nfc",
+    "slug": "ricky-colombo-02",
+    "name": "Ricky Colombo 02",
+    "city": "Colombo",
+    "town": "Colombo 02",
+    "address": "Colombo 02, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ricky%20Colombo%2002%20cinema%20Colombo%2002%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94112389450",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-regal-dematagoda",
+    "cinemaId": "nfc",
+    "slug": "regal-dematagoda",
+    "name": "Regal Dematagoda",
+    "city": "Colombo",
+    "town": "Dematagoda",
+    "address": "Dematagoda, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Dematagoda%20cinema%20Dematagoda%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94723535530",
+    "details": "3 screens · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-lekha-homagama",
+    "cinemaId": "nfc",
+    "slug": "lekha-homagama",
+    "name": "Lekha Homagama",
+    "city": "Colombo",
+    "town": "Homagama",
+    "address": "Station Road, Homagama, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lekha%20Homagama%20cinema%20Homagama%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94113155298",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-new-rekha",
+    "cinemaId": "nfc",
+    "slug": "new-rekha",
+    "name": "New Rekha",
+    "city": "Colombo",
+    "town": "Kaduwela",
+    "address": "Kaduwela, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Rekha%20cinema%20Kaduwela%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94717650400",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-amity-lite",
+    "cinemaId": "nfc",
+    "slug": "amity-lite",
+    "name": "Amity Lite",
+    "city": "Colombo",
+    "town": "Maharagama",
+    "address": "Amity Building, High Level Road, Maharagama. Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amity%20Lite%20cinema%20Maharagama%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94114346463",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-sky-lights",
+    "cinemaId": "nfc",
+    "slug": "sky-lights",
+    "name": "Sky Lights",
+    "city": "Colombo",
+    "town": "Malabe",
+    "address": "Malabe, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sky%20Lights%20cinema%20Malabe%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94715555515",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-cinecity-maradana",
+    "cinemaId": "nfc",
+    "slug": "cinecity-maradana",
+    "name": "Cinecity Maradana",
+    "city": "Colombo",
+    "town": "Maradana",
+    "address": "Maradana, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinecity%20Maradana%20cinema%20Maradana%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94115355055",
+    "details": "3 screens · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ruby-maligawatta",
+    "cinemaId": "nfc",
+    "slug": "ruby-maligawatta",
+    "name": "Ruby Maligawatta",
+    "city": "Colombo",
+    "town": "Maligawatta",
+    "address": "Maligawatta, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruby%20Maligawatta%20cinema%20Maligawatta%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94112327684",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-emess-moratuwa",
+    "cinemaId": "nfc",
+    "slug": "emess-moratuwa",
+    "name": "Emess Moratuwa",
+    "city": "Colombo",
+    "town": "Moratuwa",
+    "address": "Moratuwa, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emess%20Moratuwa%20cinema%20Moratuwa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94763543256",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-eros-pamankada",
+    "cinemaId": "nfc",
+    "slug": "eros-pamankada",
+    "name": "Eros Pamankada",
+    "city": "Colombo",
+    "town": "Pamankada",
+    "address": "Pamankada, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eros%20Pamankada%20cinema%20Pamankada%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94776770129",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-max-lite",
+    "cinemaId": "nfc",
+    "slug": "max-lite",
+    "name": "Max Lite",
+    "city": "Colombo",
+    "town": "Moratuwa",
+    "address": "Moratuwa, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Max%20Lite%20cinema%20Moratuwa%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94114341508",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-regal-katubedda",
+    "cinemaId": "nfc",
+    "slug": "regal-katubedda",
+    "name": "Regal Katubedda",
+    "city": "Colombo",
+    "town": "Katubedda",
+    "address": "Katubedda, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Katubedda%20cinema%20Katubedda%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94112183470",
+    "details": "3 screens · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-city-cinema",
+    "cinemaId": "nfc",
+    "slug": "city-cinema",
+    "name": "City Cinema",
+    "city": "Colombo",
+    "town": "Mt. Lavinia",
+    "address": "Mt. Lavinia, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Cinema%20cinema%20Mt.%20Lavinia%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94113603959",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-tharangani-colombo-07",
+    "cinemaId": "nfc",
+    "slug": "tharangani-colombo-07",
+    "name": "Tharangani Colombo 07",
+    "city": "Colombo",
+    "town": "Colombo 07",
+    "address": "Colombo 07, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tharangani%20Colombo%2007%20cinema%20Colombo%2007%20Sri%20Lanka",
+    "formats": [
+      "4K",
+      "A/C"
+    ],
+    "experiences": [
+      "4K",
+      "Air Conditioned"
+    ],
+    "phone": "+94112582513",
+    "details": "1 screen · A/C · 4K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-regal-gampaha",
+    "cinemaId": "taktikbook",
+    "slug": "regal-gampaha",
+    "name": "Regal Gampaha",
+    "city": "Gampaha",
+    "town": "Gampaha",
+    "address": "7th floor - Wardcity Shopping Complex, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Gampaha%20cinema%20Gampaha%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94115999999",
+    "details": "2 screens · A/C · 2K digital",
+    "source": "nfc",
+    "bookingUrl": "https://www.taktikbook.lk/theater/savoy-metro-gampaha"
+  },
+  {
+    "id": "nfc-himali-kiribathgoda",
+    "cinemaId": "nfc",
+    "slug": "himali-kiribathgoda",
+    "name": "Himali Kiribathgoda",
+    "city": "Gampaha",
+    "town": "Kiribathgoda",
+    "address": "Kiribathgoda, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himali%20Kiribathgoda%20cinema%20Kiribathgoda%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94112907732",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-roo-katunayake",
+    "cinemaId": "nfc",
+    "slug": "roo-katunayake",
+    "name": "Roo Katunayake",
+    "city": "Gampaha",
+    "town": "Katunayake",
+    "address": "Katunayake, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roo%20Katunayake%20cinema%20Katunayake%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94773903336",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-new-jayalath",
+    "cinemaId": "nfc",
+    "slug": "new-jayalath",
+    "name": "New Jayalath",
+    "city": "Gampaha",
+    "town": "Katunayake",
+    "address": "Katunayake, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Jayalath%20cinema%20Katunayake%20Sri%20Lanka",
+    "formats": [
+      "35mm",
+      "Non A/C"
+    ],
+    "experiences": [
+      "35mm Film"
+    ],
+    "phone": "+94766783457",
+    "details": "1 screen · Non A/C · 35mm film",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-nikado-kadawatha",
+    "cinemaId": "nfc",
+    "slug": "nikado-kadawatha",
+    "name": "Nikado Kadawatha",
+    "city": "Gampaha",
+    "town": "Kadawatha",
+    "address": "Kadawatha, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nikado%20Kadawatha%20cinema%20Kadawatha%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94114347705",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ram-cinema",
+    "cinemaId": "nfc",
+    "slug": "ram-cinema",
+    "name": "Ram Cinema",
+    "city": "Gampaha",
+    "town": "Wattala",
+    "address": "Wattala, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ram%20Cinema%20cinema%20Wattala%20Sri%20Lanka",
+    "formats": [
+      "4K",
+      "A/C",
+      "2K"
+    ],
+    "experiences": [
+      "4K",
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94770181811",
+    "details": "3 screens · A/C · 4K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-royal-negombo",
+    "cinemaId": "nfc",
+    "slug": "royal-negombo",
+    "name": "Royal Negombo",
+    "city": "Gampaha",
+    "town": "Negombo",
+    "address": "Negombo, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Negombo%20cinema%20Negombo%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94312224566",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-wijya-cinema",
+    "cinemaId": "nfc",
+    "slug": "wijya-cinema",
+    "name": "Wijya Cinema",
+    "city": "Gampaha",
+    "town": "Minuwangoda",
+    "address": "Minuwangoda, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wijya%20Cinema%20cinema%20Minuwangoda%20Sri%20Lanka",
+    "formats": [
+      "4K",
+      "A/C"
+    ],
+    "experiences": [
+      "4K",
+      "Air Conditioned"
+    ],
+    "phone": "+94741880216",
+    "details": "1 screen · A/C · 4K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-prasanna-lite",
+    "cinemaId": "nfc",
+    "slug": "prasanna-lite",
+    "name": "Prasanna Lite",
+    "city": "Gampaha",
+    "town": "Kochchikade",
+    "address": "Kochchikade, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prasanna%20Lite%20cinema%20Kochchikade%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94778233521",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-city-cinema-gampaha",
+    "cinemaId": "nfc",
+    "slug": "city-cinema-gampaha",
+    "name": "City Cinema",
+    "city": "Gampaha",
+    "town": "Kochchikade",
+    "address": "Kochchikade, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Cinema%20cinema%20Kochchikade%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94774374696",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-c-k-kirindiwela",
+    "cinemaId": "nfc",
+    "slug": "c-k-kirindiwela",
+    "name": "C.K. Kirindiwela",
+    "city": "Gampaha",
+    "town": "Kirindiwela",
+    "address": "Kirindiwela, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C.K.%20Kirindiwela%20cinema%20Kirindiwela%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94332267960",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-wins-wadduwa",
+    "cinemaId": "nfc",
+    "slug": "wins-wadduwa",
+    "name": "Wins Wadduwa",
+    "city": "Kalutara",
+    "town": "Wadduwa",
+    "address": "Wadduwa, Kalutara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wins%20Wadduwa%20cinema%20Wadduwa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94760319771",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-dulmini-horana",
+    "cinemaId": "nfc",
+    "slug": "dulmini-horana",
+    "name": "Dulmini Horana",
+    "city": "Kalutara",
+    "town": "Horana",
+    "address": "Horana, Kalutara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dulmini%20Horana%20cinema%20Horana%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94716057649",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-don-plaza",
+    "cinemaId": "nfc",
+    "slug": "don-plaza",
+    "name": "Don Plaza",
+    "city": "Kalutara",
+    "town": "Kaluthara",
+    "address": "Kaluthara, Kalutara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don%20Plaza%20cinema%20Kaluthara%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94342222421",
+    "details": "2 screens · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-new-janaki",
+    "cinemaId": "nfc",
+    "slug": "new-janaki",
+    "name": "New Janaki",
+    "city": "Kalutara",
+    "town": "Mathugama",
+    "address": "Mathugama, Kalutara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Janaki%20cinema%20Mathugama%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94342211720",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-new-champika",
+    "cinemaId": "nfc",
+    "slug": "new-champika",
+    "name": "New Champika",
+    "city": "Kalutara",
+    "town": "Ingiriya",
+    "address": "Ingiriya, Kalutara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Champika%20cinema%20Ingiriya%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94114881886",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-dinusha-nawalapitiya",
+    "cinemaId": "nfc",
+    "slug": "dinusha-nawalapitiya",
+    "name": "Dinusha Nawalapitiya",
+    "city": "Kandy",
+    "town": "Nawalapitiya",
+    "address": "Nawalapitiya, Kandy",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinusha%20Nawalapitiya%20cinema%20Nawalapitiya%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94542222423",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ananda-gampola",
+    "cinemaId": "nfc",
+    "slug": "ananda-gampola",
+    "name": "Ananda Gampola",
+    "city": "Kandy",
+    "town": "Gampola",
+    "address": "Hindagala, Naranwita, Gampola Road, Gampola, Kandy",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ananda%20Gampola%20cinema%20Gampola%20Sri%20Lanka",
+    "formats": [
+      "35mm",
+      "Non A/C"
+    ],
+    "experiences": [
+      "35mm Film"
+    ],
+    "phone": "+94773890620",
+    "details": "1 screen · Non A/C · 35mm film",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-hasalaka",
+    "cinemaId": "nfc",
+    "slug": "hasalaka",
+    "name": "Hasalaka",
+    "city": "Kandy",
+    "town": "Hasalaka",
+    "address": "Hasalaka, Kandy",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hasalaka%20cinema%20Hasalaka%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94765790075",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-jayabima-gampola",
+    "cinemaId": "nfc",
+    "slug": "jayabima-gampola",
+    "name": "Jayabima Gampola",
+    "city": "Kandy",
+    "town": "Gampola",
+    "address": "Gampola, Kandy",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jayabima%20Gampola%20cinema%20Gampola%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94777234679",
+    "details": "1 screen · Non A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-lakmali-ragala",
+    "cinemaId": "nfc",
+    "slug": "lakmali-ragala",
+    "name": "Lakmali Ragala",
+    "city": "Nuwara Eliya",
+    "town": "Ragala",
+    "address": "Ragala, Nuwara Eliya",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakmali%20Ragala%20cinema%20Ragala%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94777843379",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-regal-nuwara-eliya",
+    "cinemaId": "nfc",
+    "slug": "regal-nuwara-eliya",
+    "name": "Regal Nuwara Eliya",
+    "city": "Nuwara Eliya",
+    "town": "Nuwara Eliya",
+    "address": "Nuwara Eliya",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Nuwara%20Eliya%20cinema%20Nuwara%20Eliya%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+9452222582",
+    "details": "2 screens · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-central-matale",
+    "cinemaId": "nfc",
+    "slug": "central-matale",
+    "name": "Central Matale",
+    "city": "Matale",
+    "town": "Matale",
+    "address": "Kumbiyangoda Road, Matale Town, Matale",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Matale%20cinema%20Matale%20Sri%20Lanka",
+    "formats": [
+      "35mm",
+      "Non A/C"
+    ],
+    "experiences": [
+      "35mm Film"
+    ],
+    "phone": "+94776163674",
+    "details": "1 screen · Non A/C · 35mm film",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-ama-matale",
+    "cinemaId": "nfc",
+    "slug": "ama-matale",
+    "name": "Ama Matale",
+    "city": "Matale",
+    "town": "Matale",
+    "address": "Matale",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ama%20Matale%20cinema%20Matale%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94766106612",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-new-line",
+    "cinemaId": "nfc",
+    "slug": "new-line",
+    "name": "New Line",
+    "city": "Matale",
+    "town": "Dambulla",
+    "address": "Dambulla, Matale",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Line%20cinema%20Dambulla%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94774343914",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-prince-galle",
+    "cinemaId": "nfc",
+    "slug": "prince-galle",
+    "name": "Prince Galle",
+    "city": "Galle",
+    "town": "Galle",
+    "address": "Galle",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Galle%20cinema%20Galle%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94912234706",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-s-k-matara",
+    "cinemaId": "nfc",
+    "slug": "s-k-matara",
+    "name": "S.K. Matara",
+    "city": "Matara",
+    "town": "Matara",
+    "address": "Matara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=S.K.%20Matara%20cinema%20Matara%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94412222151",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-h-r-dickwella",
+    "cinemaId": "nfc",
+    "slug": "h-r-dickwella",
+    "name": "H.R. Dickwella",
+    "city": "Matara",
+    "town": "Dickwella",
+    "address": "Dickwella, Matara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H.R.%20Dickwella%20cinema%20Dickwella%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94412255002",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-darshana-akuressa",
+    "cinemaId": "nfc",
+    "slug": "darshana-akuressa",
+    "name": "Darshana Akuressa",
+    "city": "Matara",
+    "town": "Akuressa",
+    "address": "Akuressa, Matara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Darshana%20Akuressa%20cinema%20Akuressa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94412283766",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-sky-lite",
+    "cinemaId": "nfc",
+    "slug": "sky-lite",
+    "name": "Sky Lite",
+    "city": "Matara",
+    "town": "Matara",
+    "address": "Matara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sky%20Lite%20cinema%20Matara%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94414933130",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ruhunu-tangalle",
+    "cinemaId": "nfc",
+    "slug": "ruhunu-tangalle",
+    "name": "Ruhunu Tangalle",
+    "city": "Hambantota",
+    "town": "Tangalle",
+    "address": "Tangalle, Hambanthota",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruhunu%20Tangalle%20cinema%20Tangalle%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94718082620",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-new-rohana",
+    "cinemaId": "nfc",
+    "slug": "new-rohana",
+    "name": "New Rohana",
+    "city": "Hambantota",
+    "town": "Tissamaharamaya",
+    "address": "Tissamaharamaya, Hambantota",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Rohana%20cinema%20Tissamaharamaya%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94724745759",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-rex-badulla",
+    "cinemaId": "nfc",
+    "slug": "rex-badulla",
+    "name": "Rex Badulla",
+    "city": "Badulla",
+    "town": "Badulla",
+    "address": "Badulla",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rex%20Badulla%20cinema%20Badulla%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94773650269",
+    "details": "2 screens · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-regal-diyathalawa",
+    "cinemaId": "nfc",
+    "slug": "regal-diyathalawa",
+    "name": "Regal Diyathalawa",
+    "city": "Badulla",
+    "town": "Diyathalawa",
+    "address": "Diyathalawa, Badulla",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Diyathalawa%20cinema%20Diyathalawa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94773172399",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-regal-bandarawela",
+    "cinemaId": "nfc",
+    "slug": "regal-bandarawela",
+    "name": "Regal Bandarawela",
+    "city": "Badulla",
+    "town": "Bandarawela",
+    "address": "Bandarawela, Badulla",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Bandarawela%20cinema%20Bandarawela%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94572051638",
+    "details": "2 screens · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-h-h-p-monaragala",
+    "cinemaId": "nfc",
+    "slug": "h-h-p-monaragala",
+    "name": "H.H.P. Monaragala",
+    "city": "Monaragala",
+    "town": "Monaragala",
+    "address": "Monaragala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=H.H.P.%20Monaragala%20cinema%20Monaragala%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94771798183",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-seran-cinema",
+    "cinemaId": "nfc",
+    "slug": "seran-cinema",
+    "name": "Seran Cinema",
+    "city": "Kilinochchi",
+    "town": "Kilinochchi",
+    "address": "Kilinochchi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seran%20Cinema%20cinema%20Kilinochchi%20Sri%20Lanka",
+    "formats": [
+      "Multiplex",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "",
+    "details": "1 screen · A/C",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-sas-trincomalee",
+    "cinemaId": "nfc",
+    "slug": "sas-trincomalee",
+    "name": "SAS Trincomalee",
+    "city": "Trincomalee",
+    "town": "Trincomalee",
+    "address": "Trincomalee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SAS%20Trincomalee%20cinema%20Trincomalee%20Sri%20Lanka",
+    "formats": [
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "",
+    "details": "1 screen · A/C",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-cinesha-cinema-misty-lite",
+    "cinemaId": "nfc",
+    "slug": "cinesha-cinema-misty-lite",
+    "name": "Cinesha Cinema (Misty Lite)",
+    "city": "Kandy",
+    "town": "Nawalapitiya",
+    "address": "Nawalapitiya, Kandy",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinesha%20Cinema%20(Misty%20Lite)%20cinema%20Nawalapitiya%20Sri%20Lanka",
+    "formats": [
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "",
+    "details": "1 screen · A/C",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-bala-chavakachcheri",
+    "cinemaId": "nfc",
+    "slug": "bala-chavakachcheri",
+    "name": "Bala Chavakachcheri",
+    "city": "Jaffna",
+    "town": "Chavakachcheri",
+    "address": "Post Office Road, Chavakachcheri, Jaffna.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bala%20Chavakachcheri%20cinema%20Chavakachcheri%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94779830259",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-salu-point-pedro",
+    "cinemaId": "nfc",
+    "slug": "salu-point-pedro",
+    "name": "Salu Point Pedro",
+    "city": "Jaffna",
+    "town": "Point Pedro",
+    "address": "Point Pedro, Jaffna",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salu%20Point%20Pedro%20cinema%20Point%20Pedro%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94212265000",
+    "details": "2 screens · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-nahams-chunnakam",
+    "cinemaId": "nfc",
+    "slug": "nahams-chunnakam",
+    "name": "Nahams Chunnakam",
+    "city": "Jaffna",
+    "town": "Chunnakam",
+    "address": "Chunnakam, Jaffna",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nahams%20Chunnakam%20cinema%20Chunnakam%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94772189646",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-sun-cinema",
+    "cinemaId": "nfc",
+    "slug": "sun-cinema",
+    "name": "Sun Cinema",
+    "city": "Mannar",
+    "town": "Mannar",
+    "address": "Mannar",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Cinema%20cinema%20Mannar%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94772522585",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-wellington-kantale",
+    "cinemaId": "nfc",
+    "slug": "wellington-kantale",
+    "name": "Wellington Kantale",
+    "city": "Trincomalee",
+    "town": "Kantale",
+    "address": "Kantale, Trincomalee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wellington%20Kantale%20cinema%20Kantale%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94779148209",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-nelson-trincomalee",
+    "cinemaId": "nfc",
+    "slug": "nelson-trincomalee",
+    "name": "Nelson Trincomalee",
+    "city": "Trincomalee",
+    "town": "Trincomalee",
+    "address": "Trincomalee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nelson%20Trincomalee%20cinema%20Trincomalee%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94262222528",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-annai-sellam",
+    "cinemaId": "nfc",
+    "slug": "annai-sellam",
+    "name": "Annai Sellam",
+    "city": "Batticaloa",
+    "town": "Chenkalady",
+    "address": "Chenkalady, Batticaloa, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Annai%20Sellam%20cinema%20Chenkalady%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C",
+      "2K"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94740344434",
+    "details": "2 screens · A/C · 2K digital",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-kibesh-mankadu",
+    "cinemaId": "nfc",
+    "slug": "kibesh-mankadu",
+    "name": "Kibesh Mankadu",
+    "city": "Batticaloa",
+    "town": "Mankadu",
+    "address": "Mankadu, Batticaloa",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kibesh%20Mankadu%20cinema%20Mankadu%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94706258568",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-p-c-a-thalankudah",
+    "cinemaId": "nfc",
+    "slug": "p-c-a-thalankudah",
+    "name": "P.C.A. Thalankudah",
+    "city": "Batticaloa",
+    "town": "Thalankudah",
+    "address": "Thalankudah, Batticaloa",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=P.C.A.%20Thalankudah%20cinema%20Thalankudah%20Sri%20Lanka",
+    "formats": [
+      "4K",
+      "A/C"
+    ],
+    "experiences": [
+      "4K",
+      "Air Conditioned"
+    ],
+    "phone": "+94743776727",
+    "details": "1 screen · A/C · 4K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-g-k-kalmunai",
+    "cinemaId": "nfc",
+    "slug": "g-k-kalmunai",
+    "name": "G.K. Kalmunai",
+    "city": "Ampara",
+    "town": "Kalmunai",
+    "address": "Kalmunai, Ampara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=G.K.%20Kalmunai%20cinema%20Kalmunai%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94771237195",
+    "details": "2 screens · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-archana-akkaraipattu",
+    "cinemaId": "nfc",
+    "slug": "archana-akkaraipattu",
+    "name": "Archana Akkaraipattu",
+    "city": "Ampara",
+    "town": "Akkaraipattu",
+    "address": "Akkaraipattu, Ampara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Archana%20Akkaraipattu%20cinema%20Akkaraipattu%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94772273962",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-sarasavi-alawwa",
+    "cinemaId": "nfc",
+    "slug": "sarasavi-alawwa",
+    "name": "Sarasavi Alawwa",
+    "city": "Kurunegala",
+    "town": "Alawwa",
+    "address": "Alawwa, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarasavi%20Alawwa%20cinema%20Alawwa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94372278128",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-mahalekam-kuliyapitiya",
+    "cinemaId": "nfc",
+    "slug": "mahalekam-kuliyapitiya",
+    "name": "Mahalekam Kuliyapitiya",
+    "city": "Kurunegala",
+    "town": "Kuliyapitiya",
+    "address": "Kuliyapitiya, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mahalekam%20Kuliyapitiya%20cinema%20Kuliyapitiya%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94715264057",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-lakbima-kuliyapitiya",
+    "cinemaId": "nfc",
+    "slug": "lakbima-kuliyapitiya",
+    "name": "Lakbima Kuliyapitiya",
+    "city": "Kurunegala",
+    "town": "Kuliyapitiya",
+    "address": "Kuliyapitiya, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakbima%20Kuliyapitiya%20cinema%20Kuliyapitiya%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94779207501",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-new-nanda",
+    "cinemaId": "nfc",
+    "slug": "new-nanda",
+    "name": "New Nanda",
+    "city": "Kurunegala",
+    "town": "Nikaweratiya",
+    "address": "Nikaweratiya, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Nanda%20cinema%20Nikaweratiya%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94785930004",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-sriya-wariyapola",
+    "cinemaId": "nfc",
+    "slug": "sriya-wariyapola",
+    "name": "Sriya Wariyapola",
+    "city": "Kurunegala",
+    "town": "Wariyapola",
+    "address": "Wariyapola, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sriya%20Wariyapola%20cinema%20Wariyapola%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94764679443",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-n-i-t-kurunegala",
+    "cinemaId": "nfc",
+    "slug": "n-i-t-kurunegala",
+    "name": "N.I.T Kurunegala",
+    "city": "Kurunegala",
+    "town": "Kurunegala",
+    "address": "Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=N.I.T%20Kurunegala%20cinema%20Kurunegala%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94372222337",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-sandalanka-sandalankawa",
+    "cinemaId": "nfc",
+    "slug": "sandalanka-sandalankawa",
+    "name": "Sandalanka Sandalankawa",
+    "city": "Kurunegala",
+    "town": "Sandalankawa",
+    "address": "Sandalankawa, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sandalanka%20Sandalankawa%20cinema%20Sandalankawa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94725277244",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-samanala-melsiripura",
+    "cinemaId": "nfc",
+    "slug": "samanala-melsiripura",
+    "name": "Samanala Melsiripura",
+    "city": "Kurunegala",
+    "town": "Melsiripura",
+    "address": "Melsiripura, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samanala%20Melsiripura%20cinema%20Melsiripura%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94760171210",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ramoga-wennappuwa",
+    "cinemaId": "nfc",
+    "slug": "ramoga-wennappuwa",
+    "name": "Ramoga Wennappuwa",
+    "city": "Puttalam",
+    "town": "Wennappuwa",
+    "address": "Wennappuwa, Puttalam",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramoga%20Wennappuwa%20cinema%20Wennappuwa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94703788188",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-shamrock-wennappuwa",
+    "cinemaId": "nfc",
+    "slug": "shamrock-wennappuwa",
+    "name": "Shamrock Wennappuwa",
+    "city": "Puttalam",
+    "town": "Wennappuwa",
+    "address": "Wennappuwa, Puttalam",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shamrock%20Wennappuwa%20cinema%20Wennappuwa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94777654387",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-lakmal-arachchikattuwa",
+    "cinemaId": "nfc",
+    "slug": "lakmal-arachchikattuwa",
+    "name": "Lakmal Arachchikattuwa",
+    "city": "Puttalam",
+    "town": "Arachchikattuwa",
+    "address": "Arachchikattuwa, Puttalam",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakmal%20Arachchikattuwa%20cinema%20Arachchikattuwa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94779379812",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ramoga-puttalam",
+    "cinemaId": "nfc",
+    "slug": "ramoga-puttalam",
+    "name": "Ramoga Puttalam",
+    "city": "Puttalam",
+    "town": "Puttalam",
+    "address": "Puttalam",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramoga%20Puttalam%20cinema%20Puttalam%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94703788188",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-ramoga-chilaw",
+    "cinemaId": "nfc",
+    "slug": "ramoga-chilaw",
+    "name": "Ramoga Chilaw",
+    "city": "Puttalam",
+    "town": "Chilaw",
+    "address": "Chilaw, Puttalam",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramoga%20Chilaw%20cinema%20Chilaw%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94703788188",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-vijendra-anuradhapura",
+    "cinemaId": "nfc",
+    "slug": "vijendra-anuradhapura",
+    "name": "Vijendra Anuradhapura",
+    "city": "Anuradhapura",
+    "town": "Anuradhapura",
+    "address": "Anuradhapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vijendra%20Anuradhapura%20cinema%20Anuradhapura%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94252223766",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-e-d-c-kekirawa",
+    "cinemaId": "nfc",
+    "slug": "e-d-c-kekirawa",
+    "name": "E.D.C. Kekirawa",
+    "city": "Anuradhapura",
+    "town": "Kekirawa",
+    "address": "Kekirawa, Anuradhapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=E.D.C.%20Kekirawa%20cinema%20Kekirawa%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94252265544",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-cinemax-kaduruwela",
+    "cinemaId": "nfc",
+    "slug": "cinemax-kaduruwela",
+    "name": "Cinemax Kaduruwela",
+    "city": "Polonnaruwa",
+    "town": "Kaduruwela",
+    "address": "Kaduruwela, Polonnaruwa",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinemax%20Kaduruwela%20cinema%20Kaduruwela%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94272121666",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-tarzan-kegalle",
+    "cinemaId": "taktikbook",
+    "slug": "tarzan-kegalle",
+    "name": "Tarzan Kegalle",
+    "city": "Kegalle",
+    "town": "Kegalle",
+    "address": "Tarzan Cinema, Kegalle, Kegalle",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tarzan%20Kegalle%20cinema%20Kegalle%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94352233677",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc",
+    "bookingUrl": "https://www.taktikbook.lk/theater/tarzan-cinema"
+  },
+  {
+    "id": "nfc-regent-rambukkana",
+    "cinemaId": "taktikbook",
+    "slug": "regent-rambukkana",
+    "name": "Regent Rambukkana",
+    "city": "Kegalle",
+    "town": "Rambukkana",
+    "address": "Regent Cinema. Regent Road, Rambukkana., Rambukkana, Sri Lanka., Rambukkana",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regent%20Rambukkana%20cinema%20Rambukkana%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94716325422",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc",
+    "bookingUrl": "https://www.taktikbook.lk/theater/regent-cinema-rabukkana"
+  },
+  {
+    "id": "nfc-milano-kegalle",
+    "cinemaId": "taktikbook",
+    "slug": "milano-kegalle",
+    "name": "Milano Kegalle",
+    "city": "Kegalle",
+    "town": "Kegalle",
+    "address": "DD Athukorala Supermarket (pvt) Ltd, No 122, Main Street, Kegalle",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milano%20Kegalle%20cinema%20Kegalle%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Multiplex",
+      "Air Conditioned"
+    ],
+    "phone": "+94352221222",
+    "details": "3 screens · A/C · 2K digital",
+    "source": "nfc",
+    "bookingUrl": "https://www.taktikbook.lk/theater/milano-gold",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-asiri-eheliyagoda",
+    "cinemaId": "nfc",
+    "slug": "asiri-eheliyagoda",
+    "name": "Asiri Eheliyagoda",
+    "city": "Ratnapura",
+    "town": "Eheliyagoda",
+    "address": "Vijaya Kumaratunga Road, Eheliyagoda, Ratnapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asiri%20Eheliyagoda%20cinema%20Eheliyagoda%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94764255659",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc",
+    "confirmed": true
+  },
+  {
+    "id": "nfc-gamini-eheliyagoda",
+    "cinemaId": "nfc",
+    "slug": "gamini-eheliyagoda",
+    "name": "Gamini Eheliyagoda",
+    "city": "Ratnapura",
+    "town": "Eheliyagoda",
+    "address": "Eheliyagoda, Ratnapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gamini%20Eheliyagoda%20cinema%20Eheliyagoda%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94718950362",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-new-vishaka",
+    "cinemaId": "nfc",
+    "slug": "new-vishaka",
+    "name": "New Vishaka",
+    "city": "Ratnapura",
+    "town": "Embilipitiya",
+    "address": "Embilipitiya, Ratnapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Vishaka%20cinema%20Embilipitiya%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94765312530",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-new-town",
+    "cinemaId": "nfc",
+    "slug": "new-town",
+    "name": "New Town",
+    "city": "Ratnapura",
+    "town": "Embilipitiya",
+    "address": "Embilipitiya, Ratnapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Town%20cinema%20Embilipitiya%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "Non A/C"
+    ],
+    "experiences": [],
+    "phone": "+94773368835",
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "source": "nfc"
+  },
+  {
+    "id": "nfc-n-i-t-ratnapura",
+    "cinemaId": "nfc",
+    "slug": "n-i-t-ratnapura",
+    "name": "N.I.T Ratnapura",
+    "city": "Ratnapura",
+    "town": "Ratnapura",
+    "address": "Ratnapura",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=N.I.T%20Ratnapura%20cinema%20Ratnapura%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94452222417",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc"
+  }
+]

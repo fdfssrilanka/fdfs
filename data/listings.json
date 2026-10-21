@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": "scope-adaraneeya-tharuwak-sinhala",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=1986"
+  },
+  {
+    "movieId": "eap-2011",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2011"
+  },
+  {
+    "movieId": "eap-2012",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2012"
+  },
+  {
+    "movieId": "eap-2015",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2015"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2017"
+  },
+  {
+    "movieId": "scope-avengers-endgame-encore-2026",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2019"
+  },
+  {
+    "movieId": "eap-2020",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2020"
+  },
+  {
+    "movieId": "eap-2024",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2024"
+  },
+  {
+    "movieId": "eap-2025",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2025"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2026"
+  },
+  {
+    "movieId": "scope-baththa-tamil",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2028"
+  },
+  {
+    "movieId": "eap-2029",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2029"
+  }
+]

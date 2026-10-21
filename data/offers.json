@@ -1,0 +1,65 @@
+[
+  {
+    "id": "scope-hutch-weekday-movie-magic",
+    "cinemaId": "scope",
+    "title": "Hutch Weekday Movie Magic!",
+    "description": "Enjoy 20% OFF on movie tickets on Monday, Tuesday, and Wednesdays until 31st December 2026 ! Valid for website & counter purchases at all Scope Cinemas locations! Excludes: Gold Class, Directors' Lounge, IMAX, ATMOS & Balcony Seats at Liberty Kiribathgoda. Visit the HUTCH app to redeem the offer!",
+    "imageUrl": "/images/offers/scope-hutch-weekday-movie-magic.webp",
+    "url": "https://www.scopecinemas.com/offers/hutch-weekday-movie-magic",
+    "validTo": "2026-12-31"
+  },
+  {
+    "id": "jp-half-price-mondays-are-here",
+    "cinemaId": "jp",
+    "title": "Half-Price Mondays Are Here!",
+    "description": "As part of our 1st Anniversary celebrations, JP Cineplex is delighted to introduce Half Price Mondays! Enjoy 50% OFF box office ticket prices on selected movies ",
+    "imageUrl": "/images/offers/jp-half-price-mondays-are-here.webp",
+    "url": "https://www.jpcineplex.com/deals/half-price-mondays-are-here",
+    "validTo": "2026-12-30"
+  },
+  {
+    "id": "jp-student-tuesdays",
+    "cinemaId": "jp",
+    "title": "Student Tuesdays",
+    "description": "Study hard, save more, and enjoy the ultimate movie experience at JP Cineplex! Every Tuesday, students from state universities, private universities, and higher ",
+    "imageUrl": "/images/offers/jp-student-tuesdays.webp",
+    "url": "https://www.jpcineplex.com/deals/student-tuesdays",
+    "validTo": "2026-12-30"
+  },
+  {
+    "id": "jp-corporate-wednesdays",
+    "cinemaId": "jp",
+    "title": "Corporate Wednesdays",
+    "description": "CORPORATE WEDNESDAYS Take a well-deserved midweek break! Gather your colleagues and enjoy 40% OFF selected movies every Wednesday after 5:00 PM at JP CINEPLEX. Si",
+    "imageUrl": "/images/offers/jp-corporate-wednesdays.webp",
+    "url": "https://www.jpcineplex.com/deals/corporate-wednesdays",
+    "validTo": "2026-11-29"
+  },
+  {
+    "id": "jp-birthday-parties-at-the-movies",
+    "cinemaId": "jp",
+    "title": "Birthday Parties at the Movies",
+    "description": "Make birthdays unforgettable at JP Cineplex! Celebrate your loved one’s special day with:A complimentary birthday cakeA personalized screening of cherished memor",
+    "imageUrl": "/images/offers/jp-birthday-parties-at-the-movies.webp",
+    "url": "https://www.jpcineplex.com/deals/birthday-parties-at-the-movies",
+    "validTo": "2026-12-30"
+  },
+  {
+    "id": "jp-scan-save-10-on-food-and-beverages",
+    "cinemaId": "jp",
+    "title": "Save 10% on Food and Beverages",
+    "description": "BUY MORE, SAVE MORE AT JP CINEPLEX! Enjoy 10% OFF your total bill when you purchase any two hot food items and a hot or cold beverage at JP Cineplex! Available ex",
+    "imageUrl": "/images/offers/jp-scan-save-10-on-food-and-beverages.webp",
+    "url": "https://www.jpcineplex.com/deals/scan-save-10-on-food-and-beverages",
+    "validTo": "2026-12-30"
+  },
+  {
+    "id": "jp-ladies-night-wednesdays-at-jp-cineplex",
+    "cinemaId": "jp",
+    "title": "Ladies’ Night Wednesdays",
+    "description": "Gather your friends and enjoy a midweek movie escape at JP Cineplex! Every Wednesday, ladies can enjoy exclusive 40% off  on selected movies screening after 5:00",
+    "imageUrl": "/images/offers/jp-ladies-night-wednesdays-at-jp-cineplex.webp",
+    "url": "https://www.jpcineplex.com/deals/ladies-night-wednesdays-at-jp-cineplex",
+    "validTo": "2026-12-30"
+  }
+]
