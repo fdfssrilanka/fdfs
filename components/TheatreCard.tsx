@@ -22,9 +22,12 @@ export default function TheatreCard({ theatre, chain, className = "", distanceKm
         <p className="mt-1 flex items-start gap-1.5 text-sm text-muted">
           <MapPin aria-hidden className="mt-0.5 size-4 shrink-0" /> <span>{theatre.address || theatre.city}</span>
         </p>
+        {theatre.specs && theatre.specs.length > 0 && (
+          <div className="mt-3 flex flex-wrap gap-1.5">{theatre.specs.map((s) => <span key={s} className="rounded border border-line px-2 py-0.5 text-xs font-bold text-ink/85">{s}</span>)}</div>
+        )}
         {theatre.experiences.length > 0 && (
           <div className="mt-3">
-            <BadgeRow names={theatre.experiences} size="sm" max={3} />
+            <BadgeRow names={theatre.experiences} size="sm" />
           </div>
         )}
       </Link>

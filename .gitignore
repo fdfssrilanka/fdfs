@@ -48,3 +48,7 @@ next-env.d.ts
 # dev keep-alive logs
 keepalive.log
 dev-server.log
+
+# local sample booking demo (never committed or published)
+/app/demo-booking/
+/components/demo/

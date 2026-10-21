@@ -132,9 +132,10 @@ export default async function MoviePage({ params }: { params: Promise<{ slug: st
               {opens && <span>{opens}</span>}
               {movie.certificate && <span className="rounded border border-ink/60 px-1.5 text-xs font-bold">{movie.certificate}</span>}
               {movie.runtimeMin && <span>{formatRuntime(movie.runtimeMin)}</span>}
+              {movie.genres.length > 0 && <span>{movie.genres.join(" · ")}</span>}
               {movie.language && <span className="rounded bg-link2 px-2 py-0.5 text-xs font-bold text-white">{movie.language}</span>}
             </p>
-            {formats.length > 0 && <div className="mt-3"><BadgeRow names={formats} size="sm" max={3} /></div>}
+            {formats.length > 0 && <div className="mt-3"><BadgeRow names={formats} size="sm" /></div>}
           </div>
           <div className="col-span-2 flex flex-wrap gap-2 sm:col-span-1 sm:self-start sm:gap-3">
             <TrailerButton url={movie.trailerUrl} title={movie.title} />

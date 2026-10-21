@@ -97,6 +97,9 @@ export default async function TheatrePage({ params }: { params: Promise<{ slug: 
         <a href={th.mapsUrl} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-11 items-center gap-1.5 text-link hover:underline"><MapPin className="size-4" aria-hidden /> {t("movie.viewMap")}</a>
         {th.phone && <a href={`tel:${th.phone}`} className="inline-flex min-h-11 items-center gap-1.5 hover:text-accent"><Phone className="size-4" aria-hidden /> {th.phone}</a>}
       </div>
+      {th.specs && th.specs.length > 0 && (
+        <div className="mt-4 flex flex-wrap gap-2">{th.specs.map((s) => <span key={s} className="rounded border border-line px-2 py-0.5 text-sm font-bold text-ink/85">{s}</span>)}</div>
+      )}
       {th.experiences.length > 0 && (
         <div className="mt-4">
           <BadgeRow names={th.experiences} />

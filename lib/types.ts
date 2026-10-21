@@ -42,6 +42,8 @@ export interface Theatre {
   town?: string;
   /** e.g. "3 screens · A/C · 2K digital" */
   details?: string;
+  /** Short spec chips shown on the theatre page and card, e.g. ["2K Projection", "Dolby 7.1", "3D", "AC"]. */
+  specs?: string[];
   /** "nfc": listed in the National Film Corporation directory only; no online showtimes. */
   source?: "nfc";
   /** True when a second independent directory lists the same cinema with a matching phone number or name and town. */

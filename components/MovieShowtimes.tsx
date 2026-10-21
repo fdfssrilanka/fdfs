@@ -111,7 +111,7 @@ export default function MovieShowtimes({ showtimes, theatres, cities, others, of
                 <a href={theatre.mapsUrl} target="_blank" rel="noopener noreferrer" className="-ml-2 mt-1 inline-flex min-h-11 items-center gap-1.5 px-2 text-sm font-semibold text-link hover:underline sm:hidden">
                   <MapPin className="size-4" aria-hidden /> {t("movie.viewMap")}
                 </a>
-                {theatre.experiences.length > 0 && <div className="mt-3"><BadgeRow names={theatre.experiences} size="sm" max={4} /></div>}
+                {theatre.experiences.length > 0 && <div className="mt-3"><BadgeRow names={theatre.experiences} size="sm" /></div>}
               </div>
               <div className="flex shrink-0 items-center gap-1 text-sm">
                 <a href={theatre.mapsUrl} target="_blank" rel="noopener noreferrer" className="hidden min-h-11 items-center gap-1.5 px-2 font-semibold text-link hover:underline sm:inline-flex">

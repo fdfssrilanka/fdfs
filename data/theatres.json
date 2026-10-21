@@ -21,7 +21,12 @@
       "2D"
     ],
     "phone": "+94112083065",
-    "details": "6 screens · A/C · 4K digital"
+    "details": "6 screens · A/C · 4K digital",
+    "specs": [
+      "6 Screens",
+      "AC",
+      "4K Digital"
+    ]
   },
   {
     "id": "scope-hcm",
@@ -46,7 +51,12 @@
       "2D"
     ],
     "phone": "+94112590814",
-    "details": "6 screens · A/C · IMAX"
+    "details": "6 screens · A/C · IMAX",
+    "specs": [
+      "6 Screens",
+      "AC",
+      "IMAX"
+    ]
   },
   {
     "id": "scope-colpetty",
@@ -65,7 +75,12 @@
       "2D"
     ],
     "phone": "+94112325266",
-    "details": "2 screens · A/C · 2K digital"
+    "details": "2 screens · A/C · 2K digital",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "scope-kiribathgoda",
@@ -85,7 +100,12 @@
       "2D"
     ],
     "phone": "+94112269005",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-savoy-metro-maharagama",
@@ -100,7 +120,12 @@
     ],
     "experiences": [],
     "phone": "+94117021443",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-savoy-metro-gampaha",
@@ -115,7 +140,12 @@
     ],
     "experiences": [],
     "phone": "+94117024047",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-savoy-premier-rajagiriya",
@@ -130,7 +160,12 @@
     ],
     "experiences": [],
     "phone": "+94114341782",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-savoy-premiere-roxy-cinema",
@@ -145,7 +180,12 @@
     ],
     "experiences": [],
     "phone": "+94117446223",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-regal",
@@ -160,7 +200,11 @@
     ],
     "experiences": [],
     "phone": "+94917214512",
-    "details": "1 screen · Non A/C · digital (E-Cinema)"
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "eap-samantha-2d",
@@ -175,7 +219,12 @@
     ],
     "experiences": [],
     "phone": "+94117432429",
-    "details": "1 screen · A/C · digital (E-Cinema)"
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "eap-sinexpo-3d",
@@ -193,7 +242,12 @@
       "3D"
     ],
     "phone": "+94377214542",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-jothi",
@@ -208,7 +262,11 @@
     ],
     "experiences": [],
     "phone": "+94457213751",
-    "details": "1 screen · Non A/C · digital (E-Cinema)"
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "eap-willmax",
@@ -223,7 +281,12 @@
     ],
     "experiences": [],
     "phone": "+94257429300",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-cinemax-3d",
@@ -241,7 +304,12 @@
       "3D"
     ],
     "phone": "+94117549650",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-concord",
@@ -256,7 +324,12 @@
     ],
     "experiences": [],
     "phone": "+94117549630",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-savoy-3d-dolby-atmos",
@@ -276,7 +349,12 @@
       "3D"
     ],
     "phone": "+94117444466",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "eap-savoy-2",
@@ -313,7 +391,12 @@
       "Luxe"
     ],
     "phone": "+94766447664",
-    "details": "9 screens · A/C · 4K digital"
+    "details": "9 screens · A/C · 4K digital",
+    "specs": [
+      "9 Screens",
+      "AC",
+      "4K Digital"
+    ]
   },
   {
     "id": "jp-kandy",
@@ -339,7 +422,12 @@
       "3D"
     ],
     "phone": "0710186186",
-    "details": "4 screens · A/C · 4K digital"
+    "details": "4 screens · A/C · 4K digital",
+    "specs": [
+      "4 Screens",
+      "AC",
+      "4K Digital"
+    ]
   },
   {
     "id": "str-rajah-1",
@@ -354,7 +442,12 @@
     ],
     "experiences": [],
     "phone": "+94212227232",
-    "details": "2 screens · A/C · 2K digital"
+    "details": "2 screens · A/C · 2K digital",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "str-rajah-2",
@@ -369,7 +462,12 @@
     ],
     "experiences": [],
     "phone": "+94212227232",
-    "details": "2 screens · A/C · 2K digital"
+    "details": "2 screens · A/C · 2K digital",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "str-amutha",
@@ -398,7 +496,11 @@
     ],
     "experiences": [],
     "phone": "+94242221410",
-    "details": "2 screens · Non A/C · digital (E-Cinema)"
+    "details": "2 screens · Non A/C · digital (E-Cinema)",
+    "specs": [
+      "2 Screens",
+      "E-Cinema"
+    ]
   },
   {
     "id": "str-shanthi",
@@ -413,7 +515,12 @@
     ],
     "experiences": [],
     "phone": "+94652223516",
-    "details": "2 screens · A/C · 2K digital"
+    "details": "2 screens · A/C · 2K digital",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "str-suganthi",
@@ -442,7 +549,11 @@
     ],
     "experiences": [],
     "phone": "+94262222221",
-    "details": "1 screen · Non A/C · digital (E-Cinema)"
+    "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "kcc-multiplex",
@@ -463,7 +574,12 @@
       "Multiplex"
     ],
     "phone": "+94812208077",
-    "details": "3 screens · A/C · 4K digital"
+    "details": "3 screens · A/C · 4K digital",
+    "specs": [
+      "3 Screens",
+      "AC",
+      "4K Digital"
+    ]
   },
   {
     "id": "ceylon-majestic-jaffna",
@@ -481,7 +597,12 @@
       "Multiplex"
     ],
     "phone": "+94212227712",
-    "details": "3 screens · A/C · 2K digital"
+    "details": "3 screens · A/C · 2K digital",
+    "specs": [
+      "3 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "chelva-jaffna",
@@ -496,7 +617,12 @@
     ],
     "experiences": [],
     "phone": "+94212227973",
-    "details": "1 screen · A/C · digital (E-Cinema)"
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "vijaya-batticaloa",
@@ -511,7 +637,12 @@
     ],
     "experiences": [],
     "phone": "+94701503677",
-    "details": "1 screen · A/C · digital (E-Cinema)"
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "lite-aqua-negombo",
@@ -520,36 +651,54 @@
     "name": "Aqua Lite 3D Cinema",
     "city": "Negombo",
     "address": "",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aqua+Lite+Cinema+Negombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aqua%20Lite%203D%20Cinema%20Negombo%20Sri%20Lanka",
     "formats": [
       "2D",
       "3D"
     ],
     "experiences": [
-      "3D"
+      "3D",
+      "Air Conditioned"
     ],
     "phone": "+94312121345",
-    "details": "1 screen · A/C · 2K digital"
+    "details": "1 screen · A/C · 2K digital",
+    "town": "Negombo",
+    "specs": [
+      "2K Projection",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-vox-lite",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "vox-lite",
-    "name": "Vox Lite",
+    "name": "VoxX Lite 3D Cinema",
     "city": "Colombo",
     "town": "Avissawella",
     "address": "Avissawella, Colombo",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vox%20Lite%20cinema%20Avissawella%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VoxX%20Lite%203D%20Cinema%20Avissawella%20Sri%20Lanka",
     "formats": [
-      "2K",
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "+94362222408",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "specs": [
+      "2K Projection",
+      "Dolby 5.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-majestic-city",
@@ -570,27 +719,40 @@
     ],
     "phone": "+94769371960",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "3 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-vijayanthi-kaduwela",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "vijayanthi-kaduwela",
-    "name": "Vijayanthi Kaduwela",
+    "name": "Vijayanthi by Lite Cinemas",
     "city": "Colombo",
     "town": "Kaduwela",
     "address": "Kaduwela, Colombo",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vijayanthi%20Kaduwela%20cinema%20Kaduwela%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vijayanthi%20by%20Lite%20Cinemas%20Kaduwela%20Sri%20Lanka",
     "formats": [
-      "2K",
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "+94112415647",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "specs": [
+      "2K Projection",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-ritz-borella",
@@ -610,7 +772,12 @@
     ],
     "phone": "+94112695384",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-rio-colombo",
@@ -630,7 +797,11 @@
     ],
     "phone": "+94112432170",
     "details": "1 screen · Non A/C · 35mm film",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "35mm Film"
+    ]
   },
   {
     "id": "nfc-regal-colombo",
@@ -645,7 +816,10 @@
     "experiences": [],
     "phone": "",
     "details": "1 screen",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen"
+    ]
   },
   {
     "id": "nfc-ricky-colombo-02",
@@ -663,7 +837,11 @@
     "experiences": [],
     "phone": "+94112389450",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-regal-dematagoda",
@@ -684,28 +862,40 @@
     ],
     "phone": "+94723535530",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "3 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-lekha-homagama",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "lekha-homagama",
-    "name": "Lekha Homagama",
+    "name": "Lite Cinema (Lekha)",
     "city": "Colombo",
     "town": "Homagama",
     "address": "Station Road, Homagama, Colombo",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lekha%20Homagama%20cinema%20Homagama%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lite%20Cinema%20(Lekha)%20Homagama%20Sri%20Lanka",
     "formats": [
-      "2K",
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "+94113155298",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "2K Projection",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters"
   },
   {
     "id": "nfc-new-rekha",
@@ -723,28 +913,39 @@
     "experiences": [],
     "phone": "+94717650400",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-amity-lite",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "amity-lite",
-    "name": "Amity Lite",
+    "name": "Amity Lite 3D Cinema",
     "city": "Colombo",
     "town": "Maharagama",
     "address": "Amity Building, High Level Road, Maharagama. Colombo",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amity%20Lite%20cinema%20Maharagama%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amity%20Lite%203D%20Cinema%20Maharagama%20Sri%20Lanka",
     "formats": [
-      "2K",
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "+94114346463",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "2K Laser",
+      "Dolby 5.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters"
   },
   {
     "id": "nfc-sky-lights",
@@ -764,7 +965,12 @@
     ],
     "phone": "+94715555515",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-cinecity-maradana",
@@ -785,7 +991,12 @@
     ],
     "phone": "+94115355055",
     "details": "3 screens · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "3 Screens",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-ruby-maligawatta",
@@ -805,7 +1016,12 @@
     ],
     "phone": "+94112327684",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-emess-moratuwa",
@@ -825,7 +1041,12 @@
     ],
     "phone": "+94763543256",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-eros-pamankada",
@@ -846,27 +1067,40 @@
     "phone": "+94776770129",
     "details": "1 screen · A/C · digital (E-Cinema)",
     "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-max-lite",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "max-lite",
-    "name": "Max Lite",
+    "name": "MaxX Lite 3D Cinema",
     "city": "Colombo",
     "town": "Moratuwa",
     "address": "Moratuwa, Colombo",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Max%20Lite%20cinema%20Moratuwa%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MaxX%20Lite%203D%20Cinema%20Moratuwa%20Sri%20Lanka",
     "formats": [
-      "2K",
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "+94114341508",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "specs": [
+      "2K Laser",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-regal-katubedda",
@@ -887,27 +1121,40 @@
     ],
     "phone": "+94112183470",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "3 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-city-cinema",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "city-cinema",
-    "name": "City Cinema",
+    "name": "City Lite 3D Cinema",
     "city": "Colombo",
-    "town": "Mt. Lavinia",
+    "town": "Mount Lavinia",
     "address": "Mt. Lavinia, Colombo",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Cinema%20cinema%20Mt.%20Lavinia%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Lite%203D%20Cinema%20Mount%20Lavinia%20Sri%20Lanka",
     "formats": [
-      "2K",
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "+94113603959",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "specs": [
+      "2K Projection",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-tharangani-colombo-07",
@@ -928,7 +1175,12 @@
     ],
     "phone": "+94112582513",
     "details": "1 screen · A/C · 4K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "4K Digital"
+    ]
   },
   {
     "id": "nfc-regal-gampaha",
@@ -950,7 +1202,12 @@
     "phone": "+94115999999",
     "details": "2 screens · A/C · 2K digital",
     "source": "nfc",
-    "bookingUrl": "https://www.taktikbook.lk/theater/savoy-metro-gampaha"
+    "bookingUrl": "https://www.taktikbook.lk/theater/savoy-metro-gampaha",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-himali-kiribathgoda",
@@ -968,7 +1225,11 @@
     "experiences": [],
     "phone": "+94112907732",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-roo-katunayake",
@@ -988,7 +1249,12 @@
     ],
     "phone": "+94773903336",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-new-jayalath",
@@ -1008,27 +1274,39 @@
     ],
     "phone": "+94766783457",
     "details": "1 screen · Non A/C · 35mm film",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "35mm Film"
+    ]
   },
   {
     "id": "nfc-nikado-kadawatha",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "nikado-kadawatha",
-    "name": "Nikado Kadawatha",
+    "name": "Nikado by Lite Cinemas",
     "city": "Gampaha",
     "town": "Kadawatha",
     "address": "Kadawatha, Gampaha",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nikado%20Kadawatha%20cinema%20Kadawatha%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nikado%20by%20Lite%20Cinemas%20Kadawatha%20Sri%20Lanka",
     "formats": [
-      "2K",
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "+94114347705",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "specs": [
+      "2K Projection",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-ram-cinema",
@@ -1051,7 +1329,12 @@
     ],
     "phone": "+94770181811",
     "details": "3 screens · A/C · 4K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "3 Screens",
+      "AC",
+      "4K Digital"
+    ]
   },
   {
     "id": "nfc-royal-negombo",
@@ -1069,7 +1352,11 @@
     "experiences": [],
     "phone": "+94312224566",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-wijya-cinema",
@@ -1090,7 +1377,12 @@
     ],
     "phone": "+94741880216",
     "details": "1 screen · A/C · 4K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "4K Digital"
+    ]
   },
   {
     "id": "nfc-prasanna-lite",
@@ -1110,7 +1402,12 @@
     ],
     "phone": "+94778233521",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-city-cinema-gampaha",
@@ -1130,7 +1427,12 @@
     ],
     "phone": "+94774374696",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-c-k-kirindiwela",
@@ -1150,7 +1452,12 @@
     ],
     "phone": "+94332267960",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-wins-wadduwa",
@@ -1168,7 +1475,11 @@
     "experiences": [],
     "phone": "+94760319771",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-dulmini-horana",
@@ -1186,7 +1497,11 @@
     "experiences": [],
     "phone": "+94716057649",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-don-plaza",
@@ -1206,7 +1521,12 @@
     ],
     "phone": "+94342222421",
     "details": "2 screens · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-new-janaki",
@@ -1224,7 +1544,11 @@
     "experiences": [],
     "phone": "+94342211720",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-new-champika",
@@ -1242,7 +1566,11 @@
     "experiences": [],
     "phone": "+94114881886",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-dinusha-nawalapitiya",
@@ -1262,7 +1590,12 @@
     ],
     "phone": "+94542222423",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-ananda-gampola",
@@ -1283,7 +1616,11 @@
     "phone": "+94773890620",
     "details": "1 screen · Non A/C · 35mm film",
     "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "1 Screen",
+      "35mm Film"
+    ]
   },
   {
     "id": "nfc-hasalaka",
@@ -1301,7 +1638,11 @@
     "experiences": [],
     "phone": "+94765790075",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-jayabima-gampola",
@@ -1319,7 +1660,11 @@
     "experiences": [],
     "phone": "+94777234679",
     "details": "1 screen · Non A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-lakmali-ragala",
@@ -1337,7 +1682,11 @@
     "experiences": [],
     "phone": "+94777843379",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-regal-nuwara-eliya",
@@ -1358,7 +1707,12 @@
     ],
     "phone": "+9452222582",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-central-matale",
@@ -1379,7 +1733,11 @@
     "phone": "+94776163674",
     "details": "1 screen · Non A/C · 35mm film",
     "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "1 Screen",
+      "35mm Film"
+    ]
   },
   {
     "id": "nfc-ama-matale",
@@ -1399,7 +1757,12 @@
     ],
     "phone": "+94766106612",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-new-line",
@@ -1419,7 +1782,12 @@
     ],
     "phone": "+94774343914",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-prince-galle",
@@ -1438,7 +1806,11 @@
     "phone": "+94912234706",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-s-k-matara",
@@ -1458,7 +1830,12 @@
     ],
     "phone": "+94412222151",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-h-r-dickwella",
@@ -1476,7 +1853,11 @@
     "experiences": [],
     "phone": "+94412255002",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-darshana-akuressa",
@@ -1494,27 +1875,39 @@
     "experiences": [],
     "phone": "+94412283766",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-sky-lite",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "sky-lite",
-    "name": "Sky Lite",
+    "name": "Sky Lite 3D Cinema",
     "city": "Matara",
     "town": "Matara",
     "address": "Matara",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sky%20Lite%20cinema%20Matara%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sky%20Lite%203D%20Cinema%20Matara%20Sri%20Lanka",
     "formats": [
-      "2K",
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "+94414933130",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "specs": [
+      "2K Projection",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-ruhunu-tangalle",
@@ -1533,7 +1926,11 @@
     "phone": "+94718082620",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-new-rohana",
@@ -1551,7 +1948,11 @@
     "experiences": [],
     "phone": "+94724745759",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-rex-badulla",
@@ -1569,7 +1970,11 @@
     "experiences": [],
     "phone": "+94773650269",
     "details": "2 screens · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "2 Screens",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-regal-diyathalawa",
@@ -1587,7 +1992,11 @@
     "experiences": [],
     "phone": "+94773172399",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-regal-bandarawela",
@@ -1608,7 +2017,12 @@
     ],
     "phone": "+94572051638",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-h-h-p-monaragala",
@@ -1626,7 +2040,11 @@
     "experiences": [],
     "phone": "+94771798183",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-seran-cinema",
@@ -1646,7 +2064,11 @@
     ],
     "phone": "",
     "details": "1 screen · A/C",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC"
+    ]
   },
   {
     "id": "nfc-sas-trincomalee",
@@ -1665,26 +2087,39 @@
     ],
     "phone": "",
     "details": "1 screen · A/C",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC"
+    ]
   },
   {
     "id": "nfc-cinesha-cinema-misty-lite",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "cinesha-cinema-misty-lite",
-    "name": "Cinesha Cinema (Misty Lite)",
+    "name": "Misty Lite 3D Cinema",
     "city": "Kandy",
     "town": "Nawalapitiya",
     "address": "Nawalapitiya, Kandy",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinesha%20Cinema%20(Misty%20Lite)%20cinema%20Nawalapitiya%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Misty%20Lite%203D%20Cinema%20Nawalapitiya%20Sri%20Lanka",
     "formats": [
-      "A/C"
+      "2D",
+      "3D"
     ],
     "experiences": [
+      "3D",
       "Air Conditioned"
     ],
     "phone": "",
     "details": "1 screen · A/C",
-    "source": "nfc"
+    "specs": [
+      "2K Projection",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-bala-chavakachcheri",
@@ -1705,7 +2140,12 @@
     "phone": "+94779830259",
     "details": "1 screen · A/C · digital (E-Cinema)",
     "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-salu-point-pedro",
@@ -1726,7 +2166,12 @@
     ],
     "phone": "+94212265000",
     "details": "2 screens · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-nahams-chunnakam",
@@ -1746,7 +2191,12 @@
     ],
     "phone": "+94772189646",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-sun-cinema",
@@ -1766,7 +2216,12 @@
     ],
     "phone": "+94772522585",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-wellington-kantale",
@@ -1784,7 +2239,11 @@
     "experiences": [],
     "phone": "+94779148209",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-nelson-trincomalee",
@@ -1804,7 +2263,12 @@
     ],
     "phone": "+94262222528",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-annai-sellam",
@@ -1826,7 +2290,12 @@
     "phone": "+94740344434",
     "details": "2 screens · A/C · 2K digital",
     "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-kibesh-mankadu",
@@ -1846,7 +2315,12 @@
     ],
     "phone": "+94706258568",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-p-c-a-thalankudah",
@@ -1867,7 +2341,12 @@
     ],
     "phone": "+94743776727",
     "details": "1 screen · A/C · 4K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "4K Digital"
+    ]
   },
   {
     "id": "nfc-g-k-kalmunai",
@@ -1888,7 +2367,12 @@
     ],
     "phone": "+94771237195",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "2 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-archana-akkaraipattu",
@@ -1908,25 +2392,37 @@
     ],
     "phone": "+94772273962",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-sarasavi-alawwa",
-    "cinemaId": "nfc",
+    "cinemaId": "lite",
     "slug": "sarasavi-alawwa",
-    "name": "Sarasavi Alawwa",
+    "name": "Sarasavi by Lite Cinemas",
     "city": "Kurunegala",
     "town": "Alawwa",
     "address": "Alawwa, Kurunegala",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarasavi%20Alawwa%20cinema%20Alawwa%20Sri%20Lanka",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarasavi%20by%20Lite%20Cinemas%20Alawwa%20Sri%20Lanka",
     "formats": [
-      "E-Cinema",
-      "Non A/C"
+      "2D"
     ],
-    "experiences": [],
+    "experiences": [
+      "Air Conditioned"
+    ],
     "phone": "+94372278128",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "specs": [
+      "2K Projection",
+      "Dolby 5.1",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   },
   {
     "id": "nfc-mahalekam-kuliyapitiya",
@@ -1944,7 +2440,11 @@
     "experiences": [],
     "phone": "+94715264057",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-lakbima-kuliyapitiya",
@@ -1964,7 +2464,12 @@
     ],
     "phone": "+94779207501",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-new-nanda",
@@ -1982,7 +2487,11 @@
     "experiences": [],
     "phone": "+94785930004",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-sriya-wariyapola",
@@ -2000,7 +2509,11 @@
     "experiences": [],
     "phone": "+94764679443",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-n-i-t-kurunegala",
@@ -2020,7 +2533,12 @@
     ],
     "phone": "+94372222337",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-sandalanka-sandalankawa",
@@ -2038,7 +2556,11 @@
     "experiences": [],
     "phone": "+94725277244",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-samanala-melsiripura",
@@ -2058,7 +2580,12 @@
     ],
     "phone": "+94760171210",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-ramoga-wennappuwa",
@@ -2078,7 +2605,12 @@
     ],
     "phone": "+94703788188",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-shamrock-wennappuwa",
@@ -2096,7 +2628,11 @@
     "experiences": [],
     "phone": "+94777654387",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-lakmal-arachchikattuwa",
@@ -2114,7 +2650,11 @@
     "experiences": [],
     "phone": "+94779379812",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-ramoga-puttalam",
@@ -2134,7 +2674,12 @@
     ],
     "phone": "+94703788188",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-ramoga-chilaw",
@@ -2154,7 +2699,12 @@
     ],
     "phone": "+94703788188",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-vijendra-anuradhapura",
@@ -2172,7 +2722,11 @@
     "experiences": [],
     "phone": "+94252223766",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-e-d-c-kekirawa",
@@ -2192,7 +2746,12 @@
     ],
     "phone": "+94252265544",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-cinemax-kaduruwela",
@@ -2212,7 +2771,12 @@
     ],
     "phone": "+94272121666",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-tarzan-kegalle",
@@ -2231,7 +2795,11 @@
     "phone": "+94352233677",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
-    "bookingUrl": "https://www.taktikbook.lk/theater/tarzan-cinema"
+    "bookingUrl": "https://www.taktikbook.lk/theater/tarzan-cinema",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-regent-rambukkana",
@@ -2250,7 +2818,11 @@
     "phone": "+94716325422",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
-    "bookingUrl": "https://www.taktikbook.lk/theater/regent-cinema-rabukkana"
+    "bookingUrl": "https://www.taktikbook.lk/theater/regent-cinema-rabukkana",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-milano-kegalle",
@@ -2273,7 +2845,12 @@
     "details": "3 screens · A/C · 2K digital",
     "source": "nfc",
     "bookingUrl": "https://www.taktikbook.lk/theater/milano-gold",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "3 Screens",
+      "AC",
+      "2K Digital"
+    ]
   },
   {
     "id": "nfc-asiri-eheliyagoda",
@@ -2292,7 +2869,11 @@
     "phone": "+94764255659",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
-    "confirmed": true
+    "confirmed": true,
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-gamini-eheliyagoda",
@@ -2310,7 +2891,11 @@
     "experiences": [],
     "phone": "+94718950362",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-new-vishaka",
@@ -2328,7 +2913,11 @@
     "experiences": [],
     "phone": "+94765312530",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-new-town",
@@ -2346,7 +2935,11 @@
     "experiences": [],
     "phone": "+94773368835",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "E-Cinema"
+    ]
   },
   {
     "id": "nfc-n-i-t-ratnapura",
@@ -2366,6 +2959,65 @@
     ],
     "phone": "+94452222417",
     "details": "1 screen · A/C · 2K digital",
-    "source": "nfc"
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
+      "AC",
+      "2K Digital"
+    ]
+  },
+  {
+    "id": "lite-priska-kalutara",
+    "cinemaId": "lite",
+    "slug": "priska-lite-3d-cinema",
+    "name": "Priska Lite 3D Cinema",
+    "city": "Kalutara",
+    "town": "Kalutara",
+    "address": "Kalutara, Kalutara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Priska%20Lite%203D%20Cinema%20Kalutara%20Sri%20Lanka",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "experiences": [
+      "3D",
+      "Air Conditioned"
+    ],
+    "phone": "",
+    "specs": [
+      "2K Projection",
+      "Dolby 7.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
+  },
+  {
+    "id": "lite-neela-dankotuwa",
+    "cinemaId": "lite",
+    "slug": "neela-by-lite-cinemas",
+    "name": "Neela by Lite Cinemas",
+    "city": "Puttalam",
+    "town": "Dankotuwa",
+    "address": "Dankotuwa, Puttalam",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Neela%20by%20Lite%20Cinemas%20Dankotuwa%20Sri%20Lanka",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "experiences": [
+      "3D",
+      "Air Conditioned"
+    ],
+    "phone": "",
+    "specs": [
+      "2K Projection",
+      "Dolby 5.1",
+      "3D",
+      "AC"
+    ],
+    "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
   }
 ]

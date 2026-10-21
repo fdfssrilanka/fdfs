@@ -58,5 +58,25 @@
     "movieId": "eap-2029",
     "cinemaId": "eap",
     "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2029"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "cinemaId": "lite",
+    "bookingUrl": "https://www.litecinemas.lk/movies/eda-raa"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "cinemaId": "lite",
+    "bookingUrl": "https://www.litecinemas.lk/movies/jailer-2"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "cinemaId": "lite",
+    "bookingUrl": "https://www.litecinemas.lk/movies/ahasa-tharam"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "cinemaId": "lite",
+    "bookingUrl": "https://www.litecinemas.lk/movies/cricket-sadu"
   }
 ]

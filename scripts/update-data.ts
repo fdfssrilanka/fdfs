@@ -9,6 +9,8 @@ import * as other from "./scrapers/other";
 import * as jp from "./scrapers/jp";
 import * as tm from "./scrapers/ticketmaster";
 import * as nfc from "./scrapers/nfc";
+import * as lite from "./scrapers/lite";
+import { deriveSpecs } from "./lib/specs";
 import * as tt from "./scrapers/taktikbook";
 import * as offersScraper from "./scrapers/offers";
 import * as dialus from "./scrapers/dialus";
@@ -128,12 +130,14 @@ async function main() {
   }
   console.log(`directory cross-check: ${confirmed} of ${n.theatres.length} directory-only cinemas matched a second directory (${dl.length} entries read)`);
 
+  const allTheatres = deriveSpecs(lite.applyLite([...theatres, ...n.theatres]));
+
   const out = {
     "movies.json": movies,
-    "cinemas.json": [s.cinema, e.cinema, pvr.cinema, j.cinema, t.cinema, ...other.cinemas, n.cinema, tt.cinema],
-    "theatres.json": [...theatres, ...n.theatres],
+    "cinemas.json": [s.cinema, e.cinema, pvr.cinema, j.cinema, t.cinema, ...other.cinemas.filter((c) => c.id !== "lite"), lite.cinema, n.cinema, tt.cinema],
+    "theatres.json": allTheatres,
     "showtimes.json": showtimes,
-    "listings.json": listings,
+    "listings.json": [...listings, ...lite.LISTINGS],
     "offers.json": offers,
   };
   await mkdir(DATA, { recursive: true });
