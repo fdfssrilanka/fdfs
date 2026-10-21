@@ -54,11 +54,11 @@ export default function About() {
         {hero && <Image src={hero.backdropUrl} alt="" fill priority sizes="100vw" className="-z-10 object-cover object-right opacity-60" />}
         <div className="absolute inset-0 -z-10 bg-gradient-to-r from-bg via-bg/85 to-bg/30 max-sm:to-bg/70" />
         <div className="mx-auto max-w-5xl px-4 py-14 sm:py-24">
-          <h1 className="max-w-3xl font-display text-6xl uppercase leading-[0.9] sm:text-8xl">First day,<br />first show,<br /><span className="text-accent">found fast.</span></h1>
+          <h1 className="max-w-3xl font-display text-6xl uppercase leading-[0.9] sm:text-8xl">First day,<br />first show,<br /><span className="text-link">found fast.</span></h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink/90">fdfs.lk shows you which Sri Lankan cinemas are playing a movie and when, then takes you straight to the cinema&apos;s own booking page.</p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="/movies" className="inline-flex min-h-12 items-center rounded-full bg-link2 px-6 text-sm font-bold text-white hover:brightness-110">Browse movies</Link>
-            <Link href="/theatres" className="inline-flex min-h-12 items-center rounded-full border border-white/40 px-6 text-sm font-bold hover:border-accent hover:text-accent">Find a cinema</Link>
+            <Link href="/theatres" className="inline-flex min-h-12 items-center rounded-full border border-white/40 px-6 text-sm font-bold hover:border-link hover:text-link">Find a cinema</Link>
           </div>
         </div>
       </section>
@@ -67,7 +67,7 @@ export default function About() {
         <dl className="-mt-px grid grid-cols-2 divide-line border-b border-line sm:grid-cols-4 sm:divide-x">
           {stats.map((s, i) => (
             <div key={s.label} className={`px-4 py-6 ${i % 2 === 1 ? "max-sm:border-l max-sm:border-line" : ""} ${i > 1 ? "max-sm:border-t max-sm:border-line" : ""}`}>
-              <dd className="font-display text-5xl leading-none text-accent">{s.n}</dd>
+              <dd className="font-display text-5xl leading-none text-link">{s.n}</dd>
               <dt className="mt-1 text-sm text-muted">{s.label}</dt>
             </div>
           ))}
@@ -79,7 +79,7 @@ export default function About() {
             {STEPS.map((s, i) => (
               <li key={s.title} className="relative flex gap-5 pb-10 last:pb-0">
                 {i < STEPS.length - 1 && <span aria-hidden className="absolute left-[1.35rem] top-14 h-[calc(100%-3.5rem)] w-px bg-line" />}
-                <span className="flex size-11 shrink-0 items-center justify-center rounded-full bg-accent font-display text-2xl text-white">{i + 1}</span>
+                <span className="flex size-11 shrink-0 items-center justify-center rounded-full bg-link2 font-display text-2xl text-white">{i + 1}</span>
                 <div className="pt-1">
                   <h3 className="text-lg font-bold">{s.title}</h3>
                   <p className="mt-1 max-w-xl text-muted">{s.text}</p>
@@ -124,7 +124,7 @@ export default function About() {
           <div className="mt-8 grid gap-6 md:grid-cols-3">
             {PRIVACY.map((p) => (
               <div key={p.title}>
-                <p.icon className="size-7 text-accent" aria-hidden strokeWidth={1.75} />
+                <p.icon className="size-7 text-link" aria-hidden strokeWidth={1.75} />
                 <h3 className="mt-3 font-bold">{p.title}</h3>
                 <p className="mt-1 text-sm leading-relaxed text-muted">{p.text}</p>
               </div>
