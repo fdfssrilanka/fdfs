@@ -4,6 +4,7 @@ import TrackedLink from "@/components/TrackedLink";
 import { ExternalLink, MapPin, Phone } from "lucide-react";
 import AdSquare from "@/components/AdSquare";
 import { BadgeRow } from "@/components/ExperienceBadge";
+import SpecBadge from "@/components/SpecBadge";
 import FaqList from "@/components/Faq";
 import OfferTag from "@/components/OfferTag";
 import OffersSection from "@/components/OffersSection";
@@ -43,6 +44,8 @@ export default async function TheatrePage({ params }: { params: Promise<{ slug: 
   const showtimes = getShowtimesForTheatre(th.id);
   const movies = getMoviesAtTheatre(th.id);
   const { short, title } = theatreNames(th);
+  const specs = th.specs ?? [];
+  const exps = th.experiences.filter((e) => !(specs.includes("AC") && e === "Air Conditioned") && !(specs.includes("3D") && e === "3D"));
   const site = host(th.bookingUrl ?? cinema.website);
   const fbOnly = site.includes("facebook.com");
   const dirOnly = th.source === "nfc" && showtimes.length === 0;
@@ -89,7 +92,7 @@ export default async function TheatrePage({ params }: { params: Promise<{ slug: 
               ? `${th.name} is a cinema in ${th.city}. Showtimes aren't published in a form we can list, so check its Facebook page or call to see what's on.`
               : `${th.name} is a cinema in ${th.city}. Showtimes aren't published in a form we can list yet, so use ${site} to see what's on and to book tickets online.`}
       </p>
-      {th.details && <p className="mt-2 text-sm font-semibold text-ink/80">{th.details}</p>}
+      {th.details && !specs.length && <p className="mt-2 text-sm font-semibold text-ink/80">{th.details}</p>}
       {(ALSO_KNOWN_AS[th.id] ?? []).length > 0 && <p className="mt-2 text-sm text-muted">Also searched as: {(ALSO_KNOWN_AS[th.id] ?? []).join(" · ")}</p>}
       {getTown(th) && <p className="mt-2 text-sm"><Link href={`/areas/${slugify(getTown(th)!)}`} className="text-link underline underline-offset-2">All film halls and cinemas in {getTown(th)}</Link></p>}
       <div className="mt-3 flex flex-wrap gap-4 text-sm font-semibold">
@@ -97,12 +100,14 @@ export default async function TheatrePage({ params }: { params: Promise<{ slug: 
         <a href={th.mapsUrl} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-11 items-center gap-1.5 text-link hover:underline"><MapPin className="size-4" aria-hidden /> {t("movie.viewMap")}</a>
         {th.phone && <a href={`tel:${th.phone}`} className="inline-flex min-h-11 items-center gap-1.5 hover:text-accent"><Phone className="size-4" aria-hidden /> {th.phone}</a>}
       </div>
-      {th.specs && th.specs.length > 0 && (
-        <div className="mt-4 flex flex-wrap gap-2">{th.specs.map((s) => <span key={s} className="rounded border border-line px-2 py-0.5 text-sm font-bold text-ink/85">{s}</span>)}</div>
+      {specs.length > 0 && (
+        <div className="mt-4 flex flex-wrap items-center gap-2">
+          {specs.map((x) => <SpecBadge key={x} spec={x} />)}
+        </div>
       )}
-      {th.experiences.length > 0 && (
-        <div className="mt-4">
-          <BadgeRow names={th.experiences} />
+      {exps.length > 0 && (
+        <div className="mt-3">
+          <BadgeRow names={exps} />
         </div>
       )}
 

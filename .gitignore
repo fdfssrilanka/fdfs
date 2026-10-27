@@ -52,3 +52,6 @@ dev-server.log
 # local sample booking demo (never committed or published)
 /app/demo-booking/
 /components/demo/
+
+# local secrets for wrangler/opennext
+.dev.vars

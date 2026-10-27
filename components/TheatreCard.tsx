@@ -2,11 +2,14 @@ import Link from "next/link";
 import { MapPin } from "lucide-react";
 import type { Theatre } from "@/lib/types";
 import { BadgeRow } from "./ExperienceBadge";
+import SpecBadge from "./SpecBadge";
 import { getOffersForCinemas, hasShowtimes } from "@/lib/data";
 import HeartButton from "./HeartButton";
 import OfferTag from "./OfferTag";
 
 export default function TheatreCard({ theatre, chain, className = "", distanceKm }: { theatre: Theatre; chain?: string; className?: string; distanceKm?: number | null }) {
+  const specs = theatre.specs ?? [];
+  const exps = theatre.experiences.filter((e) => !(specs.includes("AC") && e === "Air Conditioned") && !(specs.includes("3D") && e === "3D"));
   return (
     <div className={`relative h-full ${className}`}>
       <Link href={`/theatres/${theatre.slug}`} className="flex h-full flex-col rounded-2xl border border-line bg-surface p-4 pr-14 hover:border-accent">
@@ -22,12 +25,14 @@ export default function TheatreCard({ theatre, chain, className = "", distanceKm
         <p className="mt-1 flex items-start gap-1.5 text-sm text-muted">
           <MapPin aria-hidden className="mt-0.5 size-4 shrink-0" /> <span>{theatre.address || theatre.city}</span>
         </p>
-        {theatre.specs && theatre.specs.length > 0 && (
-          <div className="mt-3 flex flex-wrap gap-1.5">{theatre.specs.map((s) => <span key={s} className="rounded border border-line px-2 py-0.5 text-xs font-bold text-ink/85">{s}</span>)}</div>
+        {specs.length > 0 && (
+          <div className="mt-3 flex flex-wrap items-center gap-1.5">
+            {specs.map((x) => <SpecBadge key={x} spec={x} size="sm" />)}
+          </div>
         )}
-        {theatre.experiences.length > 0 && (
-          <div className="mt-3">
-            <BadgeRow names={theatre.experiences} size="sm" />
+        {exps.length > 0 && (
+          <div className="mt-2">
+            <BadgeRow names={exps} size="sm" />
           </div>
         )}
       </Link>

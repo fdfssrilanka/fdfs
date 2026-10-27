@@ -71,3 +71,9 @@ Collected 2026-10-20 to 2026-10-21 (re-run `npm run update-data` to refresh) by 
 - EAP-only movies have no genres, cast, director, release date or backdrop.
 - Neera, Sinhabahu, Mother Lanka and Udeshi City film halls: no cinema with those names was found.
 - Jaffna, Galle, Batticaloa, Trincomalee, Negombo: no verified operating cinema with a public booking source was found, so none are listed.
+
+## BookMyShow Sri Lanka (showtimes and prices)
+
+`data/raw/bookmyshow.txt` is a snapshot of lk.bookmyshow.com movie pages (`/buytickets/<movie>-sri-lanka/movie-snlk-<ET id>-MT/<yyyymmdd>`), one page per movie and date. The site blocks scripted requests, so the pages were loaded in a normal browser session and each session's venue, time and ticket-price categories were copied into the snapshot. `scripts/scrapers/bookmyshow.ts` turns it into showtimes (lowest price per session) for theatres that have none from their own site, and creates the seven theatres we were missing. Re-apply with `npx tsx scripts/apply-bms.ts`. Refresh by re-collecting the snapshot; it goes stale after 2026-10-29.
+
+The nine movies only BookMyShow lists (Ayu, Dinga, Drishyam: The Conclusion, Angel And The Badman, Udta Teer, Porattam, Anbil Avan, Ethalaya, Villain) are defined in `EXTRA_MOVIES` in `scripts/scrapers/bookmyshow.ts` from each movie's BookMyShow page (genre, language, release date, cast, director; synopsis written by us). Posters come from the same pages and are saved as WebP in `public/images/posters`. No runtimes or trailers are published there.

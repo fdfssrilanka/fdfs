@@ -1,4 +1,5 @@
 import { getCloudflareContext } from "@opennextjs/cloudflare";
+import { exec } from "@/lib/backend/db";
 
 export const dynamic = "force-dynamic";
 
@@ -9,7 +10,7 @@ interface Dataset {
 }
 
 /**
- * Records an outbound click. Stored in a Workers Analytics Engine dataset (binding CLICKS).
+ * Records an outbound click in the D1 `clicks` table (read by the admin dashboard) and in a Workers Analytics Engine dataset (binding CLICKS).
  * No cookies, IPs or user ids are kept, only what was clicked and the visitor's country.
  */
 export async function POST(req: Request) {
@@ -36,14 +37,24 @@ export async function POST(req: Request) {
   if (!KINDS.has(kind)) return new Response(null, { status: 400 });
 
   const blobs = [kind, s("movieId"), s("theatreId"), s("cinemaId"), host, s("format", 30), s("date", 10), s("time", 5), s("page", 120)];
+  let country = "";
   try {
     const { env, cf } = await getCloudflareContext({ async: true });
     const ds = (env as unknown as { CLICKS?: Dataset }).CLICKS;
-    blobs.push(String(cf?.country ?? ""));
+    country = String(cf?.country ?? "");
+    blobs.push(country);
     if (ds) ds.writeDataPoint({ indexes: [s("movieId") || kind], blobs, doubles: [1] });
     else console.log("[click]", JSON.stringify(blobs));
   } catch {
     console.log("[click]", JSON.stringify(blobs));
+  }
+  try {
+    await exec(
+      "INSERT INTO clicks (kind, movie_id, theatre_id, cinema_id, host, format, show_date, show_time, page, country) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+      kind, s("movieId"), s("theatreId"), s("cinemaId"), host, s("format", 30), s("date", 10), s("time", 5), s("page", 120), country,
+    );
+  } catch (e) {
+    console.log("[click] database write failed", e instanceof Error ? e.message : e);
   }
   return new Response(null, { status: 204 });
 }

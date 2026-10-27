@@ -70,5 +70,11 @@
     "name": "Lite Cinemas",
     "website": "https://www.litecinemas.lk",
     "bookingSite": "https://www.litecinemas.lk/theaters"
+  },
+  {
+    "id": "bms",
+    "name": "BookMyShow Sri Lanka",
+    "website": "https://lk.bookmyshow.com",
+    "bookingSite": "https://lk.bookmyshow.com"
   }
 ]

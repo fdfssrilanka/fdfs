@@ -59,6 +59,8 @@ export interface Showtime {
   time: string;
   format: string;
   bookingUrl: string;
+  /** Lowest ticket price in LKR, when the booking site publishes it. */
+  price?: number;
 }
 
 /** Movie playing at a chain whose showtimes we cannot read: a link to its own booking page instead. */

@@ -24,8 +24,7 @@
     "details": "6 screens · A/C · 4K digital",
     "specs": [
       "6 Screens",
-      "AC",
-      "4K Digital"
+      "AC"
     ]
   },
   {
@@ -54,8 +53,7 @@
     "details": "6 screens · A/C · IMAX",
     "specs": [
       "6 Screens",
-      "AC",
-      "IMAX"
+      "AC"
     ]
   },
   {
@@ -78,8 +76,7 @@
     "details": "2 screens · A/C · 2K digital",
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -103,8 +100,7 @@
     "details": "1 screen · A/C · 2K digital",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -121,10 +117,10 @@
     "experiences": [],
     "phone": "+94117021443",
     "details": "1 screen · A/C · 2K digital",
+    "confirmed": true,
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -143,8 +139,7 @@
     "details": "1 screen · A/C · 2K digital",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -163,8 +158,7 @@
     "details": "1 screen · A/C · 2K digital",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -183,8 +177,7 @@
     "details": "1 screen · A/C · 2K digital",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -201,9 +194,9 @@
     "experiences": [],
     "phone": "+94917214512",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "confirmed": true,
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -222,8 +215,7 @@
     "details": "1 screen · A/C · digital (E-Cinema)",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -245,8 +237,7 @@
     "details": "1 screen · A/C · 2K digital",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -264,8 +255,7 @@
     "phone": "+94457213751",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -284,8 +274,7 @@
     "details": "1 screen · A/C · 2K digital",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -307,8 +296,7 @@
     "details": "1 screen · A/C · 2K digital",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -325,10 +313,10 @@
     "experiences": [],
     "phone": "+94117549630",
     "details": "1 screen · A/C · 2K digital",
+    "confirmed": true,
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -352,8 +340,7 @@
     "details": "1 screen · A/C · 2K digital",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -392,10 +379,10 @@
     ],
     "phone": "+94766447664",
     "details": "9 screens · A/C · 4K digital",
+    "confirmed": true,
     "specs": [
       "9 Screens",
-      "AC",
-      "4K Digital"
+      "AC"
     ]
   },
   {
@@ -425,8 +412,7 @@
     "details": "4 screens · A/C · 4K digital",
     "specs": [
       "4 Screens",
-      "AC",
-      "4K Digital"
+      "AC"
     ]
   },
   {
@@ -445,8 +431,7 @@
     "details": "2 screens · A/C · 2K digital",
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -465,8 +450,7 @@
     "details": "2 screens · A/C · 2K digital",
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -498,8 +482,7 @@
     "phone": "+94242221410",
     "details": "2 screens · Non A/C · digital (E-Cinema)",
     "specs": [
-      "2 Screens",
-      "E-Cinema"
+      "2 Screens"
     ]
   },
   {
@@ -518,8 +501,7 @@
     "details": "2 screens · A/C · 2K digital",
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -551,8 +533,7 @@
     "phone": "+94262222221",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -577,8 +558,7 @@
     "details": "3 screens · A/C · 4K digital",
     "specs": [
       "3 Screens",
-      "AC",
-      "4K Digital"
+      "AC"
     ]
   },
   {
@@ -598,10 +578,10 @@
     ],
     "phone": "+94212227712",
     "details": "3 screens · A/C · 2K digital",
+    "confirmed": true,
     "specs": [
       "3 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -620,8 +600,7 @@
     "details": "1 screen · A/C · digital (E-Cinema)",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -640,8 +619,7 @@
     "details": "1 screen · A/C · digital (E-Cinema)",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -702,7 +680,7 @@
   },
   {
     "id": "nfc-majestic-city",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "majestic-city",
     "name": "Majestic City",
     "city": "Colombo",
@@ -719,11 +697,10 @@
     ],
     "phone": "+94769371960",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "3 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -756,7 +733,7 @@
   },
   {
     "id": "nfc-ritz-borella",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "ritz-borella",
     "name": "Ritz Borella",
     "city": "Colombo",
@@ -772,11 +749,10 @@
     ],
     "phone": "+94112695384",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -799,8 +775,7 @@
     "details": "1 screen · Non A/C · 35mm film",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "35mm Film"
+      "1 Screen"
     ]
   },
   {
@@ -823,7 +798,7 @@
   },
   {
     "id": "nfc-ricky-colombo-02",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "ricky-colombo-02",
     "name": "Ricky Colombo 02",
     "city": "Colombo",
@@ -837,15 +812,14 @@
     "experiences": [],
     "phone": "+94112389450",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
     "id": "nfc-regal-dematagoda",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-dematagoda",
     "name": "Regal Dematagoda",
     "city": "Colombo",
@@ -862,11 +836,10 @@
     ],
     "phone": "+94723535530",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "3 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -915,8 +888,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -968,13 +940,12 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
     "id": "nfc-cinecity-maradana",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "cinecity-maradana",
     "name": "Cinecity Maradana",
     "city": "Colombo",
@@ -991,11 +962,10 @@
     ],
     "phone": "+94115355055",
     "details": "3 screens · A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "3 Screens",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1019,8 +989,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1044,8 +1013,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1070,8 +1038,7 @@
     "confirmed": true,
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1104,7 +1071,7 @@
   },
   {
     "id": "nfc-regal-katubedda",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-katubedda",
     "name": "Regal Katubedda",
     "city": "Colombo",
@@ -1121,11 +1088,10 @@
     ],
     "phone": "+94112183470",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "3 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -1178,8 +1144,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "4K Digital"
+      "AC"
     ]
   },
   {
@@ -1201,12 +1166,11 @@
     ],
     "phone": "+94115999999",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc",
     "bookingUrl": "https://www.taktikbook.lk/theater/savoy-metro-gampaha",
+    "confirmed": true,
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -1227,8 +1191,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1252,8 +1215,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1276,8 +1238,7 @@
     "details": "1 screen · Non A/C · 35mm film",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "35mm Film"
+      "1 Screen"
     ]
   },
   {
@@ -1332,8 +1293,7 @@
     "source": "nfc",
     "specs": [
       "3 Screens",
-      "AC",
-      "4K Digital"
+      "AC"
     ]
   },
   {
@@ -1354,13 +1314,12 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
     "id": "nfc-wijya-cinema",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "wijya-cinema",
     "name": "Wijya Cinema",
     "city": "Gampaha",
@@ -1377,16 +1336,15 @@
     ],
     "phone": "+94741880216",
     "details": "1 screen · A/C · 4K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
-      "AC",
-      "4K Digital"
+      "AC"
     ]
   },
   {
     "id": "nfc-prasanna-lite",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "prasanna-lite",
     "name": "Prasanna Lite",
     "city": "Gampaha",
@@ -1402,11 +1360,10 @@
     ],
     "phone": "+94778233521",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1430,8 +1387,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1455,8 +1411,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -1477,8 +1432,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1499,8 +1453,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1524,13 +1477,12 @@
     "source": "nfc",
     "specs": [
       "2 Screens",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
     "id": "nfc-new-janaki",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "new-janaki",
     "name": "New Janaki",
     "city": "Kalutara",
@@ -1544,10 +1496,9 @@
     "experiences": [],
     "phone": "+94342211720",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1568,8 +1519,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1593,8 +1543,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -1618,8 +1567,7 @@
     "source": "nfc",
     "confirmed": true,
     "specs": [
-      "1 Screen",
-      "35mm Film"
+      "1 Screen"
     ]
   },
   {
@@ -1640,8 +1588,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1662,8 +1609,7 @@
     "details": "1 screen · Non A/C · 2K digital",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "2K Digital"
+      "1 Screen"
     ]
   },
   {
@@ -1684,13 +1630,12 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
     "id": "nfc-regal-nuwara-eliya",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-nuwara-eliya",
     "name": "Regal Nuwara Eliya",
     "city": "Nuwara Eliya",
@@ -1707,11 +1652,10 @@
     ],
     "phone": "+9452222582",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -1735,8 +1679,7 @@
     "source": "nfc",
     "confirmed": true,
     "specs": [
-      "1 Screen",
-      "35mm Film"
+      "1 Screen"
     ]
   },
   {
@@ -1760,8 +1703,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1785,8 +1727,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1808,8 +1749,7 @@
     "source": "nfc",
     "confirmed": true,
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1833,8 +1773,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -1855,8 +1794,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1877,8 +1815,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1928,8 +1865,7 @@
     "source": "nfc",
     "confirmed": true,
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -1950,13 +1886,12 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
     "id": "nfc-rex-badulla",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "rex-badulla",
     "name": "Rex Badulla",
     "city": "Badulla",
@@ -1970,10 +1905,9 @@
     "experiences": [],
     "phone": "+94773650269",
     "details": "2 screens · Non A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
-      "2 Screens",
-      "E-Cinema"
+      "2 Screens"
     ]
   },
   {
@@ -1994,13 +1928,12 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
     "id": "nfc-regal-bandarawela",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-bandarawela",
     "name": "Regal Bandarawela",
     "city": "Badulla",
@@ -2017,11 +1950,10 @@
     ],
     "phone": "+94572051638",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -2042,13 +1974,12 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
     "id": "nfc-seran-cinema",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "seran-cinema",
     "name": "Seran Cinema",
     "city": "Kilinochchi",
@@ -2064,7 +1995,7 @@
     ],
     "phone": "",
     "details": "1 screen · A/C",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -2072,7 +2003,7 @@
   },
   {
     "id": "nfc-sas-trincomalee",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "sas-trincomalee",
     "name": "SAS Trincomalee",
     "city": "Trincomalee",
@@ -2087,7 +2018,7 @@
     ],
     "phone": "",
     "details": "1 screen · A/C",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -2143,8 +2074,7 @@
     "confirmed": true,
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2169,8 +2099,7 @@
     "source": "nfc",
     "specs": [
       "2 Screens",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2194,8 +2123,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2219,8 +2147,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2241,8 +2168,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2266,8 +2192,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -2293,8 +2218,7 @@
     "confirmed": true,
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -2318,8 +2242,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -2344,8 +2267,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "4K Digital"
+      "AC"
     ]
   },
   {
@@ -2370,8 +2292,7 @@
     "source": "nfc",
     "specs": [
       "2 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -2395,8 +2316,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2442,8 +2362,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2467,8 +2386,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2489,8 +2407,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2511,8 +2428,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2536,8 +2452,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -2558,13 +2473,12 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
     "id": "nfc-samanala-melsiripura",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "samanala-melsiripura",
     "name": "Samanala Melsiripura",
     "city": "Kurunegala",
@@ -2580,11 +2494,10 @@
     ],
     "phone": "+94760171210",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2608,13 +2521,12 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
     "id": "nfc-shamrock-wennappuwa",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "shamrock-wennappuwa",
     "name": "Shamrock Wennappuwa",
     "city": "Puttalam",
@@ -2628,10 +2540,9 @@
     "experiences": [],
     "phone": "+94777654387",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2652,8 +2563,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2677,8 +2587,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2702,8 +2611,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2724,8 +2632,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2749,8 +2656,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "E-Cinema"
+      "AC"
     ]
   },
   {
@@ -2774,8 +2680,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -2797,8 +2702,7 @@
     "source": "nfc",
     "bookingUrl": "https://www.taktikbook.lk/theater/tarzan-cinema",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2820,8 +2724,7 @@
     "source": "nfc",
     "bookingUrl": "https://www.taktikbook.lk/theater/regent-cinema-rabukkana",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2848,8 +2751,7 @@
     "confirmed": true,
     "specs": [
       "3 Screens",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -2871,8 +2773,7 @@
     "source": "nfc",
     "confirmed": true,
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2893,8 +2794,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2915,8 +2815,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2937,8 +2836,7 @@
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
     "specs": [
-      "1 Screen",
-      "E-Cinema"
+      "1 Screen"
     ]
   },
   {
@@ -2962,8 +2860,7 @@
     "source": "nfc",
     "specs": [
       "1 Screen",
-      "AC",
-      "2K Digital"
+      "AC"
     ]
   },
   {
@@ -3018,6 +2915,118 @@
       "AC"
     ],
     "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
+  },
+  {
+    "id": "bms-imperial-3d-cinema-kurunegala",
+    "cinemaId": "bms",
+    "slug": "imperial-3d-cinema-kurunegala",
+    "name": "Imperial 3D Cinema",
+    "city": "Kurunegala",
+    "town": "Kurunegala",
+    "address": "Kurunegala, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.487,80.367",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "cinemaId": "bms",
+    "slug": "regal-cinemas-polonnaruwa-polonnaruwa",
+    "name": "Regal Cinemas Polonnaruwa",
+    "city": "Polonnaruwa",
+    "town": "Polonnaruwa",
+    "address": "Polonnaruwa, Polonnaruwa",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.943,81.012",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-ruoo-cinema-katunayake",
+    "cinemaId": "bms",
+    "slug": "ruoo-cinema-katunayake",
+    "name": "Ruoo Cinema",
+    "city": "Gampaha",
+    "town": "Katunayake",
+    "address": "Katunayake, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.166,79.885",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-ck-cinema-kirindiwela",
+    "cinemaId": "bms",
+    "slug": "ck-cinema-kirindiwela",
+    "name": "CK Cinema",
+    "city": "Gampaha",
+    "town": "Kirindiwela",
+    "address": "Kirindiwela, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.043,80.132",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-sk-cinema-matara",
+    "cinemaId": "bms",
+    "slug": "sk-cinema-matara",
+    "name": "SK Cinema",
+    "city": "Matara",
+    "town": "Matara",
+    "address": "Matara, Matara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=5.944,80.550",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-tarzen-cinema-kegalle",
+    "cinemaId": "bms",
+    "slug": "tarzen-cinema-kegalle",
+    "name": "Tarzen Cinema",
+    "city": "Kegalle",
+    "town": "Kegalle",
+    "address": "Kegalle, Kegalle",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.253,80.344",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-cinelma-theater-badulla",
+    "cinemaId": "bms",
+    "slug": "cinelma-theater-badulla",
+    "name": "Cinelma Theater",
+    "city": "Badulla",
+    "town": "Badulla",
+    "address": "Badulla, Badulla",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.982,81.059",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
     "confirmed": true
   }
 ]

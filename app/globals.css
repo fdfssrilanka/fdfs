@@ -1,4 +1,7 @@
 @import "tailwindcss";
+/* The local sample booking demo is git-ignored, which Tailwind skips by default. */
+@source "../components/demo";
+@source "./demo-booking";
 
 :root {
   --outer: #1e1e1e;

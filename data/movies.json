@@ -813,5 +813,231 @@
     "posterUrl": "/images/posters/sigma-tamil-eap.webp",
     "backdropUrl": "",
     "trailerUrl": ""
+  },
+  {
+    "slug": "ayu-sinhala",
+    "title": "Ayu",
+    "language": "Sinhala",
+    "genres": [
+      "Drama"
+    ],
+    "runtimeMin": 116,
+    "releaseDate": "2025-10-02",
+    "synopsis": "A young doctor starts married life full of hope, then a run of misfortunes upends it, and she is forced to face the person behind her suffering.",
+    "cast": [
+      "Sandra Mack",
+      "Malani Fonseka",
+      "Jagath Manuwarna",
+      "Ashan Dias",
+      "Samanalee Fonseka"
+    ],
+    "director": "Chathra Weeraman",
+    "id": "bms-ayu-sinhala",
+    "status": "now_showing",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/ayu-sinhala.webp"
+  },
+  {
+    "slug": "dinga-sinhala",
+    "title": "Dinga",
+    "language": "Sinhala",
+    "genres": [
+      "Drama"
+    ],
+    "runtimeMin": null,
+    "releaseDate": "2026-10-16",
+    "synopsis": "An inexperienced young man tries a drastic fix to escape his nightmares and peer pressure, setting off an unexpected chain of events in modern Colombo.",
+    "cast": [],
+    "director": "",
+    "id": "bms-dinga-sinhala",
+    "status": "now_showing",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/dinga-sinhala.webp"
+  },
+  {
+    "slug": "drishyam-the-conclusion-hindi",
+    "title": "Drishyam: The Conclusion",
+    "language": "Hindi",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtimeMin": null,
+    "releaseDate": "2026-10-02",
+    "synopsis": "The final chapter of the Drishyam thriller series.",
+    "cast": [
+      "Ajay Devgn",
+      "Tabu",
+      "Shriya Saran",
+      "Rajat Kapoor",
+      "Ishita Dutta",
+      "Jaideep Ahlawat",
+      "Prakash Raj"
+    ],
+    "director": "Abhishek Pathak",
+    "id": "bms-drishyam-the-conclusion-hindi",
+    "status": "now_showing",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/drishyam-the-conclusion-hindi.webp"
+  },
+  {
+    "slug": "angel-and-the-badman",
+    "title": "Angel And The Badman",
+    "language": "English",
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "runtimeMin": 105,
+    "releaseDate": "2026-10-23",
+    "synopsis": "Angel And The Badman is a English film showing in Sri Lanka.",
+    "cast": [
+      "Zachary Levi",
+      "Neal McDonough",
+      "Tommy Lee Jones"
+    ],
+    "director": "Julio Quintana",
+    "id": "bms-angel-and-the-badman",
+    "status": "coming_soon",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/angel-and-the-badman.webp"
+  },
+  {
+    "slug": "udta-teer-hindi",
+    "title": "Udta Teer",
+    "language": "Hindi",
+    "genres": [
+      "Comedy",
+      "Spy"
+    ],
+    "runtimeMin": null,
+    "releaseDate": "2026-10-23",
+    "synopsis": "Udta Teer is a Hindi film showing in Sri Lanka.",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Sara Ali Khan",
+      "Rahul Bose",
+      "Ram Kapoor"
+    ],
+    "director": "Akash A. Kaushik",
+    "id": "bms-udta-teer-hindi",
+    "status": "coming_soon",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/udta-teer-hindi.webp"
+  },
+  {
+    "slug": "porattam-tamil",
+    "title": "Porattam",
+    "language": "Tamil",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "runtimeMin": null,
+    "releaseDate": "2026-10-02",
+    "synopsis": "A gifted footballer from a poor coastal town fights to reach the national team while facing debt, personal loss and repeated setbacks.",
+    "cast": [
+      "Reegan Kandiah"
+    ],
+    "director": "Raj Sivaraj",
+    "id": "bms-porattam-tamil",
+    "status": "now_showing",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/porattam-tamil.webp"
+  },
+  {
+    "slug": "anbil-avan-tamil",
+    "title": "Anbil Avan",
+    "language": "Tamil",
+    "genres": [
+      "Romance",
+      "Action",
+      "Drama"
+    ],
+    "runtimeMin": 154,
+    "releaseDate": "2026-10-02",
+    "synopsis": "Anbil Avan is a Tamil film showing in Sri Lanka.",
+    "cast": [
+      "Ashok Selvan",
+      "Preity Mukhundhan",
+      "Revathi"
+    ],
+    "director": "R Kaarthikeyan",
+    "id": "bms-anbil-avan-tamil",
+    "status": "now_showing",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/anbil-avan-tamil.webp"
+  },
+  {
+    "slug": "ethalaya-sinhala",
+    "title": "Ethalaya",
+    "language": "Sinhala",
+    "genres": [
+      "Action"
+    ],
+    "runtimeMin": 98,
+    "releaseDate": "2020-03-05",
+    "synopsis": "Ethalaya is a Sinhala film showing in Sri Lanka.",
+    "cast": [
+      "Kelum Kularatne",
+      "Chamathka Lakmini",
+      "Shehani Perera"
+    ],
+    "director": "Nalaka Vithanage",
+    "id": "bms-ethalaya-sinhala",
+    "status": "now_showing",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/ethalaya-sinhala.webp"
+  },
+  {
+    "slug": "villain-sinhala",
+    "title": "Villain",
+    "language": "Sinhala",
+    "genres": [
+      "Action"
+    ],
+    "runtimeMin": null,
+    "releaseDate": "2024-01-04",
+    "synopsis": "Villain is a Sinhala film showing in Sri Lanka.",
+    "cast": [
+      "Kelum Aryan",
+      "Dasuni Sinethma",
+      "Sudhiksha Samadhi",
+      "Sanju Samarasinghe",
+      "Sheran Peiris"
+    ],
+    "director": "Lassana Jayasekara",
+    "id": "bms-villain-sinhala",
+    "status": "now_showing",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/villain-sinhala.webp"
   }
 ]
