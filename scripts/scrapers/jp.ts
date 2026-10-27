@@ -36,7 +36,14 @@ export async function scrape() {
   const showtimes: Showtime[] = [];
 
   for (const slug of slugs) {
-    const h = unescape(await get(`${BASE}/movies/${slug}`));
+    const url = `${BASE}/movies/${slug}`;
+    let h: string;
+    try {
+      h = unescape(await get(url));
+    } catch (error) {
+      console.warn(`JP Cineplex movie page failed; skipping ${url}:`, error);
+      continue;
+    }
     const m = arrayAfter(h, "movieList")[0];
     if (!m) continue;
     const cert = h.match(/<!-- -->\| (U\/A|U|A|PG-13|PG|G|R|12\+|16\+|18\+)<\/p>/)?.[1] ?? "";

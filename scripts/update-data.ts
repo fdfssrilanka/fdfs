@@ -16,6 +16,8 @@ import * as tt from "./scrapers/taktikbook";
 import * as offersScraper from "./scrapers/offers";
 import * as dialus from "./scrapers/dialus";
 import { findMovie } from "./lib/match";
+import { isUpcomingShowtime } from "./lib/showtime-window";
+import { createShowtimesCsv } from "./lib/showtimes-csv";
 import type { Movie, Showtime } from "../lib/types";
 
 const DATA = path.join(process.cwd(), "data");
@@ -135,17 +137,23 @@ async function main() {
   const b = bms.applyBms(allTheatres, showtimes, movies);
   console.log(`BookMyShow snapshot: ${b.added} showtimes at ${b.theatresWith} theatres (${b.skippedHasOwnTimes} already have their own times); no page for: ${b.unmatchedMovies.join(", ")}`);
 
+  const movieIds = new Set(movies.map((movie) => movie.id));
+  const theatreIds = new Set(allTheatres.map((theatre) => theatre.id));
+  const currentShowtimes = showtimes.filter((showtime) => isUpcomingShowtime(showtime) && movieIds.has(showtime.movieId) && theatreIds.has(showtime.theatreId));
+  console.log(`showtime list: ${showtimes.length - currentShowtimes.length} expired or unmatched sessions omitted`);
+
   const out = {
     "movies.json": movies,
     "cinemas.json": [s.cinema, e.cinema, pvr.cinema, j.cinema, t.cinema, ...other.cinemas.filter((c) => c.id !== "lite"), lite.cinema, bms.cinema, n.cinema, tt.cinema],
     "theatres.json": allTheatres,
-    "showtimes.json": showtimes,
+    "showtimes.json": currentShowtimes,
     "listings.json": [...listings, ...lite.LISTINGS],
     "offers.json": offers,
   };
   await mkdir(DATA, { recursive: true });
   for (const [f, v] of Object.entries(out)) await writeFile(path.join(DATA, f), JSON.stringify(v, null, 2) + "\n");
-  console.log(`${movies.length} movies, ${out["theatres.json"].length} theatres, ${showtimes.length} showtimes, ${listings.length} listings, ${offers.length} offers`);
+  await writeFile(path.join(process.cwd(), "public", "showtimes.csv"), createShowtimesCsv(currentShowtimes, movies, allTheatres));
+  console.log(`${movies.length} movies, ${out["theatres.json"].length} theatres, ${currentShowtimes.length} upcoming showtimes, ${listings.length} listings, ${offers.length} offers`);
 }
 
 main().catch((err) => (console.error(err), process.exit(1)));

@@ -3,10 +3,11 @@ import { getTheatresWithExperience } from "@/lib/data";
 import ExperienceBadge from "./ExperienceBadge";
 
 const CARDS = [
-  { name: "IMAX", title: "IMAX with Laser", text: "The biggest screen, laser projection and powerful sound for the biggest releases." },
-  { name: "Gold Class", title: "Gold Class", text: "Reclining seats, swing trays and food served at your seat in a private screen." },
-  { name: "Director's Lounge", title: "Director's Lounge", text: "A VIP section with premium seating and personalised service." },
-  { name: "Dolby Atmos", title: "Dolby Atmos", text: "Sound that moves around and above you for a fully immersive film." },
+  { name: "IMAX", title: "IMAX with Laser", text: "Find IMAX cinemas and published IMAX movie showtimes.", href: "/imax" },
+  { name: "Gold Class", title: "Gold Class", text: "See which cinema lists Gold Class and check its published sessions.", href: "/experiences/gold-class" },
+  { name: "Director's Lounge", title: "Director's Lounge", text: "Find the cinema listing Director's Lounge and browse its movies.", href: "/experiences/directors-lounge" },
+  { name: "Dolby Atmos", title: "Dolby Atmos", text: "Find cinemas listing Dolby Atmos and movies with published sessions.", href: "/experiences/dolby-atmos" },
+  { name: "3D", title: "3D cinemas", text: "Browse cinemas listing 3D and movies with published 3D sessions.", href: "/experiences/3d-cinemas" },
 ];
 
 export default function ExperienceCards() {
@@ -14,7 +15,7 @@ export default function ExperienceCards() {
     <section id="experiences" className="mx-auto w-full max-w-7xl px-4 py-6">
       <h2 className="text-base font-extrabold uppercase tracking-wide sm:text-lg">Premium Experiences</h2>
       <p className="mb-3 mt-0.5 text-xs font-bold uppercase tracking-wide text-muted">Where to find them</p>
-      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
         {CARDS.map((c) => {
           const where = getTheatresWithExperience(c.name);
           return (
@@ -23,7 +24,7 @@ export default function ExperienceCards() {
                 <ExperienceBadge name={c.name} size="sm" />
               </div>
               <div className="flex min-w-0 flex-1 flex-col p-3 sm:p-4">
-                <h3 className="font-bold leading-snug">{c.title}</h3>
+                <h3 className="font-bold leading-snug"><Link href={c.href} className="hover:text-link">{c.title}</Link></h3>
                 <p className="mt-1 text-sm leading-snug text-muted sm:flex-1">{c.text}</p>
                 <ul className="mt-3 flex flex-wrap gap-2">
                   {where.map((x) => (
@@ -34,6 +35,7 @@ export default function ExperienceCards() {
                     </li>
                   ))}
                 </ul>
+                <Link href={c.href} className="mt-3 text-xs font-bold text-link underline underline-offset-2">See cinemas and showtimes</Link>
               </div>
             </article>
           );

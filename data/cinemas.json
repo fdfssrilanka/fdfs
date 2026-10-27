@@ -54,6 +54,12 @@
     "bookingSite": "https://www.facebook.com/vijjayacinema/"
   },
   {
+    "id": "lite",
+    "name": "Lite Cinemas",
+    "website": "https://www.litecinemas.lk",
+    "bookingSite": "https://www.litecinemas.lk/theaters"
+  },
+  {
     "id": "nfc",
     "name": "Independent cinemas",
     "website": "https://nfc.gov.lk/cinemas/",
@@ -64,12 +70,6 @@
     "name": "TakTikBook (online booking)",
     "website": "https://www.taktikbook.lk",
     "bookingSite": "https://www.taktikbook.lk"
-  },
-  {
-    "id": "lite",
-    "name": "Lite Cinemas",
-    "website": "https://www.litecinemas.lk",
-    "bookingSite": "https://www.litecinemas.lk/theaters"
   },
   {
     "id": "bms",

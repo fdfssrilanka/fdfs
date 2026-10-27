@@ -1,27 +1,43 @@
 [
   {
-    "id": "scope-street-fighter",
-    "slug": "street-fighter",
-    "title": "Street Fighter",
+    "id": "scope-teardrop-nation-episodes-1-2",
+    "slug": "teardrop-nation-episodes-1-2",
+    "title": "TEARDROP NATION - EPISODES 1 &amp; 2",
     "language": "English",
     "genres": [
-      "Action",
-      "Drama"
+      "Documentary"
     ],
-    "runtimeMin": 119,
+    "runtimeMin": 159,
     "certificate": "",
-    "releaseDate": "2026-10-16",
+    "releaseDate": "2026-10-23",
     "status": "now_showing",
-    "featured": true,
-    "synopsis": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction.",
-    "cast": [
-      "Callina Liang",
-      "Noah Centineo"
+    "featured": false,
+    "synopsis": "The Seeds We Sow Discover how three decades of class, caste, and institutional discrimination following independence fractured Sri Lankan society and ignited parallel youth revolutionary movements across the island. The Trigger Explore the volatile political flashpoints, rising authoritarianism, and deadly consolidation of power that ultimately triggered the devastating First Eelam War.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/teardrop-nation-episodes-1-2.webp",
+    "backdropUrl": "/images/backdrops/teardrop-nation-episodes-1-2.webp",
+    "trailerUrl": ""
+  },
+  {
+    "id": "scope-teardrop-nation-episodes-3-4",
+    "slug": "teardrop-nation-episodes-3-4",
+    "title": "TEARDROP NATION - EPISODES 3 &amp; 4",
+    "language": "English",
+    "genres": [
+      "Documentary"
     ],
-    "director": "Kitao Sakurai",
-    "posterUrl": "/images/posters/street-fighter.webp",
-    "backdropUrl": "/images/backdrops/street-fighter.webp",
-    "trailerUrl": "https://www.youtube.com/watch?v=Xt4X4FvXk2A"
+    "runtimeMin": 142,
+    "certificate": "",
+    "releaseDate": "2026-10-24",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "A Battle for Peace Experience one of the nation's bloodiest eras as the state battles dual insurgencies amidst failed international peace accords, mass disappearances, and a hidden toll on the Muslim community. The final episode traces Sri Lanka’s turbulent journey through the Third and Fourth Eelam Wars, exposing the devastating human cost of conflict and the fractures within both sides. It questions whether anyone truly won and whether lasting peace has been achieved.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/teardrop-nation-episodes-3-4.webp",
+    "backdropUrl": "/images/backdrops/teardrop-nation-episodes-3-4.webp",
+    "trailerUrl": ""
   },
   {
     "id": "scope-jailer-2-imax-tamil",
@@ -70,24 +86,28 @@
     "trailerUrl": "https://www.youtube.com/watch?v=FW_PPcr1sPE"
   },
   {
-    "id": "scope-teardrop-nation-foundations-of-conflict-ep-1",
-    "slug": "teardrop-nation-foundations-of-conflict-ep-1",
-    "title": "Teardrop Nation - Foundations Of Conflict  ( EP–1 )",
+    "id": "scope-street-fighter",
+    "slug": "street-fighter",
+    "title": "Street Fighter",
     "language": "English",
     "genres": [
-      "Documentary"
+      "Action",
+      "Drama"
     ],
-    "runtimeMin": 75,
+    "runtimeMin": 119,
     "certificate": "",
-    "releaseDate": "2026-10-15",
+    "releaseDate": "2026-10-16",
     "status": "now_showing",
-    "featured": false,
-    "synopsis": "The Seeds We Sow Discover how three decades of class, caste, and institutional discrimination following independence fractured Sri Lankan society and ignited parallel youth revolutionary movements across the island.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/teardrop-nation-foundations-of-conflict-ep-1.webp",
-    "backdropUrl": "/images/backdrops/teardrop-nation-foundations-of-conflict-ep-1.webp",
-    "trailerUrl": ""
+    "featured": true,
+    "synopsis": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction.",
+    "cast": [
+      "Callina Liang",
+      "Noah Centineo"
+    ],
+    "director": "Kitao Sakurai",
+    "posterUrl": "/images/posters/street-fighter.webp",
+    "backdropUrl": "/images/backdrops/street-fighter.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=Xt4X4FvXk2A"
   },
   {
     "id": "scope-heart-of-the-beast",
@@ -116,68 +136,29 @@
     "trailerUrl": "https://www.youtube.com/watch?v=JFQcDFhNh4o"
   },
   {
-    "id": "scope-teardrop-nation-the-trigger-ep-2",
-    "slug": "teardrop-nation-the-trigger-ep-2",
-    "title": "Teardrop Nation - The Trigger  ( EP-2 )",
-    "language": "English",
-    "genres": [
-      "Documentary"
-    ],
-    "runtimeMin": 84,
-    "certificate": "",
-    "releaseDate": "2026-10-15",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "The Trigger Explore the volatile political flashpoints, rising authoritarianism, and deadly consolidation of power that ultimately triggered the devastating First Eelam War.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/teardrop-nation-the-trigger-ep-2.webp",
-    "backdropUrl": "/images/backdrops/teardrop-nation-the-trigger-ep-2.webp",
-    "trailerUrl": ""
-  },
-  {
-    "id": "scope-avengers-endgame-encore-2026",
-    "slug": "avengers-endgame-encore-2026",
-    "title": "Avengers Endgame- Encore",
-    "language": "English",
+    "id": "scope-udta-teer-hindi",
+    "slug": "udta-teer-hindi",
+    "title": "Udta Teer",
+    "language": "Hindi",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Comedy"
     ],
-    "runtimeMin": 183,
+    "runtimeMin": 165,
     "certificate": "",
-    "releaseDate": "2026-09-25",
+    "releaseDate": "2026-10-23",
     "status": "now_showing",
-    "featured": false,
-    "synopsis": "body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}",
+    "featured": true,
+    "synopsis": "A spy accidentally disrupts a world of secrets and distrust in this high-stakes espionage comedy. Big laughs and chaos collide in a fast-paced, family-friendly romp where nobody least of all the hero knows what's going on.",
     "cast": [
-      "Robert Downey Jr",
-      "Chris Evans"
+      "Ayushmann Khurrana",
+      "Raghubir Yadav"
     ],
-    "director": "Anthony and Joe Russo",
-    "posterUrl": "/images/posters/avengers-endgame-encore-2026.webp",
-    "backdropUrl": "",
-    "trailerUrl": "https://www.youtube.com/watch?v=-4_1a6JmqfQ"
-  },
-  {
-    "id": "scope-teardrop-nation-battle-for-peace-ep-3",
-    "slug": "teardrop-nation-battle-for-peace-ep-3",
-    "title": "Teardrop Nation - Battle For Peace (EP–3)",
-    "language": "English",
-    "genres": [
-      "Documentary"
-    ],
-    "runtimeMin": 66,
-    "certificate": "",
-    "releaseDate": "2026-10-16",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "A Battle for Peace Experience one of the nation's bloodiest eras as the state battles dual insurgencies amidst failed international peace accords, mass disappearances, and a hidden toll on the Muslim community.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/teardrop-nation-battle-for-peace-ep-3.webp",
-    "backdropUrl": "/images/backdrops/teardrop-nation-battle-for-peace-ep-3.webp",
-    "trailerUrl": ""
+    "director": "Aakash Kaushik",
+    "posterUrl": "/images/posters/udta-teer-hindi.webp",
+    "backdropUrl": "/images/backdrops/udta-teer-hindi.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=hN_ZUElLH44"
   },
   {
     "id": "scope-eda-re-sinhala",
@@ -185,15 +166,13 @@
     "title": "Eda Re - එදා රෑ",
     "language": "Sinhala",
     "genres": [
-      "Musical",
-      "Drama",
-      "Romance"
+      "Drama"
     ],
     "runtimeMin": 140,
     "certificate": "",
     "releaseDate": "2026-09-18",
     "status": "now_showing",
-    "featured": true,
+    "featured": false,
     "synopsis": "Eda Raa (One Voice, Million Hearts) is a highly anticipated 2026 Sri Lankan Sinhala biographical drama film that chronicles the life, true-to-life struggles, and enduring musical legacy of the legendary vocalist Milton Mallawarachchi.",
     "cast": [
       "Roshan Ravindra",
@@ -254,29 +233,29 @@
     "trailerUrl": "https://www.youtube.com/watch?v=mNd1gb19A-c"
   },
   {
-    "id": "scope-linkin-park-unshatter",
-    "slug": "linkin-park-unshatter",
-    "title": "Linkin Park: Unshatter",
-    "language": "English",
+    "id": "scope-ayu-sinhala",
+    "slug": "ayu-sinhala",
+    "title": "Ayu ආයු",
+    "language": "Sinhala",
     "genres": [
-      "Documentary",
-      "Music"
+      "Drama"
     ],
-    "runtimeMin": 110,
-    "certificate": "",
-    "releaseDate": "2026-10-09",
+    "runtimeMin": 116,
+    "certificate": "8.1",
+    "releaseDate": "2025-10-02",
     "status": "now_showing",
     "featured": false,
-    "synopsis": "After seven years, Linkin Park's surviving members reunite with two new bandmates to forge a path forward following Chester Bennington's death. Through studio sessions, performances, and interviews, a journey of healing and reinvention.",
+    "synopsis": "After getting in a car accident, a pregnant woman discovers a deadly secret about her life that begins to destroy everything and everyone she loves until she decides to escape her present and journey out digging deep hoping to find answers",
     "cast": [
-      "Emily Armstrong",
-      "Chester Bennington",
-      "Rob Bourdon"
+      "Sandra Mack",
+      "Jagath Manuwarna",
+      "Ashan Dias",
+      "Malini Fonseka"
     ],
-    "director": "Joseph Hahn, Mark Ritchie",
-    "posterUrl": "/images/posters/linkin-park-unshatter.webp",
-    "backdropUrl": "/images/backdrops/linkin-park-unshatter.webp",
-    "trailerUrl": "https://www.youtube.com/watch?v=K9Lpxc7bVTM"
+    "director": "Chathra Weeraman",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "trailerUrl": "https://www.youtube.com/watch?v=D5mY_De39J0"
   },
   {
     "id": "scope-cricket-sadu-sinhala",
@@ -325,27 +304,29 @@
     "trailerUrl": "https://www.youtube.com/watch?v=6KuZhZN2BOU"
   },
   {
-    "id": "scope-baththa-tamil",
-    "slug": "baththa-tamil",
-    "title": "Baththa",
-    "language": "Tamil",
+    "id": "scope-clayface-2026",
+    "slug": "clayface-2026",
+    "title": "Clayface",
+    "language": "English",
     "genres": [
-      "Action",
+      "Horror",
+      "Sci-Fi",
       "Thriller"
     ],
-    "runtimeMin": 157,
+    "runtimeMin": 110,
     "certificate": "",
-    "releaseDate": "2026-10-02",
+    "releaseDate": "2026-10-23",
     "status": "now_showing",
     "featured": false,
-    "synopsis": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
+    "synopsis": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity.",
     "cast": [
-      "Vijay Sethupathi"
+      "Eddie Marsan",
+      "Naomi Ackie"
     ],
-    "director": "Balaji Tharaneetharan",
-    "posterUrl": "/images/posters/baththa-tamil.webp",
-    "backdropUrl": "/images/backdrops/baththa-tamil.webp",
-    "trailerUrl": "https://www.youtube.com/watch?v=CFroXKVQtuw"
+    "director": "James Watkins",
+    "posterUrl": "/images/posters/clayface-2026.webp",
+    "backdropUrl": "/images/backdrops/clayface-2026.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=OGO4Mqvo3jI"
   },
   {
     "id": "scope-digger-2026",
@@ -370,31 +351,6 @@
     "posterUrl": "/images/posters/digger-2026.webp",
     "backdropUrl": "/images/backdrops/digger-2026.webp",
     "trailerUrl": "https://www.youtube.com/watch?v=qORTe1wW3Wg"
-  },
-  {
-    "id": "scope-clayface-2026",
-    "slug": "clayface-2026",
-    "title": "Clayface",
-    "language": "English",
-    "genres": [
-      "Horror",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "runtimeMin": 110,
-    "certificate": "",
-    "releaseDate": "2026-10-23",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity.",
-    "cast": [
-      "Eddie Marsan",
-      "Naomi Ackie"
-    ],
-    "director": "James Watkins",
-    "posterUrl": "/images/posters/clayface-2026.webp",
-    "backdropUrl": "/images/backdrops/clayface-2026.webp",
-    "trailerUrl": "https://www.youtube.com/watch?v=OGO4Mqvo3jI"
   },
   {
     "id": "scope-hansa-vilak-1980",
@@ -629,24 +585,6 @@
     "trailerUrl": "https://www.youtube.com/watch?v=1zip1rNaNYs"
   },
   {
-    "id": "jp-tom-jerry-forbidden-compass",
-    "slug": "tom-jerry-forbidden-compass",
-    "title": "Tom & Jerry: Forbidden Compass",
-    "language": "English",
-    "genres": [],
-    "runtimeMin": 100,
-    "certificate": "",
-    "releaseDate": "2026-10-23",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "During a chase in a museum, Tom and Jerry accidentally activate a magical compass that transports them to another world.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/tom-jerry-forbidden-compass.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
     "id": "jp-spider-man-brand-new-day",
     "slug": "spider-man-brand-new-day",
     "title": "Spider-Man: Brand New Day - 3D",
@@ -669,6 +607,27 @@
     "posterUrl": "/images/posters/spider-man-brand-new-day.webp",
     "backdropUrl": "",
     "trailerUrl": "https://www.youtube.com/watch?v=8TZMtslA3UY"
+  },
+  {
+    "id": "jp-teardrop-nation-i-episode-1-2",
+    "slug": "teardrop-nation-i-episode-1-2",
+    "title": "Teardrop Nation I Episode 1 & 2",
+    "language": "English",
+    "genres": [
+      "documentary",
+      "History"
+    ],
+    "runtimeMin": 159,
+    "certificate": "",
+    "releaseDate": "2026-10-25",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Teardrop Nation is a four-part documentary series that traces Sri Lanka's post-independence political and conflict history from the 1940s to the end of the civil war in 2009.",
+    "cast": [],
+    "director": "Sarah Kabir",
+    "posterUrl": "/images/posters/teardrop-nation-i-episode-1-2.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
   },
   {
     "id": "eap-2002",
@@ -743,6 +702,24 @@
     "trailerUrl": ""
   },
   {
+    "id": "eap-2019",
+    "slug": "avengers-endgame-encore-3d-english-eap",
+    "title": "Avengers Endgame Encore 3D",
+    "language": "English",
+    "genres": [],
+    "runtimeMin": 181,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/avengers-endgame-encore-3d-english-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
     "id": "eap-2020",
     "slug": "meesaya-murukku-2-tamil-eap",
     "title": "Meesaya Murukku 2",
@@ -797,6 +774,24 @@
     "trailerUrl": ""
   },
   {
+    "id": "eap-2028",
+    "slug": "baththa-tamil-eap",
+    "title": "Baththa",
+    "language": "Tamil",
+    "genres": [],
+    "runtimeMin": 157,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
+    "cast": [],
+    "director": "",
+    "posterUrl": "/images/posters/baththa-tamil-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
     "id": "eap-2029",
     "slug": "sigma-tamil-eap",
     "title": "Sigma",
@@ -811,6 +806,42 @@
     "cast": [],
     "director": "",
     "posterUrl": "/images/posters/sigma-tamil-eap.webp",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2033",
+    "slug": "dinga-eap",
+    "title": "Dinga",
+    "language": "",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "",
+    "cast": [],
+    "director": "",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "trailerUrl": ""
+  },
+  {
+    "id": "eap-2034",
+    "slug": "dhrishyam-hindi-eap",
+    "title": "Dhrishyam-Hindi",
+    "language": "",
+    "genres": [],
+    "runtimeMin": null,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "",
+    "cast": [],
+    "director": "",
+    "posterUrl": "",
     "backdropUrl": "",
     "trailerUrl": ""
   },
@@ -991,30 +1022,6 @@
     "posterUrl": "/images/posters/anbil-avan-tamil.webp"
   },
   {
-    "slug": "ethalaya-sinhala",
-    "title": "Ethalaya",
-    "language": "Sinhala",
-    "genres": [
-      "Action"
-    ],
-    "runtimeMin": 98,
-    "releaseDate": "2020-03-05",
-    "synopsis": "Ethalaya is a Sinhala film showing in Sri Lanka.",
-    "cast": [
-      "Kelum Kularatne",
-      "Chamathka Lakmini",
-      "Shehani Perera"
-    ],
-    "director": "Nalaka Vithanage",
-    "id": "bms-ethalaya-sinhala",
-    "status": "now_showing",
-    "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/ethalaya-sinhala.webp"
-  },
-  {
     "slug": "villain-sinhala",
     "title": "Villain",
     "language": "Sinhala",
@@ -1039,5 +1046,29 @@
     "backdropUrl": "",
     "trailerUrl": "",
     "posterUrl": "/images/posters/villain-sinhala.webp"
+  },
+  {
+    "slug": "ethalaya-sinhala",
+    "title": "Ethalaya",
+    "language": "Sinhala",
+    "genres": [
+      "Action"
+    ],
+    "runtimeMin": 98,
+    "releaseDate": "2020-03-05",
+    "synopsis": "Ethalaya is a Sinhala film showing in Sri Lanka.",
+    "cast": [
+      "Kelum Kularatne",
+      "Chamathka Lakmini",
+      "Shehani Perera"
+    ],
+    "director": "Nalaka Vithanage",
+    "id": "bms-ethalaya-sinhala",
+    "status": "now_showing",
+    "featured": false,
+    "certificate": "",
+    "backdropUrl": "",
+    "trailerUrl": "",
+    "posterUrl": "/images/posters/ethalaya-sinhala.webp"
   }
 ]

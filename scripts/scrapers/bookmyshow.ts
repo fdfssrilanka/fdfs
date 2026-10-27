@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs";
 import type { Cinema, Movie, Showtime, Theatre } from "../../lib/types";
+import { colomboDateTime } from "../lib/showtime-window";
 
 /**
  * Showtimes and ticket prices from lk.bookmyshow.com, read from the snapshot in data/raw/bookmyshow.txt.
@@ -65,6 +66,13 @@ export interface BmsResult { added: number; theatresWith: number; skippedHasOwnT
 /** Adds BookMyShow showtimes (with prices) for theatres that have none yet, creating the few theatres we were missing. Mutates both arrays. */
 export function applyBms(theatres: Theatre[], showtimes: Showtime[], movieList: Movie[], file = new URL("../../data/raw/bookmyshow.txt", import.meta.url)): BmsResult {
   const text = readFileSync(file, "utf8").split("\n");
+  const snapshotDate = text[0]?.match(/^SNAPSHOT (\d{4}-\d{2}-\d{2})/)?.[1];
+  const today = colomboDateTime().date;
+  const emptyResult: BmsResult = { added: 0, theatresWith: 0, skippedHasOwnTimes: 0, unmatchedMovies: [] };
+  if (snapshotDate !== today) {
+    console.warn(`BookMyShow snapshot is dated ${snapshotDate ?? "unknown"}; Colombo date is ${today}, so its showtimes were not imported.`);
+    return emptyResult;
+  }
   const section = (name: string) => {
     const i = text.indexOf(name);
     const out: string[] = [];
@@ -87,7 +95,7 @@ export function applyBms(theatres: Theatre[], showtimes: Showtime[], movieList: 
 
   const hasOwn = new Set(showtimes.map((s) => s.theatreId));
   const byId = new Map(theatres.map((t) => [t.id, t]));
-  const result: BmsResult = { added: 0, theatresWith: 0, skippedHasOwnTimes: 0, unmatchedMovies: [] };
+  const result: BmsResult = { ...emptyResult };
   const touched = new Set<string>();
   const unmatched = new Set<string>();
   const skipped = new Set<string>();
@@ -113,7 +121,7 @@ export function applyBms(theatres: Theatre[], showtimes: Showtime[], movieList: 
     const [times, days] = rest.split("@");
     const movie = movies.get(mi)!;
     const movieId = MOVIE_TO_ID[movie.slug];
-    if (!movieId) { unmatched.add(movie.slug); continue; }
+    if (!movieId || !movieList.some((candidate) => candidate.id === movieId)) { unmatched.add(movie.slug); continue; }
     const venue = venues.get(vi)!;
     const th = theatreFor(venue);
     if (!th) continue;

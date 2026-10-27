@@ -9,6 +9,15 @@
     "validTo": "2026-12-31"
   },
   {
+    "id": "scope-exclusive-food-beverage-offer-for-ntb-magnet-card",
+    "cinemaId": "scope",
+    "title": "Discount – Up to 20% savings (10% NTB & 10% Scope Privilege)",
+    "description": "Card Type: American Express Magnet Credit Card Promotion Period: 25th July to 31st December 2026 Validity : Counter only for concessions (excludes combo meals) Locations: HCM,CCC,LCC,LCK",
+    "imageUrl": "",
+    "url": "https://www.scopecinemas.com/offers/exclusive-food-beverage-offer-for-ntb-magnet-card",
+    "validTo": "2026-12-31"
+  },
+  {
     "id": "jp-half-price-mondays-are-here",
     "cinemaId": "jp",
     "title": "Half-Price Mondays Are Here!",

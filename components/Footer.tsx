@@ -32,7 +32,7 @@ export default function Footer() {
         <Col title="Theatres" links={[{ label: "All theatres", href: "/theatres" }, ...theatres.map((x) => ({ label: x.name, href: `/theatres/${x.slug}` }))]} />
         <Col title="Cities" wide className="col-span-2 sm:col-span-3 lg:col-span-1" links={cities.map((c) => ({ label: c.name, href: `/cities/${c.slug}` }))} />
         <Col title="Languages" links={["Tamil", "Sinhala", "English", "Hindi"].map((l) => ({ label: l, href: `/language/${l.toLowerCase()}` }))} />
-        <Col title="More" links={[{ label: "Book movie tickets", href: "/book-movie-tickets" }, { label: "IMAX cinemas", href: "/imax" }, { label: "Special offers", href: "/offers" }, { label: "Premium experiences", href: "/#experiences" }, { label: "About fdfs.lk", href: "/about" }]} />
+        <Col title="More" links={[{ label: "Book movie tickets", href: "/book-movie-tickets" }, { label: "Current showtimes list (CSV)", href: "/showtimes.csv" }, { label: "IMAX cinemas", href: "/imax" }, { label: "Cinema experiences", href: "/experiences" }, { label: "Special offers", href: "/offers" }, { label: "About fdfs.lk", href: "/about" }]} />
       </div>
       <div className="border-t border-line py-4 text-center text-xs text-muted">
         <p className="px-4">{t("footer.disclaimer")}</p>
