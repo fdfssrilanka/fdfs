@@ -9,15 +9,6 @@
     "validTo": "2026-12-31"
   },
   {
-    "id": "scope-exclusive-food-beverage-offer-for-ntb-magnet-card",
-    "cinemaId": "scope",
-    "title": "Discount – Up to 20% savings (10% NTB & 10% Scope Privilege)",
-    "description": "Card Type: American Express Magnet Credit Card Promotion Period: 25th July to 31st December 2026 Validity : Counter only for concessions (excludes combo meals) Locations: HCM,CCC,LCC,LCK",
-    "imageUrl": "",
-    "url": "https://www.scopecinemas.com/offers/exclusive-food-beverage-offer-for-ntb-magnet-card",
-    "validTo": "2026-12-31"
-  },
-  {
     "id": "jp-half-price-mondays-are-here",
     "cinemaId": "jp",
     "title": "Half-Price Mondays Are Here!",
@@ -51,15 +42,6 @@
     "description": "Make birthdays unforgettable at JP Cineplex! Celebrate your loved one’s special day with:A complimentary birthday cakeA personalized screening of cherished memor",
     "imageUrl": "/images/offers/jp-birthday-parties-at-the-movies.webp",
     "url": "https://www.jpcineplex.com/deals/birthday-parties-at-the-movies",
-    "validTo": "2026-12-30"
-  },
-  {
-    "id": "jp-scan-save-10-on-food-and-beverages",
-    "cinemaId": "jp",
-    "title": "Save 10% on Food and Beverages",
-    "description": "BUY MORE, SAVE MORE AT JP CINEPLEX! Enjoy 10% OFF your total bill when you purchase any two hot food items and a hot or cold beverage at JP Cineplex! Available ex",
-    "imageUrl": "/images/offers/jp-scan-save-10-on-food-and-beverages.webp",
-    "url": "https://www.jpcineplex.com/deals/scan-save-10-on-food-and-beverages",
     "validTo": "2026-12-30"
   },
   {

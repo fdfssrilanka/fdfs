@@ -40,15 +40,55 @@
     "trailerUrl": ""
   },
   {
+    "id": "scope-swapna-sundari-sinhala",
+    "slug": "swapna-sundari-sinhala",
+    "title": "Swapna Sundari - ස්වප්න සුන්දරී",
+    "language": "Sinhala",
+    "genres": [
+      "Drama"
+    ],
+    "runtimeMin": 130,
+    "certificate": "",
+    "releaseDate": "2026-10-30",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "The film is structured as a suspenseful dark comedy thriller mixed with elements of romance and action. Set against the backdrops of urban Sri Lankan cityscapes and coastal environments, the narrative explores the chaotic events triggered during a period of economic strain.",
+    "cast": [],
+    "director": "Tharindu Deshappriya",
+    "posterUrl": "/images/posters/swapna-sundari-sinhala.webp",
+    "backdropUrl": "/images/backdrops/swapna-sundari-sinhala.webp",
+    "trailerUrl": ""
+  },
+  {
+    "id": "scope-agnijaya-sinhala",
+    "slug": "agnijaya-sinhala",
+    "title": "Agnijaya - අග්නිජය",
+    "language": "Sinhala",
+    "genres": [
+      "Action"
+    ],
+    "runtimeMin": 120,
+    "certificate": "U/A",
+    "releaseDate": "2026-10-30",
+    "status": "now_showing",
+    "featured": true,
+    "synopsis": "Maanchana, the only son of an upper-middle-class family, who harbors ambitious dreams. Blending high-stakes drama, crime, romance, and intense action, the plot delves into heavy family conflicts, an unexpected tragic public incident, and a mother's fierce plea for justice. As the characters navigate these complex emotional trials, their values are tested against the backdrop of criminal elements and a fight for vindication.",
+    "cast": [
+      "Sriyani Amarasena",
+      "Shanudrie Priyasad"
+    ],
+    "director": "Manchana Peiris",
+    "posterUrl": "/images/posters/agnijaya-sinhala.webp",
+    "backdropUrl": "/images/backdrops/agnijaya-sinhala.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=ZKoa33502WQ"
+  },
+  {
     "id": "scope-jailer-2-imax-tamil",
     "slug": "jailer-2-imax-tamil",
     "title": "Jailer 2 - IMAX",
     "language": "Tamil",
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "runtimeMin": 166,
+    "genres": [],
+    "runtimeMin": null,
     "certificate": "",
     "releaseDate": "2026-10-15",
     "status": "now_showing",
@@ -136,31 +176,6 @@
     "trailerUrl": "https://www.youtube.com/watch?v=JFQcDFhNh4o"
   },
   {
-    "id": "scope-udta-teer-hindi",
-    "slug": "udta-teer-hindi",
-    "title": "Udta Teer",
-    "language": "Hindi",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "runtimeMin": 165,
-    "certificate": "",
-    "releaseDate": "2026-10-23",
-    "status": "now_showing",
-    "featured": true,
-    "synopsis": "A spy accidentally disrupts a world of secrets and distrust in this high-stakes espionage comedy. Big laughs and chaos collide in a fast-paced, family-friendly romp where nobody least of all the hero knows what's going on.",
-    "cast": [
-      "Ayushmann Khurrana",
-      "Raghubir Yadav"
-    ],
-    "director": "Aakash Kaushik",
-    "posterUrl": "/images/posters/udta-teer-hindi.webp",
-    "backdropUrl": "/images/backdrops/udta-teer-hindi.webp",
-    "trailerUrl": "https://www.youtube.com/watch?v=hN_ZUElLH44"
-  },
-  {
     "id": "scope-eda-re-sinhala",
     "slug": "eda-re-sinhala",
     "title": "Eda Re - එදා රෑ",
@@ -184,6 +199,54 @@
     "posterUrl": "/images/posters/eda-re-sinhala.webp",
     "backdropUrl": "/images/backdrops/eda-re-sinhala.webp",
     "trailerUrl": "https://www.youtube.com/watch?v=u-GLAoXCnp4"
+  },
+  {
+    "id": "scope-the-odyssey",
+    "slug": "the-odyssey",
+    "title": "The Odyssey",
+    "language": "English",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "runtimeMin": 172,
+    "certificate": "",
+    "releaseDate": "2026-07-17",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "cast": [
+      "Matt Damon",
+      "Tom Holland"
+    ],
+    "director": "Christopher Nolan",
+    "posterUrl": "/images/posters/the-odyssey.webp",
+    "backdropUrl": "/images/backdrops/the-odyssey.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=f_bKjZeJBBI"
+  },
+  {
+    "id": "scope-angel-and-the-badman",
+    "slug": "angel-and-the-badman",
+    "title": "Angel And The Badman",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "runtimeMin": 100,
+    "certificate": "",
+    "releaseDate": "2026-10-23",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "A wounded outlaw finds unexpected mercy in the care of a rancher's daughter. The hope of love pulls him toward a different life until the law, and his violent past, close in on his new home. Now he must choose the kind of man he'll become.",
+    "cast": [
+      "Zachary Levi"
+    ],
+    "director": "Julio Quintana",
+    "posterUrl": "/images/posters/angel-and-the-badman.webp",
+    "backdropUrl": "/images/backdrops/angel-and-the-badman.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=3hwFBZ6475g"
   },
   {
     "id": "scope-adaraneeya-tharuwak-sinhala",
@@ -233,31 +296,6 @@
     "trailerUrl": "https://www.youtube.com/watch?v=mNd1gb19A-c"
   },
   {
-    "id": "scope-ayu-sinhala",
-    "slug": "ayu-sinhala",
-    "title": "Ayu ආයු",
-    "language": "Sinhala",
-    "genres": [
-      "Drama"
-    ],
-    "runtimeMin": 116,
-    "certificate": "8.1",
-    "releaseDate": "2025-10-02",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "After getting in a car accident, a pregnant woman discovers a deadly secret about her life that begins to destroy everything and everyone she loves until she decides to escape her present and journey out digging deep hoping to find answers",
-    "cast": [
-      "Sandra Mack",
-      "Jagath Manuwarna",
-      "Ashan Dias",
-      "Malini Fonseka"
-    ],
-    "director": "Chathra Weeraman",
-    "posterUrl": "",
-    "backdropUrl": "",
-    "trailerUrl": "https://www.youtube.com/watch?v=D5mY_De39J0"
-  },
-  {
     "id": "scope-cricket-sadu-sinhala",
     "slug": "cricket-sadu-sinhala",
     "title": "Cricket Sadu - ක්‍රිකට් සාදු",
@@ -278,6 +316,29 @@
     "posterUrl": "/images/posters/cricket-sadu-sinhala.webp",
     "backdropUrl": "/images/backdrops/cricket-sadu-sinhala.webp",
     "trailerUrl": "https://www.youtube.com/watch?v=MK6F9i43SEI"
+  },
+  {
+    "id": "scope-spying-stars-sinhala",
+    "slug": "spying-stars-sinhala",
+    "title": "Spying Stars - ඔත්තු බලන තරු",
+    "language": "Sinhala",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "runtimeMin": 99,
+    "certificate": "",
+    "releaseDate": "",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Back in Sri Lanka after years in space, Anandi is quarantined during a viral outbreak. Strange events push her to flee to a village, where she confronts the loss of her father.",
+    "cast": [
+      "Indira Tiwari"
+    ],
+    "director": "Vimukthi Jayasundara",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "trailerUrl": "https://www.youtube.com/watch?v=oMDj9UWpun8"
   },
   {
     "id": "scope-ahasa-tharam-sinhala",
@@ -329,52 +390,125 @@
     "trailerUrl": "https://www.youtube.com/watch?v=OGO4Mqvo3jI"
   },
   {
-    "id": "scope-digger-2026",
-    "slug": "digger-2026",
-    "title": "Digger",
-    "language": "English",
+    "id": "scope-scene-tamil",
+    "slug": "scene-tamil",
+    "title": "Scene",
+    "language": "Tamil",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Satire"
+      "Action",
+      "Crime"
     ],
-    "runtimeMin": 128,
+    "runtimeMin": 149,
     "certificate": "",
-    "releaseDate": "2026-10-09",
+    "releaseDate": "2026-11-06",
     "status": "now_showing",
     "featured": false,
-    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "synopsis": "Follows an eccentric police officer and his quirky team whose lives take an unexpected turn after they are assigned a new mission.",
     "cast": [
-      "Tom Cruise"
+      "Suriya"
     ],
-    "director": "Alejandro G. Iñárritu",
-    "posterUrl": "/images/posters/digger-2026.webp",
-    "backdropUrl": "/images/backdrops/digger-2026.webp",
-    "trailerUrl": "https://www.youtube.com/watch?v=qORTe1wW3Wg"
+    "director": "Jithu Madhavan",
+    "posterUrl": "/images/posters/scene-tamil.webp",
+    "backdropUrl": "/images/backdrops/scene-tamil.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=tWmCXAVdLCw"
   },
   {
-    "id": "scope-hansa-vilak-1980",
-    "slug": "hansa-vilak-1980",
-    "title": "Hansa Vilak - හංස විලක් (1980)",
-    "language": "Sinhala",
+    "id": "scope-ramayana-rise-of-a-legend-hindi",
+    "slug": "ramayana-rise-of-a-legend-hindi",
+    "title": "Ramayana: Rise Of A Legend -",
+    "language": "Hindi",
     "genres": [
-      "Drama",
-      "Romance"
+      "Action",
+      "Adventure",
+      "Drama"
     ],
-    "runtimeMin": 110,
+    "runtimeMin": 195,
     "certificate": "",
-    "releaseDate": "2026-10-29",
+    "releaseDate": "2026-11-06",
     "status": "now_showing",
     "featured": false,
-    "synopsis": "A married man (Nissanka) and woman (Miranda) find their lives disrupted after their affair is exposed by the police. Leaving their respective families, the two decide to live together. Shortly afterwards, Miranda secretly goes back to see her former husband. As paranoia mounts, Nissanka disintegrates psychologically to point where reality and fantasy are blurred.",
+    "synopsis": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "cast": [
-      "Swarna Mallawarachchi",
-      "Dharmasiri Bandaranayake"
+      "Ranbir Kapoor",
+      "Yash"
     ],
-    "director": "Dharmasiri Bandaranayake",
-    "posterUrl": "/images/posters/hansa-vilak-1980.webp",
-    "backdropUrl": "/images/backdrops/hansa-vilak-1980.webp",
+    "director": "Nitesh Tiwari",
+    "posterUrl": "/images/posters/ramayana-rise-of-a-legend-hindi.webp",
+    "backdropUrl": "/images/backdrops/ramayana-rise-of-a-legend-hindi.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=1zip1rNaNYs"
+  },
+  {
+    "id": "scope-george-michael-the-faith-tour",
+    "slug": "george-michael-the-faith-tour",
+    "title": "George Michael: The Faith Tour",
+    "language": "English",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "runtimeMin": 113,
+    "certificate": "",
+    "releaseDate": "2026-11-06",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "Restored concert film featuring George Michael's 1988 Faith Tour performances at Palais Omnisports de Paris-Bercy, captured on 35mm over two nights during the European leg of the tour.",
+    "cast": [
+      "George Michael"
+    ],
+    "director": "David Austin",
+    "posterUrl": "/images/posters/george-michael-the-faith-tour.webp",
+    "backdropUrl": "/images/backdrops/george-michael-the-faith-tour.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=H_NwyHRY9yk"
+  },
+  {
+    "id": "scope-mookuthi-amman-2-tamil",
+    "slug": "mookuthi-amman-2-tamil",
+    "title": "Mookuthi Amman 2",
+    "language": "Tamil",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Thriller"
+    ],
+    "runtimeMin": 143,
+    "certificate": "",
+    "releaseDate": "2026-11-06",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "A queen sacrifices herself to save her son, the prince, from invading enemies. Mookuthi Amman returns to save the child and confronts a mysterious woman who represents a new evil power.",
+    "cast": [
+      "Abhinaya",
+      "Yogi Babu"
+    ],
+    "director": "Sundar C.",
+    "posterUrl": "/images/posters/mookuthi-amman-2-tamil.webp",
+    "backdropUrl": "/images/backdrops/mookuthi-amman-2-tamil.webp",
     "trailerUrl": ""
+  },
+  {
+    "id": "scope-ramayana-rise-of-a-legend-tamil",
+    "slug": "ramayana-rise-of-a-legend-tamil",
+    "title": "Ramayana: Rise Of A Legend",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtimeMin": 195,
+    "certificate": "",
+    "releaseDate": "2026-11-06",
+    "status": "now_showing",
+    "featured": false,
+    "synopsis": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "cast": [
+      "Ranbir Kapoor",
+      "Yash"
+    ],
+    "director": "Nitesh Tiwari",
+    "posterUrl": "/images/posters/ramayana-rise-of-a-legend-tamil.webp",
+    "backdropUrl": "/images/backdrops/ramayana-rise-of-a-legend-tamil.webp",
+    "trailerUrl": "https://www.youtube.com/watch?v=1zip1rNaNYs"
   },
   {
     "id": "scope-jumanji-open-world",
@@ -437,26 +571,6 @@
     "posterUrl": "/images/posters/dune-part-three.webp",
     "backdropUrl": "/images/backdrops/dune-part-three.webp",
     "trailerUrl": "https://www.youtube.com/watch?v=NdvqHc56lE0"
-  },
-  {
-    "id": "scope-spying-stars-sinhala",
-    "slug": "spying-stars-sinhala",
-    "title": "Spying Stars - ඔත්තු බලන තරු",
-    "language": "Sinhala",
-    "genres": [],
-    "runtimeMin": null,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "coming_soon",
-    "featured": false,
-    "synopsis": "Back in Sri Lanka after years in space, Anandi is quarantined during a viral outbreak. Strange events push her to flee to a village, where she confronts the loss of her father.",
-    "cast": [
-      "Indira Tiwari"
-    ],
-    "director": "Vimukthi Jayasundara",
-    "posterUrl": "/images/posters/spying-stars-sinhala.webp",
-    "backdropUrl": "/images/backdrops/spying-stars-sinhala.webp",
-    "trailerUrl": "https://www.youtube.com/watch?v=oMDj9UWpun8"
   },
   {
     "id": "scope-king-hindi",
@@ -564,511 +678,21 @@
     "trailerUrl": "https://www.youtube.com/watch?v=fX3FsMZ7Vdg"
   },
   {
-    "id": "scope-ramayana-hindi",
-    "slug": "ramayana-hindi",
-    "title": "Ramayana",
-    "language": "Hindi",
-    "genres": [],
-    "runtimeMin": null,
-    "certificate": "",
-    "releaseDate": "2026-11-06",
-    "status": "coming_soon",
-    "featured": false,
-    "synopsis": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "cast": [
-      "Ranbir Kapoor",
-      "Yash"
-    ],
-    "director": "Nitesh Tiwari",
-    "posterUrl": "/images/posters/ramayana-hindi.webp",
-    "backdropUrl": "",
-    "trailerUrl": "https://www.youtube.com/watch?v=1zip1rNaNYs"
-  },
-  {
-    "id": "jp-spider-man-brand-new-day",
-    "slug": "spider-man-brand-new-day",
-    "title": "Spider-Man: Brand New Day - 3D",
-    "language": "English",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Superhero"
-    ],
-    "runtimeMin": 141,
-    "certificate": "PG",
-    "releaseDate": "2026-08-08",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "cast": [],
-    "director": "Destin Daniel Cretton",
-    "posterUrl": "/images/posters/spider-man-brand-new-day.webp",
-    "backdropUrl": "",
-    "trailerUrl": "https://www.youtube.com/watch?v=8TZMtslA3UY"
-  },
-  {
-    "id": "jp-teardrop-nation-i-episode-1-2",
-    "slug": "teardrop-nation-i-episode-1-2",
-    "title": "Teardrop Nation I Episode 1 & 2",
-    "language": "English",
-    "genres": [
-      "documentary",
-      "History"
-    ],
-    "runtimeMin": 159,
-    "certificate": "",
-    "releaseDate": "2026-10-25",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "Teardrop Nation is a four-part documentary series that traces Sri Lanka's post-independence political and conflict history from the 1940s to the end of the civil war in 2009.",
-    "cast": [],
-    "director": "Sarah Kabir",
-    "posterUrl": "/images/posters/teardrop-nation-i-episode-1-2.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2002",
-    "slug": "man-hoyanne-premayak-sinhala-eap",
-    "title": "Man Hoyanne Premayak",
+    "id": "eap-1809",
+    "slug": "ayu-sinhala-eap",
+    "title": "AYU",
     "language": "Sinhala",
     "genres": [],
-    "runtimeMin": 120,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "Man Hoyanne Premayak\" follows the lives of young individuals navigating complex emotional hurdles, societal expectations, and past heartbreaks in their search for authentic connection and modern romance.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/man-hoyanne-premayak-sinhala-eap.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2011",
-    "slug": "mandaadi-tamil-eap",
-    "title": "Mandaadi",
-    "language": "Tamil",
-    "genres": [],
-    "runtimeMin": null,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/mandaadi-tamil-eap.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2012",
-    "slug": "sardar-2-tamil-eap",
-    "title": "Sardar 2",
-    "language": "Tamil",
-    "genres": [],
-    "runtimeMin": 150,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "Follows spy Sardar's origin story in flashback while his son Inspector Vijay confronts a villain known as Black Dagger in the present day.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/sardar-2-tamil-eap.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2015",
-    "slug": "the-paradise-tamil-eap",
-    "title": "The Paradise",
-    "language": "Tamil",
-    "genres": [],
-    "runtimeMin": null,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/the-paradise-tamil-eap.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2019",
-    "slug": "avengers-endgame-encore-3d-english-eap",
-    "title": "Avengers Endgame Encore 3D",
-    "language": "English",
-    "genres": [],
-    "runtimeMin": 181,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/avengers-endgame-encore-3d-english-eap.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2020",
-    "slug": "meesaya-murukku-2-tamil-eap",
-    "title": "Meesaya Murukku 2",
-    "language": "Tamil",
-    "genres": [],
-    "runtimeMin": 138,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "The continuation of Hiphop Tamizha Adhi's semi-biopic Meesaya Murukku (2017), which consists of the journey of starting his own band called \"Hip-Hop Tamizha.\"",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/meesaya-murukku-2-tamil-eap.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2024",
-    "slug": "dorathy-eap",
-    "title": "Dorathy",
-    "language": "",
-    "genres": [],
-    "runtimeMin": null,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "",
-    "cast": [],
-    "director": "",
-    "posterUrl": "",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2025",
-    "slug": "paradise-eap",
-    "title": "Paradise",
-    "language": "",
-    "genres": [],
-    "runtimeMin": null,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "",
-    "cast": [],
-    "director": "",
-    "posterUrl": "",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2028",
-    "slug": "baththa-tamil-eap",
-    "title": "Baththa",
-    "language": "Tamil",
-    "genres": [],
-    "runtimeMin": 157,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/baththa-tamil-eap.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2029",
-    "slug": "sigma-tamil-eap",
-    "title": "Sigma",
-    "language": "Tamil",
-    "genres": [],
-    "runtimeMin": 145,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "A rogue treasure hunter breaks every rule in pursuit of the ultimate score, navigating deadly traps and double-crosses with wit and audacity in this adrenaline-fueled adventure.",
-    "cast": [],
-    "director": "",
-    "posterUrl": "/images/posters/sigma-tamil-eap.webp",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2033",
-    "slug": "dinga-eap",
-    "title": "Dinga",
-    "language": "",
-    "genres": [],
-    "runtimeMin": null,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "",
-    "cast": [],
-    "director": "",
-    "posterUrl": "",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "id": "eap-2034",
-    "slug": "dhrishyam-hindi-eap",
-    "title": "Dhrishyam-Hindi",
-    "language": "",
-    "genres": [],
-    "runtimeMin": null,
-    "certificate": "",
-    "releaseDate": "",
-    "status": "now_showing",
-    "featured": false,
-    "synopsis": "",
-    "cast": [],
-    "director": "",
-    "posterUrl": "",
-    "backdropUrl": "",
-    "trailerUrl": ""
-  },
-  {
-    "slug": "ayu-sinhala",
-    "title": "Ayu",
-    "language": "Sinhala",
-    "genres": [
-      "Drama"
-    ],
     "runtimeMin": 116,
-    "releaseDate": "2025-10-02",
-    "synopsis": "A young doctor starts married life full of hope, then a run of misfortunes upends it, and she is forced to face the person behind her suffering.",
-    "cast": [
-      "Sandra Mack",
-      "Malani Fonseka",
-      "Jagath Manuwarna",
-      "Ashan Dias",
-      "Samanalee Fonseka"
-    ],
-    "director": "Chathra Weeraman",
-    "id": "bms-ayu-sinhala",
+    "certificate": "",
+    "releaseDate": "",
     "status": "now_showing",
     "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/ayu-sinhala.webp"
-  },
-  {
-    "slug": "dinga-sinhala",
-    "title": "Dinga",
-    "language": "Sinhala",
-    "genres": [
-      "Drama"
-    ],
-    "runtimeMin": null,
-    "releaseDate": "2026-10-16",
-    "synopsis": "An inexperienced young man tries a drastic fix to escape his nightmares and peer pressure, setting off an unexpected chain of events in modern Colombo.",
+    "synopsis": "After getting in a car accident, a pregnant woman discovers a deadly secret about her life that begins to destroy everything and everyone she loves until she decides to escape her present and journey out digging deep hoping to find answers.",
     "cast": [],
     "director": "",
-    "id": "bms-dinga-sinhala",
-    "status": "now_showing",
-    "featured": false,
-    "certificate": "",
+    "posterUrl": "/images/posters/ayu-sinhala-eap.webp",
     "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/dinga-sinhala.webp"
-  },
-  {
-    "slug": "drishyam-the-conclusion-hindi",
-    "title": "Drishyam: The Conclusion",
-    "language": "Hindi",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "runtimeMin": null,
-    "releaseDate": "2026-10-02",
-    "synopsis": "The final chapter of the Drishyam thriller series.",
-    "cast": [
-      "Ajay Devgn",
-      "Tabu",
-      "Shriya Saran",
-      "Rajat Kapoor",
-      "Ishita Dutta",
-      "Jaideep Ahlawat",
-      "Prakash Raj"
-    ],
-    "director": "Abhishek Pathak",
-    "id": "bms-drishyam-the-conclusion-hindi",
-    "status": "now_showing",
-    "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/drishyam-the-conclusion-hindi.webp"
-  },
-  {
-    "slug": "angel-and-the-badman",
-    "title": "Angel And The Badman",
-    "language": "English",
-    "genres": [
-      "Western",
-      "Drama"
-    ],
-    "runtimeMin": 105,
-    "releaseDate": "2026-10-23",
-    "synopsis": "Angel And The Badman is a English film showing in Sri Lanka.",
-    "cast": [
-      "Zachary Levi",
-      "Neal McDonough",
-      "Tommy Lee Jones"
-    ],
-    "director": "Julio Quintana",
-    "id": "bms-angel-and-the-badman",
-    "status": "coming_soon",
-    "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/angel-and-the-badman.webp"
-  },
-  {
-    "slug": "udta-teer-hindi",
-    "title": "Udta Teer",
-    "language": "Hindi",
-    "genres": [
-      "Comedy",
-      "Spy"
-    ],
-    "runtimeMin": null,
-    "releaseDate": "2026-10-23",
-    "synopsis": "Udta Teer is a Hindi film showing in Sri Lanka.",
-    "cast": [
-      "Ayushmann Khurrana",
-      "Sara Ali Khan",
-      "Rahul Bose",
-      "Ram Kapoor"
-    ],
-    "director": "Akash A. Kaushik",
-    "id": "bms-udta-teer-hindi",
-    "status": "coming_soon",
-    "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/udta-teer-hindi.webp"
-  },
-  {
-    "slug": "porattam-tamil",
-    "title": "Porattam",
-    "language": "Tamil",
-    "genres": [
-      "Drama",
-      "Sports"
-    ],
-    "runtimeMin": null,
-    "releaseDate": "2026-10-02",
-    "synopsis": "A gifted footballer from a poor coastal town fights to reach the national team while facing debt, personal loss and repeated setbacks.",
-    "cast": [
-      "Reegan Kandiah"
-    ],
-    "director": "Raj Sivaraj",
-    "id": "bms-porattam-tamil",
-    "status": "now_showing",
-    "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/porattam-tamil.webp"
-  },
-  {
-    "slug": "anbil-avan-tamil",
-    "title": "Anbil Avan",
-    "language": "Tamil",
-    "genres": [
-      "Romance",
-      "Action",
-      "Drama"
-    ],
-    "runtimeMin": 154,
-    "releaseDate": "2026-10-02",
-    "synopsis": "Anbil Avan is a Tamil film showing in Sri Lanka.",
-    "cast": [
-      "Ashok Selvan",
-      "Preity Mukhundhan",
-      "Revathi"
-    ],
-    "director": "R Kaarthikeyan",
-    "id": "bms-anbil-avan-tamil",
-    "status": "now_showing",
-    "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/anbil-avan-tamil.webp"
-  },
-  {
-    "slug": "villain-sinhala",
-    "title": "Villain",
-    "language": "Sinhala",
-    "genres": [
-      "Action"
-    ],
-    "runtimeMin": null,
-    "releaseDate": "2024-01-04",
-    "synopsis": "Villain is a Sinhala film showing in Sri Lanka.",
-    "cast": [
-      "Kelum Aryan",
-      "Dasuni Sinethma",
-      "Sudhiksha Samadhi",
-      "Sanju Samarasinghe",
-      "Sheran Peiris"
-    ],
-    "director": "Lassana Jayasekara",
-    "id": "bms-villain-sinhala",
-    "status": "now_showing",
-    "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/villain-sinhala.webp"
-  },
-  {
-    "slug": "ethalaya-sinhala",
-    "title": "Ethalaya",
-    "language": "Sinhala",
-    "genres": [
-      "Action"
-    ],
-    "runtimeMin": 98,
-    "releaseDate": "2020-03-05",
-    "synopsis": "Ethalaya is a Sinhala film showing in Sri Lanka.",
-    "cast": [
-      "Kelum Kularatne",
-      "Chamathka Lakmini",
-      "Shehani Perera"
-    ],
-    "director": "Nalaka Vithanage",
-    "id": "bms-ethalaya-sinhala",
-    "status": "now_showing",
-    "featured": false,
-    "certificate": "",
-    "backdropUrl": "",
-    "trailerUrl": "",
-    "posterUrl": "/images/posters/ethalaya-sinhala.webp"
+    "trailerUrl": "https://www.youtube.com/watch?v=D5mY_De39J0"
   }
 ]

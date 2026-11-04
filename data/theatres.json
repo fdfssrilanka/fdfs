@@ -117,7 +117,6 @@
     "experiences": [],
     "phone": "+94117021443",
     "details": "1 screen · A/C · 2K digital",
-    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -194,7 +193,6 @@
     "experiences": [],
     "phone": "+94917214512",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "confirmed": true,
     "specs": [
       "1 Screen"
     ]
@@ -235,7 +233,6 @@
     ],
     "phone": "+94377214542",
     "details": "1 screen · A/C · 2K digital",
-    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -314,7 +311,6 @@
     "experiences": [],
     "phone": "+94117549630",
     "details": "1 screen · A/C · 2K digital",
-    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -380,7 +376,6 @@
     ],
     "phone": "+94766447664",
     "details": "9 screens · A/C · 4K digital",
-    "confirmed": true,
     "specs": [
       "9 Screens",
       "AC"
@@ -579,7 +574,6 @@
     ],
     "phone": "+94212227712",
     "details": "3 screens · A/C · 2K digital",
-    "confirmed": true,
     "specs": [
       "3 Screens",
       "AC"
@@ -681,7 +675,7 @@
   },
   {
     "id": "nfc-majestic-city",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "majestic-city",
     "name": "Majestic City",
     "city": "Colombo",
@@ -698,7 +692,7 @@
     ],
     "phone": "+94769371960",
     "details": "3 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "3 Screens",
       "AC"
@@ -734,7 +728,7 @@
   },
   {
     "id": "nfc-ritz-borella",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "ritz-borella",
     "name": "Ritz Borella",
     "city": "Colombo",
@@ -750,7 +744,7 @@
     ],
     "phone": "+94112695384",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -799,7 +793,7 @@
   },
   {
     "id": "nfc-ricky-colombo-02",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "ricky-colombo-02",
     "name": "Ricky Colombo 02",
     "city": "Colombo",
@@ -813,14 +807,14 @@
     "experiences": [],
     "phone": "+94112389450",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen"
     ]
   },
   {
     "id": "nfc-regal-dematagoda",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-dematagoda",
     "name": "Regal Dematagoda",
     "city": "Colombo",
@@ -837,7 +831,7 @@
     ],
     "phone": "+94723535530",
     "details": "3 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "3 Screens",
       "AC"
@@ -946,7 +940,7 @@
   },
   {
     "id": "nfc-cinecity-maradana",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "cinecity-maradana",
     "name": "Cinecity Maradana",
     "city": "Colombo",
@@ -963,7 +957,7 @@
     ],
     "phone": "+94115355055",
     "details": "3 screens · A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "3 Screens",
       "AC"
@@ -1072,7 +1066,7 @@
   },
   {
     "id": "nfc-regal-katubedda",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-katubedda",
     "name": "Regal Katubedda",
     "city": "Colombo",
@@ -1089,7 +1083,7 @@
     ],
     "phone": "+94112183470",
     "details": "3 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "3 Screens",
       "AC"
@@ -1150,12 +1144,12 @@
   },
   {
     "id": "nfc-regal-gampaha",
-    "cinemaId": "taktikbook",
+    "cinemaId": "nfc",
     "slug": "regal-gampaha",
     "name": "Regal Gampaha",
     "city": "Gampaha",
     "town": "Gampaha",
-    "address": "7th floor - Wardcity Shopping Complex, Gampaha",
+    "address": "Gampaha",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Gampaha%20cinema%20Gampaha%20Sri%20Lanka",
     "formats": [
       "2K",
@@ -1167,8 +1161,7 @@
     ],
     "phone": "+94115999999",
     "details": "2 screens · A/C · 2K digital",
-    "bookingUrl": "https://www.taktikbook.lk/theater/savoy-metro-gampaha",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "2 Screens",
       "AC"
@@ -1320,7 +1313,7 @@
   },
   {
     "id": "nfc-wijya-cinema",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "wijya-cinema",
     "name": "Wijya Cinema",
     "city": "Gampaha",
@@ -1337,7 +1330,7 @@
     ],
     "phone": "+94741880216",
     "details": "1 screen · A/C · 4K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -1345,7 +1338,7 @@
   },
   {
     "id": "nfc-prasanna-lite",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "prasanna-lite",
     "name": "Prasanna Lite",
     "city": "Gampaha",
@@ -1361,7 +1354,7 @@
     ],
     "phone": "+94778233521",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -1483,7 +1476,7 @@
   },
   {
     "id": "nfc-new-janaki",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "new-janaki",
     "name": "New Janaki",
     "city": "Kalutara",
@@ -1497,7 +1490,7 @@
     "experiences": [],
     "phone": "+94342211720",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen"
     ]
@@ -1636,7 +1629,7 @@
   },
   {
     "id": "nfc-regal-nuwara-eliya",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-nuwara-eliya",
     "name": "Regal Nuwara Eliya",
     "city": "Nuwara Eliya",
@@ -1653,7 +1646,7 @@
     ],
     "phone": "+9452222582",
     "details": "2 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "2 Screens",
       "AC"
@@ -1892,7 +1885,7 @@
   },
   {
     "id": "nfc-rex-badulla",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "rex-badulla",
     "name": "Rex Badulla",
     "city": "Badulla",
@@ -1906,7 +1899,7 @@
     "experiences": [],
     "phone": "+94773650269",
     "details": "2 screens · Non A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "2 Screens"
     ]
@@ -1934,7 +1927,7 @@
   },
   {
     "id": "nfc-regal-bandarawela",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-bandarawela",
     "name": "Regal Bandarawela",
     "city": "Badulla",
@@ -1951,7 +1944,7 @@
     ],
     "phone": "+94572051638",
     "details": "2 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "2 Screens",
       "AC"
@@ -1980,7 +1973,7 @@
   },
   {
     "id": "nfc-seran-cinema",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "seran-cinema",
     "name": "Seran Cinema",
     "city": "Kilinochchi",
@@ -1996,7 +1989,7 @@
     ],
     "phone": "",
     "details": "1 screen · A/C",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -2004,7 +1997,7 @@
   },
   {
     "id": "nfc-sas-trincomalee",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "sas-trincomalee",
     "name": "SAS Trincomalee",
     "city": "Trincomalee",
@@ -2019,7 +2012,7 @@
     ],
     "phone": "",
     "details": "1 screen · A/C",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -2479,7 +2472,7 @@
   },
   {
     "id": "nfc-samanala-melsiripura",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "samanala-melsiripura",
     "name": "Samanala Melsiripura",
     "city": "Kurunegala",
@@ -2495,7 +2488,7 @@
     ],
     "phone": "+94760171210",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -2527,7 +2520,7 @@
   },
   {
     "id": "nfc-shamrock-wennappuwa",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "shamrock-wennappuwa",
     "name": "Shamrock Wennappuwa",
     "city": "Puttalam",
@@ -2541,7 +2534,7 @@
     "experiences": [],
     "phone": "+94777654387",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen"
     ]
@@ -2686,12 +2679,12 @@
   },
   {
     "id": "nfc-tarzan-kegalle",
-    "cinemaId": "taktikbook",
+    "cinemaId": "nfc",
     "slug": "tarzan-kegalle",
     "name": "Tarzan Kegalle",
     "city": "Kegalle",
     "town": "Kegalle",
-    "address": "Tarzan Cinema, Kegalle, Kegalle",
+    "address": "Kegalle",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tarzan%20Kegalle%20cinema%20Kegalle%20Sri%20Lanka",
     "formats": [
       "E-Cinema",
@@ -2701,19 +2694,18 @@
     "phone": "+94352233677",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
-    "bookingUrl": "https://www.taktikbook.lk/theater/tarzan-cinema",
     "specs": [
       "1 Screen"
     ]
   },
   {
     "id": "nfc-regent-rambukkana",
-    "cinemaId": "taktikbook",
+    "cinemaId": "nfc",
     "slug": "regent-rambukkana",
     "name": "Regent Rambukkana",
     "city": "Kegalle",
     "town": "Rambukkana",
-    "address": "Regent Cinema. Regent Road, Rambukkana., Rambukkana, Sri Lanka., Rambukkana",
+    "address": "Rambukkana, Kegalle",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regent%20Rambukkana%20cinema%20Rambukkana%20Sri%20Lanka",
     "formats": [
       "E-Cinema",
@@ -2723,19 +2715,18 @@
     "phone": "+94716325422",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
     "source": "nfc",
-    "bookingUrl": "https://www.taktikbook.lk/theater/regent-cinema-rabukkana",
     "specs": [
       "1 Screen"
     ]
   },
   {
     "id": "nfc-milano-kegalle",
-    "cinemaId": "taktikbook",
+    "cinemaId": "nfc",
     "slug": "milano-kegalle",
     "name": "Milano Kegalle",
     "city": "Kegalle",
     "town": "Kegalle",
-    "address": "DD Athukorala Supermarket (pvt) Ltd, No 122, Main Street, Kegalle",
+    "address": "Kegalle Town, Kegalle",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milano%20Kegalle%20cinema%20Kegalle%20Sri%20Lanka",
     "formats": [
       "2K",
@@ -2748,7 +2739,6 @@
     "phone": "+94352221222",
     "details": "3 screens · A/C · 2K digital",
     "source": "nfc",
-    "bookingUrl": "https://www.taktikbook.lk/theater/milano-gold",
     "confirmed": true,
     "specs": [
       "3 Screens",
@@ -2916,118 +2906,6 @@
       "AC"
     ],
     "bookingUrl": "https://www.litecinemas.lk/theaters",
-    "confirmed": true
-  },
-  {
-    "id": "bms-imperial-3d-cinema-kurunegala",
-    "cinemaId": "bms",
-    "slug": "imperial-3d-cinema-kurunegala",
-    "name": "Imperial 3D Cinema",
-    "city": "Kurunegala",
-    "town": "Kurunegala",
-    "address": "Kurunegala, Kurunegala",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.487,80.367",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
-    "id": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
-    "cinemaId": "bms",
-    "slug": "regal-cinemas-polonnaruwa-polonnaruwa",
-    "name": "Regal Cinemas Polonnaruwa",
-    "city": "Polonnaruwa",
-    "town": "Polonnaruwa",
-    "address": "Polonnaruwa, Polonnaruwa",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.943,81.012",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
-    "id": "bms-ruoo-cinema-katunayake",
-    "cinemaId": "bms",
-    "slug": "ruoo-cinema-katunayake",
-    "name": "Ruoo Cinema",
-    "city": "Gampaha",
-    "town": "Katunayake",
-    "address": "Katunayake, Gampaha",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.166,79.885",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
-    "id": "bms-ck-cinema-kirindiwela",
-    "cinemaId": "bms",
-    "slug": "ck-cinema-kirindiwela",
-    "name": "CK Cinema",
-    "city": "Gampaha",
-    "town": "Kirindiwela",
-    "address": "Kirindiwela, Gampaha",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.043,80.132",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
-    "id": "bms-sk-cinema-matara",
-    "cinemaId": "bms",
-    "slug": "sk-cinema-matara",
-    "name": "SK Cinema",
-    "city": "Matara",
-    "town": "Matara",
-    "address": "Matara, Matara",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=5.944,80.550",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
-    "id": "bms-tarzen-cinema-kegalle",
-    "cinemaId": "bms",
-    "slug": "tarzen-cinema-kegalle",
-    "name": "Tarzen Cinema",
-    "city": "Kegalle",
-    "town": "Kegalle",
-    "address": "Kegalle, Kegalle",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.253,80.344",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
-    "id": "bms-cinelma-theater-badulla",
-    "cinemaId": "bms",
-    "slug": "cinelma-theater-badulla",
-    "name": "Cinelma Theater",
-    "city": "Badulla",
-    "town": "Badulla",
-    "address": "Badulla, Badulla",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.982,81.059",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
     "confirmed": true
   }
 ]

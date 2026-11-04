@@ -60,6 +60,12 @@
     "bookingSite": "https://www.litecinemas.lk/theaters"
   },
   {
+    "id": "bms",
+    "name": "BookMyShow Sri Lanka",
+    "website": "https://lk.bookmyshow.com",
+    "bookingSite": "https://lk.bookmyshow.com"
+  },
+  {
     "id": "nfc",
     "name": "Independent cinemas",
     "website": "https://nfc.gov.lk/cinemas/",
@@ -70,11 +76,5 @@
     "name": "TakTikBook (online booking)",
     "website": "https://www.taktikbook.lk",
     "bookingSite": "https://www.taktikbook.lk"
-  },
-  {
-    "id": "bms",
-    "name": "BookMyShow Sri Lanka",
-    "website": "https://lk.bookmyshow.com",
-    "bookingSite": "https://lk.bookmyshow.com"
   }
 ]
