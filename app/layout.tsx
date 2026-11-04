@@ -40,6 +40,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: "fdfs.lk – Movie Showtimes in Sri Lanka | Book Cinema Tickets",
   description: siteDescription,
+  verification: { google: "UdA0fXh6VU7SVsUwk0_wmD2sqFECkDLkU4SVlQJKkuQ" },
   openGraph: {
     siteName: "fdfs.lk",
     title: "fdfs.lk – Movie Showtimes in Sri Lanka",
