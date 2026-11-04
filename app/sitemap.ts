@@ -4,7 +4,8 @@ import { EXPERIENCE_PAGES } from "@/lib/experience-pages";
 import { SITE_URL } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const u = (path: string, priority: number) => ({ url: `${SITE_URL}${path}`, priority });
+  const lastModified = new Date();
+  const u = (path: string, priority: number) => ({ url: `${SITE_URL}${path}`, lastModified, priority });
   return [
     u("/", 1),
     u("/movies", 0.9),
