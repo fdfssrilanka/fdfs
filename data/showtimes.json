@@ -2,7 +2,7 @@
   {
     "movieId": "scope-eda-re-sinhala",
     "theatreId": "scope-ccc",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "10:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
@@ -10,202 +10,10 @@
   {
     "movieId": "scope-clayface-2026",
     "theatreId": "scope-ccc",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "10:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "10:30",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "12:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-swapna-sundari-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "12:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "12:50",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "13:00",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-resident-evil",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "15:00",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "15:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "15:40",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "16:45",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-3-4",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "18:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "18:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "19:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-adaraneeya-tharuwak-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "20:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/adaraneeya-tharuwak-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "21:00",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "21:20",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "21:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-04",
-    "time": "22:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
   },
   {
     "movieId": "scope-agnijaya-sinhala",
@@ -214,22 +22,6 @@
     "time": "10:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-street-fighter",
@@ -496,20 +288,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
   },
   {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-06",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
     "movieId": "scope-eda-re-sinhala",
     "theatreId": "scope-ccc",
     "date": "2026-11-06",
     "time": "13:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-street-fighter",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
   },
   {
     "movieId": "scope-ramayana-rise-of-a-legend-hindi",
@@ -536,20 +328,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-06",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-teardrop-nation-episodes-1-2",
     "theatreId": "scope-ccc",
     "date": "2026-11-06",
     "time": "16:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-06",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-clayface-2026",
@@ -600,20 +392,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/george-michael-the-faith-tour/showtimes"
   },
   {
-    "movieId": "scope-teardrop-nation-episodes-3-4",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-06",
-    "time": "19:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
-  },
-  {
     "movieId": "scope-jailer-2-tamil",
     "theatreId": "scope-ccc",
     "date": "2026-11-06",
     "time": "19:15",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-3-4",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-06",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
   },
   {
     "movieId": "scope-street-fighter",
@@ -728,20 +520,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-07",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-street-fighter",
     "theatreId": "scope-ccc",
     "date": "2026-11-07",
     "time": "13:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-ramayana-rise-of-a-legend-hindi",
@@ -776,20 +568,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-07",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-teardrop-nation-episodes-1-2",
     "theatreId": "scope-ccc",
     "date": "2026-11-07",
     "time": "16:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-clayface-2026",
@@ -912,20 +704,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-08",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-ahasa-tharam-sinhala",
     "theatreId": "scope-ccc",
     "date": "2026-11-08",
     "time": "10:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/ahasa-tharam-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-agnijaya-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -968,20 +760,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-08",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-street-fighter",
     "theatreId": "scope-ccc",
     "date": "2026-11-08",
     "time": "13:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-ramayana-rise-of-a-legend-hindi",
@@ -1016,20 +808,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-08",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-teardrop-nation-episodes-1-2",
     "theatreId": "scope-ccc",
     "date": "2026-11-08",
     "time": "16:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-clayface-2026",
@@ -1152,20 +944,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-09",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-ahasa-tharam-sinhala",
     "theatreId": "scope-ccc",
     "date": "2026-11-09",
     "time": "10:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/ahasa-tharam-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-agnijaya-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-09",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -1208,20 +1000,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-09",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-street-fighter",
     "theatreId": "scope-ccc",
     "date": "2026-11-09",
     "time": "13:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-09",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-ramayana-rise-of-a-legend-hindi",
@@ -1256,20 +1048,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-09",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-teardrop-nation-episodes-1-2",
     "theatreId": "scope-ccc",
     "date": "2026-11-09",
     "time": "16:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-09",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-clayface-2026",
@@ -1736,20 +1528,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-11",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-teardrop-nation-episodes-1-2",
     "theatreId": "scope-ccc",
     "date": "2026-11-11",
     "time": "16:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-11",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-clayface-2026",
@@ -1800,20 +1592,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-teardrop-nation-episodes-3-4",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-11",
-    "time": "19:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
-  },
-  {
     "movieId": "scope-jailer-2-tamil",
     "theatreId": "scope-ccc",
     "date": "2026-11-11",
     "time": "19:15",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-3-4",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-11",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
   },
   {
     "movieId": "scope-adaraneeya-tharuwak-sinhala",
@@ -1976,20 +1768,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
   },
   {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-12",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
     "movieId": "scope-eda-re-sinhala",
     "theatreId": "scope-ccc",
     "date": "2026-11-12",
     "time": "16:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-1-2",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-12",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
   },
   {
     "movieId": "scope-clayface-2026",
@@ -2040,20 +1832,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-12",
-    "time": "19:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
     "movieId": "scope-teardrop-nation-episodes-3-4",
     "theatreId": "scope-ccc",
     "date": "2026-11-12",
     "time": "19:15",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "scope-ccc",
+    "date": "2026-11-12",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
   },
   {
     "movieId": "scope-adaraneeya-tharuwak-sinhala",
@@ -2094,238 +1886,6 @@
     "time": "22:30",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-cricket-sadu-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "09:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "10:30",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "10:45",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "11:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "12:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-swapna-sundari-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "12:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "12:45",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "12:50",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "13:00",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "14:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "15:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "15:10",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "15:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
-  },
-  {
-    "movieId": "scope-the-odyssey",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "15:45",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/the-odyssey/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "16:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-3-4",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "17:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "18:00",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-the-odyssey",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/the-odyssey/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "20:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "20:50",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "21:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-resident-evil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-04",
-    "time": "22:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
   },
   {
     "movieId": "scope-cricket-sadu-sinhala",
@@ -2576,6 +2136,14 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
   },
   {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-06",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
     "movieId": "scope-cricket-sadu-sinhala",
     "theatreId": "scope-hcm",
     "date": "2026-11-06",
@@ -2598,14 +2166,6 @@
     "time": "10:15",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-06",
-    "time": "10:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
   },
   {
     "movieId": "scope-agnijaya-sinhala",
@@ -2652,7 +2212,7 @@
     "theatreId": "scope-hcm",
     "date": "2026-11-06",
     "time": "13:15",
-    "format": "Dolby Atmos",
+    "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
@@ -2784,20 +2344,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-06",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
     "movieId": "scope-resident-evil",
     "theatreId": "scope-hcm",
     "date": "2026-11-06",
     "time": "21:40",
     "format": "Dolby Atmos",
     "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-06",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
   },
   {
     "movieId": "scope-ramayana-rise-of-a-legend-hindi",
@@ -2816,20 +2376,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
   },
   {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-07",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
     "movieId": "scope-cricket-sadu-sinhala",
     "theatreId": "scope-hcm",
     "date": "2026-11-07",
     "time": "09:45",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-07",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -2840,12 +2400,12 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-angel-and-the-badman",
+    "movieId": "scope-spying-stars-sinhala",
     "theatreId": "scope-hcm",
     "date": "2026-11-07",
-    "time": "10:30",
+    "time": "10:15",
     "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
+    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
   },
   {
     "movieId": "scope-agnijaya-sinhala",
@@ -2892,7 +2452,7 @@
     "theatreId": "scope-hcm",
     "date": "2026-11-07",
     "time": "13:15",
-    "format": "Dolby Atmos",
+    "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
@@ -3024,20 +2584,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-07",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
     "movieId": "scope-resident-evil",
     "theatreId": "scope-hcm",
     "date": "2026-11-07",
     "time": "21:40",
     "format": "Dolby Atmos",
     "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-07",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
   },
   {
     "movieId": "scope-ramayana-rise-of-a-legend-hindi",
@@ -3054,6 +2614,14 @@
     "time": "09:00",
     "format": "IMAX",
     "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-08",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
     "movieId": "scope-cricket-sadu-sinhala",
@@ -3078,14 +2646,6 @@
     "time": "10:15",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-08",
-    "time": "10:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
   },
   {
     "movieId": "scope-agnijaya-sinhala",
@@ -3256,6 +2816,14 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-08",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
     "movieId": "scope-resident-evil",
     "theatreId": "scope-hcm",
     "date": "2026-11-08",
@@ -3270,14 +2838,6 @@
     "time": "21:45",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-08",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
   },
   {
     "movieId": "scope-ramayana-rise-of-a-legend-hindi",
@@ -3288,20 +2848,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
   },
   {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-09",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
     "movieId": "scope-cricket-sadu-sinhala",
     "theatreId": "scope-hcm",
     "date": "2026-11-09",
     "time": "09:45",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
     "movieId": "scope-spying-stars-sinhala",
@@ -3312,20 +2872,20 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
   },
   {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-09",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
     "movieId": "scope-ramayana-rise-of-a-legend-hindi",
     "theatreId": "scope-hcm",
     "date": "2026-11-09",
     "time": "10:30",
     "format": "IMAX",
     "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "10:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
   },
   {
     "movieId": "scope-agnijaya-sinhala",
@@ -3364,7 +2924,7 @@
     "theatreId": "scope-hcm",
     "date": "2026-11-09",
     "time": "13:15",
-    "format": "Dolby Atmos",
+    "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
@@ -3464,836 +3024,756 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-george-michael-the-faith-tour",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "19:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/george-michael-the-faith-tour/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "20:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-scene-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "21:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-resident-evil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "21:40",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "21:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-09",
-    "time": "22:15",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-cricket-sadu-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "09:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "10:30",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "10:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
-  },
-  {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "11:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-clayface-2026",
     "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "12:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-swapna-sundari-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "12:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "12:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "13:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "14:15",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "15:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "15:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "16:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-3-4",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "17:20",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "18:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "18:30",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-scene-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-george-michael-the-faith-tour",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "19:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/george-michael-the-faith-tour/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "20:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-scene-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "21:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-resident-evil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "21:40",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "21:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-10",
-    "time": "22:15",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-cricket-sadu-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "09:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "10:30",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "10:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
-  },
-  {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "11:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "12:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-swapna-sundari-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "12:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "12:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "13:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "14:15",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "15:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "15:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "16:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-3-4",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "17:20",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "18:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "18:30",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-scene-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-george-michael-the-faith-tour",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "19:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/george-michael-the-faith-tour/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "20:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-scene-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "21:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-resident-evil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "21:40",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "21:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-11",
-    "time": "22:15",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-cricket-sadu-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "09:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "10:30",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "10:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
-  },
-  {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "11:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "12:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-swapna-sundari-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "12:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "12:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "13:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "14:15",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "15:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "15:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "16:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-3-4",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "17:20",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "18:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "18:30",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-scene-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-george-michael-the-faith-tour",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "19:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/george-michael-the-faith-tour/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "20:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-scene-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "21:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-resident-evil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "21:40",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "21:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-12",
-    "time": "22:15",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
-    "time": "13:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
-    "time": "15:20",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
-    "time": "16:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
+    "date": "2026-11-09",
     "time": "19:00",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-1-2",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-09",
+    "time": "20:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-09",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-resident-evil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-09",
+    "time": "21:30",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-09",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-09",
+    "time": "21:45",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-09",
+    "time": "22:15",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "09:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-spying-stars-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "10:30",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-agnijaya-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "12:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-swapna-sundari-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-street-fighter",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "14:15",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
     "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
-    "time": "22:00",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "15:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
   },
   {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-04",
+    "movieId": "scope-spying-stars-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "15:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "15:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "16:15",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-3-4",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "17:20",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-1-2",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "18:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "18:30",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "18:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "19:00",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-1-2",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "20:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-resident-evil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "21:30",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
+    "time": "21:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-10",
     "time": "22:15",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "09:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-spying-stars-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "10:30",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-agnijaya-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "12:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-swapna-sundari-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-street-fighter",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "14:15",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "15:00",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-spying-stars-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "15:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "15:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "16:15",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-3-4",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "17:20",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-1-2",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "18:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "18:30",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "18:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "19:00",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-1-2",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "20:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-resident-evil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "21:30",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "21:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-11",
+    "time": "22:15",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "09:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-spying-stars-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "10:30",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-agnijaya-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "12:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-swapna-sundari-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-street-fighter",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "14:15",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "15:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-spying-stars-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "15:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "15:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "16:15",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-3-4",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "17:20",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-3-4/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-1-2",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "18:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "18:30",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "18:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "19:00",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
+  },
+  {
+    "movieId": "scope-teardrop-nation-episodes-1-2",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "20:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-resident-evil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "21:30",
+    "format": "Dolby Atmos",
+    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "21:45",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "scope-hcm",
+    "date": "2026-11-12",
+    "time": "22:15",
+    "format": "IMAX",
+    "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -4768,14 +4248,6 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/mookuthi-amman-2-tamil/showtimes"
   },
   {
-    "movieId": "scope-mookuthi-amman-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-11",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/mookuthi-amman-2-tamil/showtimes"
-  },
-  {
     "movieId": "scope-scene-tamil",
     "theatreId": "scope-colpetty",
     "date": "2026-11-11",
@@ -4930,46 +4402,6 @@
   {
     "movieId": "scope-eda-re-sinhala",
     "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-04",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-04",
-    "time": "12:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-04",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-04",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-04",
-    "time": "21:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
     "date": "2026-11-05",
     "time": "10:00",
     "format": "2D",
@@ -5006,6 +4438,14 @@
     "time": "21:45",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "scope-kiribathgoda",
+    "date": "2026-11-06",
+    "time": "06:00",
+    "format": "2D",
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -5056,12 +4496,12 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
+    "movieId": "scope-scene-tamil",
     "theatreId": "scope-kiribathgoda",
     "date": "2026-11-07",
     "time": "12:45",
     "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -5096,12 +4536,12 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
+    "movieId": "scope-scene-tamil",
     "theatreId": "scope-kiribathgoda",
     "date": "2026-11-08",
     "time": "12:45",
     "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -5136,12 +4576,12 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
+    "movieId": "scope-scene-tamil",
     "theatreId": "scope-kiribathgoda",
     "date": "2026-11-09",
     "time": "12:45",
     "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -5176,12 +4616,12 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
+    "movieId": "scope-scene-tamil",
     "theatreId": "scope-kiribathgoda",
     "date": "2026-11-10",
     "time": "12:45",
     "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -5216,12 +4656,12 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
+    "movieId": "scope-scene-tamil",
     "theatreId": "scope-kiribathgoda",
     "date": "2026-11-11",
     "time": "12:45",
     "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -5256,12 +4696,12 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
+    "movieId": "scope-scene-tamil",
     "theatreId": "scope-kiribathgoda",
     "date": "2026-11-12",
     "time": "12:45",
     "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
+    "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -5290,50 +4730,50 @@
   {
     "movieId": "scope-jailer-2-tamil",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "13:00",
     "format": "Platinum",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32546"
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32549"
   },
   {
     "movieId": "scope-jailer-2-tamil",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "16:30",
     "format": "Platinum",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32547"
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32550"
   },
   {
     "movieId": "scope-jailer-2-tamil",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "19:45",
     "format": "Platinum",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32548"
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32551"
   },
   {
     "movieId": "scope-eda-re-sinhala",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "10:15",
     "format": "Platinum",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32487"
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32488"
   },
   {
     "movieId": "scope-eda-re-sinhala",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "13:15",
     "format": "Gold",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32491"
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32492"
   },
   {
     "movieId": "scope-eda-re-sinhala",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "18:45",
-    "format": "Silver",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32496"
+    "format": "Gold",
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32494"
   },
   {
     "movieId": "scope-scene-tamil",
@@ -5394,26 +4834,26 @@
   {
     "movieId": "scope-agnijaya-sinhala",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
-    "time": "13:30",
+    "date": "2026-11-05",
+    "time": "10:30",
     "format": "Silver",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32499"
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32500"
   },
   {
     "movieId": "scope-clayface-2026",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
-    "time": "13:30",
+    "date": "2026-11-05",
+    "time": "17:30",
     "format": "Luxe",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32502"
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32503"
   },
   {
     "movieId": "scope-adaraneeya-tharuwak-sinhala",
     "theatreId": "jp-kandy",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "time": "10:30",
     "format": "Luxe",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32639"
+    "bookingUrl": "https://jpcineplex.com/orders/tickets/32837"
   },
   {
     "movieId": "scope-heart-of-the-beast",
@@ -5424,78 +4864,6 @@
     "bookingUrl": "https://jpcineplex.com/orders/tickets/32509"
   },
   {
-    "movieId": "scope-street-fighter",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-04",
-    "time": "16:00",
-    "format": "Luxe",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32512"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "str-rajah-1",
-    "date": "2026-11-04",
-    "time": "14:30",
-    "format": "2D",
-    "bookingUrl": "https://ticketmaster.lk/show/movie-c8514ed59da"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "str-rajah-1",
-    "date": "2026-11-04",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://ticketmaster.lk/show/movie-c8514ed59da"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "str-suganthi",
-    "date": "2026-11-04",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://ticketmaster.lk/show/movie-c8514ed59da"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "str-amutha",
-    "date": "2026-11-04",
-    "time": "14:30",
-    "format": "2D",
-    "bookingUrl": "https://ticketmaster.lk/show/movie-c8514ed59da"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "str-amutha",
-    "date": "2026-11-04",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://ticketmaster.lk/show/movie-c8514ed59da"
-  },
-  {
-    "movieId": "eap-1809",
-    "theatreId": "eap-willmax",
-    "date": "2026-11-04",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=1809"
-  },
-  {
-    "movieId": "eap-1809",
-    "theatreId": "eap-sinexpo-3d",
-    "date": "2026-11-04",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=1809"
-  },
-  {
-    "movieId": "eap-1809",
-    "theatreId": "eap-savoy-metro-gampaha",
-    "date": "2026-11-04",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=1809"
-  },
-  {
     "movieId": "eap-1809",
     "theatreId": "eap-sinexpo-3d",
     "date": "2026-11-05",
@@ -5510,94 +4878,6 @@
     "time": "13:30",
     "format": "2D",
     "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=1809"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-3d-dolby-atmos",
-    "date": "2026-11-04",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-willmax",
-    "date": "2026-11-04",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-willmax",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-jothi",
-    "date": "2026-11-04",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-jothi",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-jothi",
-    "date": "2026-11-04",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-sinexpo-3d",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-sinexpo-3d",
-    "date": "2026-11-04",
-    "time": "15:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-premier-rajagiriya",
-    "date": "2026-11-04",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-metro-gampaha",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-metro-gampaha",
-    "date": "2026-11-04",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
   },
   {
     "movieId": "scope-eda-re-sinhala",
@@ -5728,44 +5008,292 @@
     "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
   },
   {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-3d-dolby-atmos",
-    "date": "2026-11-04",
-    "time": "16:00",
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-06",
+    "time": "13:30",
     "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
   },
   {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-3d-dolby-atmos",
-    "date": "2026-11-04",
-    "time": "22:15",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-3d-dolby-atmos",
-    "date": "2026-11-04",
-    "time": "19:15",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-premier-rajagiriya",
-    "date": "2026-11-04",
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-06",
     "time": "19:00",
     "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
   },
   {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-premier-rajagiriya",
-    "date": "2026-11-04",
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-06",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-06",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-06",
     "time": "16:00",
     "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-06",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-06",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-06",
+    "time": "15:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-07",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-07",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-07",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-07",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-07",
+    "time": "15:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-willmax",
+    "date": "2026-11-08",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-08",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-jothi",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-08",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-08",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-sinexpo-3d",
+    "date": "2026-11-08",
+    "time": "15:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
   },
   {
     "movieId": "scope-jailer-2-tamil",
@@ -5816,10 +5344,330 @@
     "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
   },
   {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-09",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-10",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-11",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-12",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-06",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-07",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-08",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-09",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-09",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-10",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-10",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-11",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-11",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-12",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-12",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2045"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-06",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-06",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-07",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-07",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-08",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-08",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-09",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-10",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-11",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-mookuthi-amman-2-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-12",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2046"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-06",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
     "movieId": "scope-scene-tamil",
     "theatreId": "eap-savoy-3d-dolby-atmos",
     "date": "2026-11-06",
     "time": "06:00",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-06",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-06",
+    "time": "22:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-07",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-07",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-07",
+    "time": "22:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-3d-dolby-atmos",
+    "date": "2026-11-08",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-08",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-scene-tamil",
+    "theatreId": "eap-savoy-premier-rajagiriya",
+    "date": "2026-11-08",
+    "time": "22:15",
     "format": "2D",
     "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
   }
