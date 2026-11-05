@@ -128,8 +128,8 @@ export function applyBms(theatres: Theatre[], showtimes: Showtime[], movieList: 
     if (hasOwn.has(th.id)) { skipped.add(th.id); continue; }
     const format = /3D$/.test(groups.get(gi) ?? "") ? "3D" : "2D";
     for (const d of days.split(",")) {
-      if (d === "25") continue; // no tab for the 25th on the site; the page just repeats today
-      const date = `2026-10-${d.padStart(2, "0")}`;
+      if (d === "25" && snapshotDate === "2026-10-21") continue; // no tab for the 25th on the site; the page just repeats today
+      const date = `${snapshotDate!.slice(0, 7)}-${d.padStart(2, "0")}`;
       for (const t of times.split(",")) {
         const [hhmm, price] = t.split(":");
         const lowest = price ? Number(price.split("-")[0]) : undefined;

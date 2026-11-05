@@ -1,205 +1,5 @@
 [
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "10:30",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "12:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-swapna-sundari-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "12:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "12:50",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "13:00",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-resident-evil",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "15:00",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "15:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "15:40",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "16:45",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "18:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "18:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "19:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-adaraneeya-tharuwak-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "20:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/adaraneeya-tharuwak-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "21:00",
-    "format": "Gold Class",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "21:20",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-ccc",
-    "date": "2026-11-05",
-    "time": "21:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-jailer-2-tamil",
     "theatreId": "scope-ccc",
     "date": "2026-11-05",
@@ -1886,230 +1686,6 @@
     "time": "22:30",
     "format": "2D",
     "bookingUrl": "https://www.scopecinemas.com/movies/scene-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-cricket-sadu-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "09:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/cricket-sadu-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-spying-stars-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/spying-stars-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "10:30",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "10:45",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "11:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/agnijaya-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "12:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-swapna-sundari-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "12:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/swapna-sundari-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "12:45",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "12:50",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "13:00",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-street-fighter",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "14:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/street-fighter/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "15:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "15:10",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-angel-and-the-badman",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "15:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/angel-and-the-badman/showtimes"
-  },
-  {
-    "movieId": "scope-the-odyssey",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "15:45",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/the-odyssey/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "16:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/heart-of-the-beast/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "17:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "18:00",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "18:30",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-the-odyssey",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "IMAX",
-    "bookingUrl": "https://www.scopecinemas.com/movies/the-odyssey/showtimes"
-  },
-  {
-    "movieId": "scope-teardrop-nation-episodes-1-2",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/teardrop-nation-episodes-1-2/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "20:15",
-    "format": "Dolby Atmos",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "20:50",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "21:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-resident-evil",
-    "theatreId": "scope-hcm",
-    "date": "2026-11-05",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/resident-evil/showtimes"
   },
   {
     "movieId": "scope-jailer-2-tamil",
@@ -3776,70 +3352,6 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-05",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-05",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-05",
-    "time": "13:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/clayface-2026/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-05",
-    "time": "15:20",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-05",
-    "time": "16:15",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-05",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "scope-colpetty",
-    "date": "2026-11-05",
-    "time": "22:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/jailer-2-tamil/showtimes"
-  },
-  {
     "movieId": "scope-jailer-2-tamil",
     "theatreId": "scope-colpetty",
     "date": "2026-11-05",
@@ -4400,46 +3912,6 @@
     "bookingUrl": "https://www.scopecinemas.com/movies/mookuthi-amman-2-tamil/showtimes"
   },
   {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-05",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-05",
-    "time": "12:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-05",
-    "time": "15:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-05",
-    "time": "18:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "scope-kiribathgoda",
-    "date": "2026-11-05",
-    "time": "21:45",
-    "format": "2D",
-    "bookingUrl": "https://www.scopecinemas.com/movies/eda-re-sinhala/showtimes"
-  },
-  {
     "movieId": "scope-scene-tamil",
     "theatreId": "scope-kiribathgoda",
     "date": "2026-11-06",
@@ -4726,54 +4198,6 @@
     "time": "21:45",
     "format": "3D",
     "bookingUrl": "https://www.scopecinemas.com/movies/ramayana-rise-of-a-legend-hindi/showtimes"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "13:00",
-    "format": "Platinum",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32549"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "16:30",
-    "format": "Platinum",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32550"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "19:45",
-    "format": "Platinum",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32551"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "10:15",
-    "format": "Platinum",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32488"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "13:15",
-    "format": "Gold",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32492"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "18:45",
-    "format": "Gold",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32494"
   },
   {
     "movieId": "scope-scene-tamil",
@@ -4832,182 +4256,6 @@
     "bookingUrl": "https://jpcineplex.com/orders/tickets/32777"
   },
   {
-    "movieId": "scope-agnijaya-sinhala",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "10:30",
-    "format": "Silver",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32500"
-  },
-  {
-    "movieId": "scope-clayface-2026",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "17:30",
-    "format": "Luxe",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32503"
-  },
-  {
-    "movieId": "scope-adaraneeya-tharuwak-sinhala",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "10:30",
-    "format": "Luxe",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32837"
-  },
-  {
-    "movieId": "scope-heart-of-the-beast",
-    "theatreId": "jp-kandy",
-    "date": "2026-11-05",
-    "time": "15:30",
-    "format": "Luxe",
-    "bookingUrl": "https://jpcineplex.com/orders/tickets/32509"
-  },
-  {
-    "movieId": "eap-1809",
-    "theatreId": "eap-sinexpo-3d",
-    "date": "2026-11-05",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=1809"
-  },
-  {
-    "movieId": "eap-1809",
-    "theatreId": "eap-savoy-metro-gampaha",
-    "date": "2026-11-05",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=1809"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-3d-dolby-atmos",
-    "date": "2026-11-05",
-    "time": "13:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-willmax",
-    "date": "2026-11-05",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-willmax",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-willmax",
-    "date": "2026-11-05",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-jothi",
-    "date": "2026-11-05",
-    "time": "10:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-jothi",
-    "date": "2026-11-05",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-jothi",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-jothi",
-    "date": "2026-11-05",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-sinexpo-3d",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-sinexpo-3d",
-    "date": "2026-11-05",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-sinexpo-3d",
-    "date": "2026-11-05",
-    "time": "15:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-premier-rajagiriya",
-    "date": "2026-11-05",
-    "time": "13:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-premier-rajagiriya",
-    "date": "2026-11-05",
-    "time": "10:15",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-metro-gampaha",
-    "date": "2026-11-05",
-    "time": "10:30",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-metro-gampaha",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-eda-re-sinhala",
-    "theatreId": "eap-savoy-metro-gampaha",
-    "date": "2026-11-05",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
     "movieId": "scope-eda-re-sinhala",
     "theatreId": "eap-willmax",
     "date": "2026-11-06",
@@ -5294,52 +4542,12 @@
     "time": "15:30",
     "format": "2D",
     "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2014"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-3d-dolby-atmos",
-    "date": "2026-11-05",
-    "time": "16:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
   },
   {
     "movieId": "scope-jailer-2-tamil",
     "theatreId": "eap-savoy-3d-dolby-atmos",
     "date": "2026-11-05",
     "time": "22:15",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-3d-dolby-atmos",
-    "date": "2026-11-05",
-    "time": "10:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-3d-dolby-atmos",
-    "date": "2026-11-05",
-    "time": "19:15",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-premier-rajagiriya",
-    "date": "2026-11-05",
-    "time": "19:00",
-    "format": "2D",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
-  },
-  {
-    "movieId": "scope-jailer-2-tamil",
-    "theatreId": "eap-savoy-premier-rajagiriya",
-    "date": "2026-11-05",
-    "time": "16:00",
     "format": "2D",
     "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2032"
   },
@@ -5670,5 +4878,4757 @@
     "time": "22:15",
     "format": "2D",
     "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=2047"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-cinecity-maradana",
+    "date": "2026-11-06",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-cinecity-maradana",
+    "date": "2026-11-06",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-cinecity-maradana",
+    "date": "2026-11-07",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-cinecity-maradana",
+    "date": "2026-11-07",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-cinecity-maradana",
+    "date": "2026-11-08",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-cinecity-maradana",
+    "date": "2026-11-08",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-concord",
+    "date": "2026-11-06",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-concord",
+    "date": "2026-11-07",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-concord",
+    "date": "2026-11-08",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-concord",
+    "date": "2026-11-09",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-concord",
+    "date": "2026-11-10",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-concord",
+    "date": "2026-11-11",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-concord",
+    "date": "2026-11-12",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "eap-concord",
+    "date": "2026-11-05",
+    "time": "22:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261105"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-06",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-06",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-06",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-06",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-07",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-07",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-07",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-08",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-08",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-08",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-09",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-09",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-10",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-10",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-11",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-11",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-12",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-12",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "22:20",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "22:20",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-05",
+    "time": "22:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261105"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-05",
+    "time": "22:25",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261105"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "22:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-09",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-10",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-11",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-12",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-06",
+    "time": "17:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-07",
+    "time": "17:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-08",
+    "time": "17:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-09",
+    "time": "17:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-10",
+    "time": "17:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-11",
+    "time": "17:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-12",
+    "time": "17:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-06",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-06",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-06",
+    "time": "19:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-07",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-07",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-07",
+    "time": "19:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-08",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-08",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-09",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-09",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-09",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-09",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-10",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-10",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-10",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-10",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-11",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-11",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-11",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-11",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-12",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-12",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-12",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "ceylon-majestic-jaffna",
+    "date": "2026-11-12",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-09",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-10",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-11",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-12",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-06",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261106"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-07",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261107"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-08",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261108"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-09",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-09",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261109"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-10",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-10",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261110"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-11",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-11",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261111"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-12",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-12",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261112"
+  },
+  {
+    "movieId": "scope-jailer-2-tamil",
+    "theatreId": "nfc-sky-lite",
+    "date": "2026-11-05",
+    "time": "22:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/jailer-2-sri-lanka/movie-snlk-ET00006205-MT/20261105"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-05",
+    "time": "22:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261105"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-06",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-07",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-08",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-max-lite",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-05",
+    "time": "22:05",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261105"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "19:20",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "19:20",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-06",
+    "time": "10:10",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-06",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-06",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-07",
+    "time": "10:10",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-07",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-07",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-08",
+    "time": "10:10",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-08",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-08",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-09",
+    "time": "10:10",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-09",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-09",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-10",
+    "time": "10:10",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-10",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-10",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-11",
+    "time": "10:10",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-11",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-11",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-12",
+    "time": "10:10",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-12",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-12",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-06",
+    "time": "18:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-06",
+    "time": "21:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-07",
+    "time": "18:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-08",
+    "time": "18:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-amity-lite",
+    "date": "2026-11-08",
+    "time": "21:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-city-cinema",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-city-cinema",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-city-cinema",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-06",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vox-lite",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-06",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-06",
+    "time": "15:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-07",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-07",
+    "time": "15:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-08",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-aqua-negombo",
+    "date": "2026-11-08",
+    "time": "15:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-06",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-06",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-07",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-08",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ck-cinema-kirindiwela",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-09",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-10",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-11",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-12",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-06",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-06",
+    "time": "18:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-06",
+    "time": "21:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-07",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-07",
+    "time": "18:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-08",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-08",
+    "time": "18:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-lekha-homagama",
+    "date": "2026-11-08",
+    "time": "21:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-06",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-07",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-07",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-09",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-09",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-09",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-10",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-10",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-10",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-11",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-11",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-11",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-12",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-12",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-12",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-08",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-08",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-cinesha-cinema-misty-lite",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-cinesha-cinema-misty-lite",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-cinesha-cinema-misty-lite",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-06",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-06",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-07",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-07",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-08",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-neela-dankotuwa",
+    "date": "2026-11-08",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-06",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-06",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-07",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-07",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-08",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-nikado-kadawatha",
+    "date": "2026-11-08",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-06",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-06",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-06",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-07",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-07",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-07",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-08",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-08",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-prasanna-lite",
+    "date": "2026-11-08",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-06",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-07",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-08",
+    "time": "16:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "lite-priska-kalutara",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-06",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-06",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-06",
+    "time": "22:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-07",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-07",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-07",
+    "time": "22:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-08",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-08",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-09",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-09",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-09",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-09",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-10",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-10",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-10",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-10",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-11",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-11",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-11",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-11",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-12",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-12",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-12",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-katubedda",
+    "date": "2026-11-12",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-06",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-06",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-07",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-07",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-08",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-08",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-09",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-09",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-10",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-10",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-11",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-11",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-12",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-bandarawela",
+    "date": "2026-11-12",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-06",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-06",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-06",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-06",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-06",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-06",
+    "time": "22:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-06",
+    "time": "22:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-07",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-07",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-07",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-07",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-07",
+    "time": "19:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-07",
+    "time": "22:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-07",
+    "time": "22:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-08",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-08",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-08",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-08",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-09",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-09",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-09",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-09",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-10",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-10",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-10",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-10",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-11",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-11",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-11",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-11",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-12",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-12",
+    "time": "13:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-12",
+    "time": "16:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-12",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-09",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-10",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-11",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-nuwara-eliya",
+    "date": "2026-11-12",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-06",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-07",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-09",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-09",
+    "time": "20:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-10",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-10",
+    "time": "20:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-11",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-11",
+    "time": "20:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-12",
+    "time": "17:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-regal-dematagoda",
+    "date": "2026-11-12",
+    "time": "20:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-06",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-06",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-07",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-07",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-08",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-08",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-09",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-09",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-10",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-10",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-11",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-11",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-12",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "date": "2026-11-12",
+    "time": "19:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-06",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-06",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-07",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-08",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-09",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-09",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-09",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-10",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-10",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-10",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-11",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-11",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-11",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-12",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-12",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-12",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-06",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-06",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-07",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-07",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-08",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-08",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-09",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-09",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-10",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-10",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-11",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-11",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-12",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-rex-badulla",
+    "date": "2026-11-12",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-06",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-06",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-06",
+    "time": "18:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-06",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-07",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-07",
+    "time": "18:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-07",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-08",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-08",
+    "time": "18:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-ritz-borella",
+    "date": "2026-11-08",
+    "time": "21:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-06",
+    "time": "10:05",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-06",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-06",
+    "time": "19:40",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-07",
+    "time": "10:05",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-07",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-07",
+    "time": "19:40",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-08",
+    "time": "10:05",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-08",
+    "time": "14:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-08",
+    "time": "19:40",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-06",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-06",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-07",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-07",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-08",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sarasavi-alawwa",
+    "date": "2026-11-08",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-06",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-06",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-06",
+    "time": "21:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-07",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-07",
+    "time": "21:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-08",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-08",
+    "time": "21:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-09",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-09",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-09",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-10",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-10",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-10",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-11",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-11",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-11",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-06",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-06",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-07",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-sk-cinema-matara",
+    "date": "2026-11-08",
+    "time": "22:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sky-lite",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sky-lite",
+    "date": "2026-11-06",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sky-lite",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sky-lite",
+    "date": "2026-11-08",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sky-lite",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sky-lite",
+    "date": "2026-11-07",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-sky-lite",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-06",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-06",
+    "time": "14:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-06",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-07",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-07",
+    "time": "14:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-07",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-08",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-08",
+    "time": "14:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-08",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-09",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-09",
+    "time": "14:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-09",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-10",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-10",
+    "time": "14:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-10",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-11",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-11",
+    "time": "14:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-11",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-12",
+    "time": "10:15",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-12",
+    "time": "14:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "bms-tarzen-cinema-kegalle",
+    "date": "2026-11-12",
+    "time": "18:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-06",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-06",
+    "time": "15:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-07",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-07",
+    "time": "15:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-08",
+    "time": "19:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-10",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-10",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261110"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-12",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-12",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261112"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-09",
+    "time": "19:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261109"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-11",
+    "time": "19:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261111"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-06",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-06",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-06",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-06",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261106"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-07",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-07",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261107"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-08",
+    "time": "10:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-08",
+    "time": "12:45",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "scope-eda-re-sinhala",
+    "theatreId": "nfc-vijayanthi-kaduwela",
+    "date": "2026-11-08",
+    "time": "21:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/eda-ra-sri-lanka/movie-snlk-ET00006181-MT/20261108"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-06",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261106"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261107"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-08",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261108"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-09",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261109"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-10",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261110"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-11",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261111"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-regal",
+    "date": "2026-11-12",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261112"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261106"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261107"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261108"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-09",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261109"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-10",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261110"
+  },
+  {
+    "movieId": "bms-ayu-sinhala",
+    "theatreId": "eap-savoy-metro-maharagama",
+    "date": "2026-11-11",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ayu-sri-lanka/movie-snlk-ET00005878-MT/20261111"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ahasa-tharam-sri-lanka/movie-snlk-ET00006193-MT/20261106"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "16:25",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ahasa-tharam-sri-lanka/movie-snlk-ET00006193-MT/20261106"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ahasa-tharam-sri-lanka/movie-snlk-ET00006193-MT/20261107"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "16:25",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ahasa-tharam-sri-lanka/movie-snlk-ET00006193-MT/20261107"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "11:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ahasa-tharam-sri-lanka/movie-snlk-ET00006193-MT/20261108"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "16:25",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ahasa-tharam-sri-lanka/movie-snlk-ET00006193-MT/20261108"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-09",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ahasa-tharam-sri-lanka/movie-snlk-ET00006193-MT/20261109"
+  },
+  {
+    "movieId": "scope-ahasa-tharam-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-11",
+    "time": "09:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/ahasa-tharam-sri-lanka/movie-snlk-ET00006193-MT/20261111"
+  },
+  {
+    "movieId": "scope-adaraneeya-tharuwak-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-06",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/adaraneeya-tharuwak-sri-lanka/movie-snlk-ET00006151-MT/20261106"
+  },
+  {
+    "movieId": "scope-adaraneeya-tharuwak-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-07",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/adaraneeya-tharuwak-sri-lanka/movie-snlk-ET00006151-MT/20261107"
+  },
+  {
+    "movieId": "scope-adaraneeya-tharuwak-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-08",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/adaraneeya-tharuwak-sri-lanka/movie-snlk-ET00006151-MT/20261108"
+  },
+  {
+    "movieId": "scope-adaraneeya-tharuwak-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-09",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/adaraneeya-tharuwak-sri-lanka/movie-snlk-ET00006151-MT/20261109"
+  },
+  {
+    "movieId": "scope-adaraneeya-tharuwak-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-10",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/adaraneeya-tharuwak-sri-lanka/movie-snlk-ET00006151-MT/20261110"
+  },
+  {
+    "movieId": "scope-adaraneeya-tharuwak-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-11",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/adaraneeya-tharuwak-sri-lanka/movie-snlk-ET00006151-MT/20261111"
+  },
+  {
+    "movieId": "scope-adaraneeya-tharuwak-sinhala",
+    "theatreId": "bms-imperial-3d-cinema-kurunegala",
+    "date": "2026-11-12",
+    "time": "10:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/adaraneeya-tharuwak-sri-lanka/movie-snlk-ET00006151-MT/20261112"
+  },
+  {
+    "movieId": "bms-dinga-sinhala",
+    "theatreId": "nfc-wijya-cinema",
+    "date": "2026-11-09",
+    "time": "11:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/dinga-sri-lanka/movie-snlk-ET00006207-MT/20261109"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-05",
+    "time": "22:50",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/clayface-sri-lanka/movie-snlk-ET00006214-MT/20261105"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "10:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261106"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "16:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261106"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-06",
+    "time": "18:55",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261106"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "10:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261107"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "16:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261107"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-07",
+    "time": "18:55",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261107"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "10:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261108"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "16:35",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261108"
+  },
+  {
+    "movieId": "scope-heart-of-the-beast",
+    "theatreId": "pvr-ogf",
+    "date": "2026-11-08",
+    "time": "18:55",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/heart-of-the-beast-sri-lanka/movie-snlk-ET00006189-MT/20261108"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-06",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261106"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-08",
+    "time": "13:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261108"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-07",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261107"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-09",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261109"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-10",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261110"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-11",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261111"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-regal-gampaha",
+    "date": "2026-11-12",
+    "time": "13:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261112"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-06",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261106"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-07",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261107"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "bms-ruoo-cinema-katunayake",
+    "date": "2026-11-08",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261108"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-06",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261106"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-07",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261107"
+  },
+  {
+    "movieId": "scope-cricket-sadu-sinhala",
+    "theatreId": "nfc-samanala-melsiripura",
+    "date": "2026-11-08",
+    "time": "12:30",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/cricket-sadu-sri-lanka/movie-snlk-ET00006167-MT/20261108"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-06",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/clayface-sri-lanka/movie-snlk-ET00006214-MT/20261106"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-07",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/clayface-sri-lanka/movie-snlk-ET00006214-MT/20261107"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-08",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/clayface-sri-lanka/movie-snlk-ET00006214-MT/20261108"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-09",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/clayface-sri-lanka/movie-snlk-ET00006214-MT/20261109"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-10",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/clayface-sri-lanka/movie-snlk-ET00006214-MT/20261110"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-11",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/clayface-sri-lanka/movie-snlk-ET00006214-MT/20261111"
+  },
+  {
+    "movieId": "scope-clayface-2026",
+    "theatreId": "nfc-majestic-city",
+    "date": "2026-11-12",
+    "time": "14:00",
+    "format": "2D",
+    "bookingUrl": "https://lk.bookmyshow.com/buytickets/clayface-sri-lanka/movie-snlk-ET00006214-MT/20261112"
   }
 ]

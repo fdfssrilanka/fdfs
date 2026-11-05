@@ -117,6 +117,7 @@
     "experiences": [],
     "phone": "+94117021443",
     "details": "1 screen · A/C · 2K digital",
+    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -193,6 +194,7 @@
     "experiences": [],
     "phone": "+94917214512",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
+    "confirmed": true,
     "specs": [
       "1 Screen"
     ]
@@ -311,6 +313,7 @@
     "experiences": [],
     "phone": "+94117549630",
     "details": "1 screen · A/C · 2K digital",
+    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -376,6 +379,7 @@
     ],
     "phone": "+94766447664",
     "details": "9 screens · A/C · 4K digital",
+    "confirmed": true,
     "specs": [
       "9 Screens",
       "AC"
@@ -574,6 +578,7 @@
     ],
     "phone": "+94212227712",
     "details": "3 screens · A/C · 2K digital",
+    "confirmed": true,
     "specs": [
       "3 Screens",
       "AC"
@@ -675,7 +680,7 @@
   },
   {
     "id": "nfc-majestic-city",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "majestic-city",
     "name": "Majestic City",
     "city": "Colombo",
@@ -692,7 +697,7 @@
     ],
     "phone": "+94769371960",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "3 Screens",
       "AC"
@@ -728,7 +733,7 @@
   },
   {
     "id": "nfc-ritz-borella",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "ritz-borella",
     "name": "Ritz Borella",
     "city": "Colombo",
@@ -744,7 +749,7 @@
     ],
     "phone": "+94112695384",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -814,7 +819,7 @@
   },
   {
     "id": "nfc-regal-dematagoda",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-dematagoda",
     "name": "Regal Dematagoda",
     "city": "Colombo",
@@ -831,7 +836,7 @@
     ],
     "phone": "+94723535530",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "3 Screens",
       "AC"
@@ -940,7 +945,7 @@
   },
   {
     "id": "nfc-cinecity-maradana",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "cinecity-maradana",
     "name": "Cinecity Maradana",
     "city": "Colombo",
@@ -957,7 +962,7 @@
     ],
     "phone": "+94115355055",
     "details": "3 screens · A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "3 Screens",
       "AC"
@@ -1066,7 +1071,7 @@
   },
   {
     "id": "nfc-regal-katubedda",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-katubedda",
     "name": "Regal Katubedda",
     "city": "Colombo",
@@ -1083,7 +1088,7 @@
     ],
     "phone": "+94112183470",
     "details": "3 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "3 Screens",
       "AC"
@@ -1144,7 +1149,7 @@
   },
   {
     "id": "nfc-regal-gampaha",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-gampaha",
     "name": "Regal Gampaha",
     "city": "Gampaha",
@@ -1161,7 +1166,7 @@
     ],
     "phone": "+94115999999",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "2 Screens",
       "AC"
@@ -1313,7 +1318,7 @@
   },
   {
     "id": "nfc-wijya-cinema",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "wijya-cinema",
     "name": "Wijya Cinema",
     "city": "Gampaha",
@@ -1330,7 +1335,7 @@
     ],
     "phone": "+94741880216",
     "details": "1 screen · A/C · 4K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -1338,7 +1343,7 @@
   },
   {
     "id": "nfc-prasanna-lite",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "prasanna-lite",
     "name": "Prasanna Lite",
     "city": "Gampaha",
@@ -1354,7 +1359,7 @@
     ],
     "phone": "+94778233521",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -1629,7 +1634,7 @@
   },
   {
     "id": "nfc-regal-nuwara-eliya",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-nuwara-eliya",
     "name": "Regal Nuwara Eliya",
     "city": "Nuwara Eliya",
@@ -1646,7 +1651,7 @@
     ],
     "phone": "+9452222582",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "2 Screens",
       "AC"
@@ -1885,7 +1890,7 @@
   },
   {
     "id": "nfc-rex-badulla",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "rex-badulla",
     "name": "Rex Badulla",
     "city": "Badulla",
@@ -1899,7 +1904,7 @@
     "experiences": [],
     "phone": "+94773650269",
     "details": "2 screens · Non A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "2 Screens"
     ]
@@ -1927,7 +1932,7 @@
   },
   {
     "id": "nfc-regal-bandarawela",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "regal-bandarawela",
     "name": "Regal Bandarawela",
     "city": "Badulla",
@@ -1944,7 +1949,7 @@
     ],
     "phone": "+94572051638",
     "details": "2 screens · A/C · 2K digital",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "2 Screens",
       "AC"
@@ -2472,7 +2477,7 @@
   },
   {
     "id": "nfc-samanala-melsiripura",
-    "cinemaId": "nfc",
+    "cinemaId": "bms",
     "slug": "samanala-melsiripura",
     "name": "Samanala Melsiripura",
     "city": "Kurunegala",
@@ -2488,7 +2493,7 @@
     ],
     "phone": "+94760171210",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "source": "nfc",
+    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -2906,6 +2911,102 @@
       "AC"
     ],
     "bookingUrl": "https://www.litecinemas.lk/theaters",
+    "confirmed": true
+  },
+  {
+    "id": "bms-imperial-3d-cinema-kurunegala",
+    "cinemaId": "bms",
+    "slug": "imperial-3d-cinema-kurunegala",
+    "name": "Imperial 3D Cinema",
+    "city": "Kurunegala",
+    "town": "Kurunegala",
+    "address": "Kurunegala, Kurunegala",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.487,80.367",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-ck-cinema-kirindiwela",
+    "cinemaId": "bms",
+    "slug": "ck-cinema-kirindiwela",
+    "name": "CK Cinema",
+    "city": "Gampaha",
+    "town": "Kirindiwela",
+    "address": "Kirindiwela, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.043,80.132",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
+    "cinemaId": "bms",
+    "slug": "regal-cinemas-polonnaruwa-polonnaruwa",
+    "name": "Regal Cinemas Polonnaruwa",
+    "city": "Polonnaruwa",
+    "town": "Polonnaruwa",
+    "address": "Polonnaruwa, Polonnaruwa",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.943,81.012",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-ruoo-cinema-katunayake",
+    "cinemaId": "bms",
+    "slug": "ruoo-cinema-katunayake",
+    "name": "Ruoo Cinema",
+    "city": "Gampaha",
+    "town": "Katunayake",
+    "address": "Katunayake, Gampaha",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.166,79.885",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-sk-cinema-matara",
+    "cinemaId": "bms",
+    "slug": "sk-cinema-matara",
+    "name": "SK Cinema",
+    "city": "Matara",
+    "town": "Matara",
+    "address": "Matara, Matara",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=5.944,80.550",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
+    "confirmed": true
+  },
+  {
+    "id": "bms-tarzen-cinema-kegalle",
+    "cinemaId": "bms",
+    "slug": "tarzen-cinema-kegalle",
+    "name": "Tarzen Cinema",
+    "city": "Kegalle",
+    "town": "Kegalle",
+    "address": "Kegalle, Kegalle",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.253,80.344",
+    "formats": [
+      "2D"
+    ],
+    "experiences": [],
+    "phone": "",
     "confirmed": true
   }
 ]
