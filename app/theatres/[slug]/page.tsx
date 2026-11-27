@@ -14,6 +14,7 @@ import TheatreMovies from "@/components/TheatreMovies";
 import Link from "next/link";
 import { getCinema, getTown, slugify, getMoviesAtTheatre, getOffersForCinemas, getShowtimesForTheatre, getTheatre, getTheatres } from "@/lib/data";
 import { ALSO_KNOWN_AS, joinList, theatreNames } from "@/lib/seo";
+import { getChainForTheatre } from "@/lib/chains";
 import { host, SITE_URL } from "@/lib/site";
 import { t } from "@/lib/i18n";
 
@@ -95,6 +96,7 @@ export default async function TheatrePage({ params }: { params: Promise<{ slug: 
       {th.details && !specs.length && <p className="mt-2 text-sm font-semibold text-ink/80">{th.details}</p>}
       {(ALSO_KNOWN_AS[th.id] ?? []).length > 0 && <p className="mt-2 text-sm text-muted">Also searched as: {(ALSO_KNOWN_AS[th.id] ?? []).join(" · ")}</p>}
       {getTown(th) && <p className="mt-2 text-sm"><Link href={`/areas/${slugify(getTown(th)!)}`} className="text-link underline underline-offset-2">All film halls and cinemas in {getTown(th)}</Link></p>}
+      {getChainForTheatre(th) && <p className="mt-2 text-sm"><Link href={`/cinemas/${getChainForTheatre(th)!.slug}`} className="text-link underline underline-offset-2">All {getChainForTheatre(th)!.name} locations</Link></p>}
       <div className="mt-3 flex flex-wrap gap-4 text-sm font-semibold">
         <HeartButton id={th.id} name={th.name} label className="border border-line px-4" />
         <a href={th.mapsUrl} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-11 items-center gap-1.5 text-link hover:underline"><MapPin className="size-4" aria-hidden /> {t("movie.viewMap")}</a>

@@ -104,3 +104,10 @@ export const getAreas = () => {
   return [...byTown.entries()].sort(([a], [b]) => a.localeCompare(b)).map(([name, theatres]) => ({ name, slug: slugify(name), theatres }));
 };
 export const getArea = (slug: string) => getAreas().find((a) => a.slug === slug);
+
+// ---- Genre pages ("action movies", "horror movies"): only genres with enough movies to make a useful list ----
+export const getGenrePages = () =>
+  getGenres(M)
+    .map((name) => ({ name, slug: slugify(name), movies: M.filter((m) => m.genres.includes(name)) }))
+    .filter((g) => g.movies.length >= 3);
+export const getGenre = (slug: string) => getGenrePages().find((g) => g.slug === slug);

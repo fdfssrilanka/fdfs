@@ -11,6 +11,7 @@ import PromoStrip, { type Promo } from "@/components/PromoStrip";
 import TheatresNearYou from "@/components/TheatresNearYou";
 import TrailerCard from "@/components/TrailerCard";
 import { getCinema, getCities, getOffers, getComingSoon, getMovies, getMoviesByLanguage, getNowShowing, getPremiumFormats, getShowtimes, getTag, getTheatreById, getTheatres } from "@/lib/data";
+import { getChains } from "@/lib/chains";
 import { formatReleaseDate } from "@/lib/format";
 import { t } from "@/lib/i18n";
 import type { Movie } from "@/lib/types";
@@ -90,6 +91,13 @@ export default function Home() {
             <Link href="/language/english" className="text-link underline underline-offset-2">English movies</Link> and <Link href="/language/hindi" className="text-link underline underline-offset-2">Hindi movies</Link>, check what&apos;s{" "}
             <Link href="/coming-soon" className="text-link underline underline-offset-2">coming soon</Link>, find <Link href="/imax" className="text-link underline underline-offset-2">IMAX cinemas</Link>, or read{" "}
             <Link href="/book-movie-tickets" className="text-link underline underline-offset-2">how to book movie tickets online</Link>.
+          </p>
+          <p>
+            Looking for a particular hall? See <Link href="/areas" className="text-link underline underline-offset-2">film halls by town</Link>,{" "}
+            {getChains().map((c) => (
+              <span key={c.slug}><Link href={`/cinemas/${c.slug}`} className="text-link underline underline-offset-2">{c.name}</Link>, </span>
+            ))}
+            or the list of <Link href="/cinema-contact-numbers" className="text-link underline underline-offset-2">cinema contact numbers</Link>.
           </p>
         </div>
         <div className="max-w-3xl"><FaqList faq={faq} /></div>

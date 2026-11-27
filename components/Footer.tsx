@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { getCities, getNowShowing, getTheatres } from "@/lib/data";
+import { getCities, getNowShowing } from "@/lib/data";
+import { getChains } from "@/lib/chains";
 import { t } from "@/lib/i18n";
 import Logo from "./Logo";
 
@@ -20,7 +21,6 @@ function Col({ title, links, className = "", wide = false }: { title: string; li
 
 export default function Footer() {
   const cities = getCities();
-  const theatres = getTheatres().slice(0, 6);
   return (
     <footer className="mt-12 border-t border-line bg-black">
       <div className="mx-auto grid max-w-7xl grid-cols-2 gap-x-6 gap-y-8 px-4 py-10 sm:grid-cols-3 lg:grid-cols-6">
@@ -29,7 +29,7 @@ export default function Footer() {
           <p className="mt-3 text-sm text-muted">{getNowShowing().length} movies now showing across Sri Lanka.</p>
         </div>
         <Col title="Movies" links={[{ label: t("row.nowShowing"), href: "/movies" }, { label: t("row.comingSoon"), href: "/coming-soon" }]} />
-        <Col title="Theatres" links={[{ label: "All theatres", href: "/theatres" }, ...theatres.map((x) => ({ label: x.name, href: `/theatres/${x.slug}` }))]} />
+        <Col title="Theatres" links={[{ label: "All theatres", href: "/theatres" }, { label: "Film halls by town", href: "/areas" }, ...getChains().map((c) => ({ label: c.name, href: `/cinemas/${c.slug}` })), { label: "Cinema contact numbers", href: "/cinema-contact-numbers" }]} />
         <Col title="Cities" wide className="col-span-2 sm:col-span-3 lg:col-span-1" links={cities.map((c) => ({ label: c.name, href: `/cities/${c.slug}` }))} />
         <Col title="Languages" links={["Tamil", "Sinhala", "English", "Hindi"].map((l) => ({ label: l, href: `/language/${l.toLowerCase()}` }))} />
         <Col title="More" links={[{ label: "Book movie tickets", href: "/book-movie-tickets" }, { label: "Current showtimes list (CSV)", href: "/showtimes.csv" }, { label: "IMAX cinemas", href: "/imax" }, { label: "Cinema experiences", href: "/experiences" }, { label: "Special offers", href: "/offers" }, { label: "About fdfs.lk", href: "/about" }]} />

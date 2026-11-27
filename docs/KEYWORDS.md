@@ -26,6 +26,10 @@ Which page targets which search phrases. Titles, H1s, intro copy, FAQs and JSON-
 | savoy cinema, movies in savoy | `/theatres/savoy-*` (EAP) | title, H2 |
 | kcc multiplex | `/theatres/kcc-multiplex-kandy` | listed, no showtimes |
 | aqua lite 3d cinema, lite cinemas | `/theatres/aqua-lite-3d-negombo` | listed, no showtimes |
+| scope cinemas, savoy cinema, lite cinemas, regal cinema, str films (brand searches without a location) | `/cinemas/[chain]` | title, H1, every location, movies showing across the chain, FAQ |
+| film hall [town], film halls near me | `/areas` (index of every town) and `/areas/[town]` | title, H1, links from home, footer and each district page |
+| action movies, drama movies, thriller movies sri lanka | `/genres/[genre]` (genres with 3+ movies) | title, H1, now showing and upcoming lists |
+| cinema contact number, [cinema] phone number | `/cinema-contact-numbers` | title, H1, phone and address table by district, FAQ |
 | [movie] tickets / ticket price / in sri lanka / showtimes / cinema | `/movies/[slug]` | title, description, FAQ, hidden H2 |
 
 ## Scope Cinemas competitor crawl (2026-10-26)
@@ -63,3 +67,6 @@ Every district with a cinema has a page, `/cities/<district>`, e.g. Jaffna, Vavu
 | Not ours (competitor brands such as BookMyShow, lyrics, piracy) | 32 | ~34,000 | Skipped on purpose |
 
 Modifiers no page serves yet: ticket price (~3,800 searches; cinemas don't publish prices in the data we read), photos (~870), contact (~550, phone numbers are shown), reviews (~180).
+
+## Gap pages added 2026-11-27
+Gaps closed from the export above: brand-only searches (the 151-keyword "named theatre" bucket had theatre pages but no page for the chain itself), the contact modifier (~550 searches), genre browsing, and a crawlable index of the town pages. Still not built because nothing in our data backs them: ticket prices (the current sources publish none), photos, reviews, and towns with no listed cinema.

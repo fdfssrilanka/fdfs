@@ -3,6 +3,7 @@ import Link from "next/link";
 import PageIntro from "@/components/PageIntro";
 import TheatreCard from "@/components/TheatreCard";
 import { getCinema, getCities, getTheatresByCity } from "@/lib/data";
+import { getChains } from "@/lib/chains";
 
 export const metadata: Metadata = {
   title: "Cinema Halls in Sri Lanka – Movie Theatres by City | fdfs.lk",
@@ -14,6 +15,13 @@ export default function TheatresPage() {
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
       <PageIntro h1="Cinema halls and movie theatres in Sri Lanka">Find a city cinema by town, with addresses, premium formats and links to showtimes and online booking.</PageIntro>
+      <p className="mb-8 max-w-3xl text-sm leading-loose">
+        Browse <Link href="/areas" className="text-link underline underline-offset-2">film halls by town</Link>,{" "}
+        {getChains().map((c) => (
+          <span key={c.slug}><Link href={`/cinemas/${c.slug}`} className="text-link underline underline-offset-2">{c.name}</Link>, </span>
+        ))}
+        or look up <Link href="/cinema-contact-numbers" className="text-link underline underline-offset-2">cinema contact numbers</Link>.
+      </p>
       {getCities().map((c) => (
         <section key={c.slug} className="mb-8">
           <h2 className="mb-3 text-xl font-extrabold"><Link href={`/cities/${c.slug}`} className="hover:text-accent">{c.name}</Link></h2>
