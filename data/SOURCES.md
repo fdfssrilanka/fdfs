@@ -1,6 +1,6 @@
 # Data sources
 
-Showtimes last refreshed on 2026-10-27 by `npm run update-data`, with manual research collected 2026-10-20 to 2026-10-21. The published showtime list includes only sessions that have not elapsed in `Asia/Colombo`; it is available as `data/showtimes.json` and `/showtimes.csv`. All scraping sends a `fdfs.lk-bot` user agent, waits 1 s between requests, and only touches paths allowed by each site's `robots.txt`.
+Showtimes last refreshed on 2026-11-27 by `npm run update-data`, with manual research collected 2026-10-20 to 2026-10-21. The published showtime list includes only sessions that have not elapsed in `Asia/Colombo`; it is available as `data/showtimes.json` and `/showtimes.csv`. All scraping sends a `fdfs.lk-bot` user agent, waits 1 s between requests, and only touches paths allowed by each site's `robots.txt`.
 
 ## Scope Cinemas — https://www.scopecinemas.com
 - **robots.txt:** allows `/`; disallows `/auth-*`, `/authenticate`, `/qr`, `/ticket`. We read none of those.
@@ -11,11 +11,14 @@ Showtimes last refreshed on 2026-10-27 by `npm run update-data`, with manual res
 - **Genres and runtime** come from the session data's `movie_data`.
 
 ## EAP Films & Theatres (Savoy) — https://eapmovies.com
-- **robots.txt:** only content-signal comments, no Disallow rules.
-- **Theatres:** `/component/eapmovies/?controller=theaters&view=theaterlist&Itemid=112` (name, city, address, phone). Theatres marked "Temporarily Closed" (Tower Moratuwa, Queens 3D Galle) are excluded.
-- **Movies and showtimes:** the booking page's own read-only JSONP calls (`index.php?option=com_eapmovies&controller=buyticket&task=…`): `getMovieList` (every movie with date range, poster, runtime, synopsis, trailer) and `getMovieAllShowTimeList` (theatres and times for a movie and date). One request per movie per date, 1 s apart.
-- **Booking URL:** `https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=<movie id>` (movie-level). A movie with no showtimes in range falls back to a booking link only.
-- **Format:** EAP gives none per showtime; it is "3D" when the title says 3D, otherwise "2D".
+- The site relaunched as "Savoy Cinemas" in November 2026 (a Next.js app; the old Joomla pages and JSONP calls return 404). The scraper was rewritten on 2026-11-27.
+- **robots.txt:** none (returns 404), so nothing is disallowed.
+- **Theatres** (`/locations`): 10 halls with address, city, experience label and the cinema's own Google Maps link; phone numbers come from the session data. Halls keep the ids and page slugs they had before the relaunch.
+- **Showtimes** (`/showtimes`): one page ships every session of every movie for all published dates (7 dates and 302 sessions on 2026-11-27), with the hall, date, start time and experience.
+- **Movies** (`/movies` and each `/movies/<slug>`): title, language, genres, runtime, release date, synopsis, director, cast, trailer, poster and banner.
+- **Booking URL:** `https://eapmovies.com/showtimes?movie_slug=<slug>` (movie-level). A movie with no sessions links to its `/movies/<slug>` page.
+- **Format:** "3D" when the title says 3D, "Dolby Atmos" for sessions in the Savoy Wellawatte Atmos hall, otherwise "2D".
+- **No longer listed by EAP:** Savoy Premiere (Roxy) Wellawatte, Samantha 2D Dematagoda and Savoy 2. The first two now appear only as film-corporation directory entries (operating status unknown); Savoy 2's page redirects to the Savoy Wellawatte page.
 
 ## PVR Cinemas — https://www.pvrcinemas.lk/
 - Theatre details from a third-party listing (https://ten.lk/listings/pvr-cinemas-sri-lanka-premium-multiplex-experience-at-one-galle-face-colombo). The PVR site renders showtimes client-side; **no showtimes collected**.
@@ -74,6 +77,6 @@ Showtimes last refreshed on 2026-10-27 by `npm run update-data`, with manual res
 
 ## BookMyShow Sri Lanka (showtimes and prices)
 
-`data/raw/bookmyshow.txt` is a snapshot of lk.bookmyshow.com movie pages (`/buytickets/<movie>-sri-lanka/movie-snlk-<ET id>-MT/<yyyymmdd>`), one page per movie and date. The site blocks scripted requests (HTTP 403), so the pages were loaded in a normal browser session and each session's venue, time and ticket-price categories were copied into the snapshot. The checked-in snapshot is dated 2026-10-21 and was excluded from the 2026-10-27 showtime refresh as stale; snapshots are imported only when their date matches the current Colombo date. `scripts/scrapers/bookmyshow.ts` turns a current snapshot into showtimes (lowest price per session) for theatres that have none from their own site, and creates the seven theatres we were missing. Re-apply with `npx tsx scripts/apply-bms.ts`.
+`data/raw/bookmyshow.txt` is a snapshot of lk.bookmyshow.com movie pages (`/buytickets/<movie>-sri-lanka/movie-snlk-<ET id>-MT/<yyyymmdd>`), one page per movie and date. The site blocks scripted requests (HTTP 403), so the pages were loaded in a normal browser session and each session's venue, time and ticket-price categories were copied into the snapshot. The checked-in snapshot is dated 2026-11-05 (sessions for 5-12 Nov) and was excluded from the 2026-11-27 showtime refresh as stale; snapshots are imported only when their date matches the current Colombo date. `scripts/scrapers/bookmyshow.ts` turns a current snapshot into showtimes (lowest price per session) for theatres that have none from their own site, and creates the seven theatres we were missing. Re-apply with `npx tsx scripts/apply-bms.ts`.
 
 The nine movies only BookMyShow lists (Ayu, Dinga, Drishyam: The Conclusion, Angel And The Badman, Udta Teer, Porattam, Anbil Avan, Ethalaya, Villain) are defined in `EXTRA_MOVIES` in `scripts/scrapers/bookmyshow.ts` from each movie's BookMyShow page (genre, language, release date, cast, director; synopsis written by us). Posters come from the same pages and are saved as WebP in `public/images/posters`. No runtimes or trailers are published there.

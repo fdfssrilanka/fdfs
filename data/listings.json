@@ -1,8 +1,13 @@
 [
   {
-    "movieId": "scope-cricket-sadu-sinhala",
+    "movieId": "eap-rahai-jeewithe-sinhala",
     "cinemaId": "eap",
-    "bookingUrl": "https://eapmovies.com/component/eapmovies/?controller=buyticket&task=book&cid=1999"
+    "bookingUrl": "https://eapmovies.com/movies/rahai-jeewithe-sinhala"
+  },
+  {
+    "movieId": "scope-ramayana-rise-of-a-legend-hindi",
+    "cinemaId": "eap",
+    "bookingUrl": "https://eapmovies.com/movies/ramayana-rise-of-a-legend-hindi"
   },
   {
     "movieId": "scope-eda-re-sinhala",

@@ -100,7 +100,10 @@ function postersFrom(html: string): Map<string, string> {
 /** Guard against wrong artwork: the image file name Scope uses always contains the film's name. */
 export function artworkMatches(slug: string, url: string): boolean {
   const file = key(new URL(url).pathname.split("/").pop() ?? "");
-  return file.includes(key(slug).slice(0, 6));
+  // A file named only by its size ("400x600jpg.jpeg") says nothing either way, so it is kept.
+  if (!file.replace(/\d+|x|jpe?g|png|webp|poster|banner/g, "")) return true;
+  // Short titles: compare the title itself, not the language suffix of the slug ("kotu-sinhala" → "kotu").
+  return file.includes(key(slug.replace(/-(sinhala|tamil|hindi|english|telugu|malayalam)$/, "")).slice(0, 6));
 }
 
 export async function scrape() {

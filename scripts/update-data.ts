@@ -63,6 +63,10 @@ async function main() {
     match.runtimeMin ||= m.runtimeMin;
     match.trailerUrl ||= m.trailerUrl;
     match.director ||= m.director;
+    match.synopsis ||= m.synopsis;
+    match.posterUrl ||= m.posterUrl;
+    match.backdropUrl ||= m.backdropUrl;
+    match.releaseDate ||= m.releaseDate;
     if (!match.genres.length) match.genres = m.genres;
     if (!match.cast.length) match.cast = m.cast;
     return match.id;

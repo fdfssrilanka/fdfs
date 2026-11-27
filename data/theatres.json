@@ -105,19 +105,18 @@
   },
   {
     "id": "eap-savoy-metro-maharagama",
-    "cinemaId": "eap",
     "slug": "savoy-metro-maharagama-maharagama",
     "name": "Savoy Metro Maharagama",
+    "cinemaId": "eap",
     "city": "Maharagama",
     "address": "No. 38, Dehiwala Road, Maharagama",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Metro%20Maharagama%20Maharagama%20Sri%20Lanka",
+    "mapsUrl": "https://maps.app.goo.gl/U1mdWQejPZK5HL8j7",
     "formats": [
       "2D"
     ],
     "experiences": [],
     "phone": "+94117021443",
     "details": "1 screen · A/C · 2K digital",
-    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -125,12 +124,12 @@
   },
   {
     "id": "eap-savoy-metro-gampaha",
-    "cinemaId": "eap",
     "slug": "savoy-metro-gampaha-gampaha",
     "name": "Savoy Metro Gampaha",
+    "cinemaId": "eap",
     "city": "Gampaha",
-    "address": "7th floor - wardcity shopping complex",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Metro%20Gampaha%20Gampaha%20Sri%20Lanka",
+    "address": "7th floor - Ward City Shopping Complex, Gampaha",
+    "mapsUrl": "https://maps.app.goo.gl/RDCNdyLzfhCAHEt48",
     "formats": [
       "2D"
     ],
@@ -144,12 +143,12 @@
   },
   {
     "id": "eap-savoy-premier-rajagiriya",
-    "cinemaId": "eap",
     "slug": "savoy-premier-rajagiriya-rajagiriya",
     "name": "Savoy Premier Rajagiriya",
+    "cinemaId": "eap",
     "city": "Rajagiriya",
-    "address": "Jana Jaya City Super Market Complex",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Premier%20Rajagiriya%20Rajagiriya%20Sri%20Lanka",
+    "address": "Jana Jaya City Super Market Complex, Rajagiriya",
+    "mapsUrl": "https://maps.app.goo.gl/1PqZsD19uNDTgo7s9",
     "formats": [
       "2D"
     ],
@@ -162,70 +161,31 @@
     ]
   },
   {
-    "id": "eap-savoy-premiere-roxy-cinema",
-    "cinemaId": "eap",
-    "slug": "savoy-premiere-roxy-cinema-wellawatte",
-    "name": "Savoy Premiere (Roxy Cinema)",
-    "city": "Wellawatte",
-    "address": "No 472, Roxy Cinema, Wellawatta, Colombo 06",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Premiere%20(Roxy%20Cinema)%20Wellawatte%20Sri%20Lanka",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "+94117446223",
-    "details": "1 screen · A/C · 2K digital",
-    "specs": [
-      "1 Screen",
-      "AC"
-    ]
-  },
-  {
     "id": "eap-regal",
-    "cinemaId": "eap",
     "slug": "regal-ambalangoda",
     "name": "Regal",
+    "cinemaId": "eap",
     "city": "Ambalangoda",
     "address": "Arthur De Silva Mw, Ambalangoda",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regal%20Ambalangoda%20Sri%20Lanka",
+    "mapsUrl": "https://maps.app.goo.gl/nCMh3K9jnvpZjLv68",
     "formats": [
       "2D"
     ],
     "experiences": [],
     "phone": "+94917214512",
     "details": "1 screen · Non A/C · digital (E-Cinema)",
-    "confirmed": true,
     "specs": [
       "1 Screen"
     ]
   },
   {
-    "id": "eap-samantha-2d",
-    "cinemaId": "eap",
-    "slug": "samantha-2d-dematagoda",
-    "name": "Samantha 2D",
-    "city": "Dematagoda",
-    "address": "679, Base Line Road, Dematagoda",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samantha%202D%20Dematagoda%20Sri%20Lanka",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "+94117432429",
-    "details": "1 screen · A/C · digital (E-Cinema)",
-    "specs": [
-      "1 Screen",
-      "AC"
-    ]
-  },
-  {
     "id": "eap-sinexpo-3d",
-    "cinemaId": "eap",
     "slug": "sinexpo-3d-kurunegala",
     "name": "Sinexpo 3D",
+    "cinemaId": "eap",
     "city": "Kurunegala",
     "address": "No 18, South Circular Rd, Kurunegala",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinexpo%203D%20Kurunegala%20Sri%20Lanka",
+    "mapsUrl": "https://maps.app.goo.gl/orqqTK8D7g3kFB2dA",
     "formats": [
       "2D",
       "3D"
@@ -242,12 +202,12 @@
   },
   {
     "id": "eap-jothi",
-    "cinemaId": "eap",
     "slug": "jothi-rathnapura",
     "name": "Jothi",
+    "cinemaId": "eap",
     "city": "Rathnapura",
     "address": "203, Bandaranayaka Mawatha, Rathnapura",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jothi%20Rathnapura%20Sri%20Lanka",
+    "mapsUrl": "https://maps.app.goo.gl/ptsjQDiQbmYwy3cCA",
     "formats": [
       "2D"
     ],
@@ -260,12 +220,12 @@
   },
   {
     "id": "eap-willmax",
-    "cinemaId": "eap",
     "slug": "willmax-anuradhapura",
     "name": "Willmax",
+    "cinemaId": "eap",
     "city": "Anuradhapura",
     "address": "No 5014/02 , Maithripala Senanayake Mawatha, Anuradhapura",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Willmax%20Anuradhapura%20Sri%20Lanka",
+    "mapsUrl": "https://maps.app.goo.gl/KSpZ5fz6EQ6Ljnwj8",
     "formats": [
       "2D"
     ],
@@ -279,12 +239,12 @@
   },
   {
     "id": "eap-cinemax-3d",
-    "cinemaId": "eap",
     "slug": "cinemax-3d-jaela",
     "name": "Cinemax 3D",
+    "cinemaId": "eap",
     "city": "Jaela",
-    "address": "No 165, Reality Plaza, Colombo Road, Ja-ela",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinemax%203D%20Jaela%20Sri%20Lanka",
+    "address": "No 165, Reality Plaza, Colombo Road, Jaela",
+    "mapsUrl": "https://maps.app.goo.gl/u5oJSVX4vdzA7RaCA",
     "formats": [
       "2D",
       "3D"
@@ -301,19 +261,21 @@
   },
   {
     "id": "eap-concord",
-    "cinemaId": "eap",
     "slug": "concord-dehiwala",
     "name": "Concord",
+    "cinemaId": "eap",
     "city": "Dehiwala",
-    "address": "No 139, Galle Road, Dehiwela",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Concord%20Dehiwala%20Sri%20Lanka",
+    "address": "No 139, Galle Road, Dehiwala",
+    "mapsUrl": "https://maps.app.goo.gl/2wmjphRLANmbfVd38",
     "formats": [
-      "2D"
+      "2D",
+      "3D"
     ],
-    "experiences": [],
+    "experiences": [
+      "3D"
+    ],
     "phone": "+94117549630",
     "details": "1 screen · A/C · 2K digital",
-    "confirmed": true,
     "specs": [
       "1 Screen",
       "AC"
@@ -321,12 +283,12 @@
   },
   {
     "id": "eap-savoy-3d-dolby-atmos",
-    "cinemaId": "eap",
     "slug": "savoy-3d-dolby-atmos-wellawatte",
     "name": "Savoy 3D Dolby ATMOS",
+    "cinemaId": "eap",
     "city": "Wellawatte",
     "address": "No 12, Savoy Building, Wellwatte, Colombo 6",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%203D%20Dolby%20ATMOS%20Wellawatte%20Sri%20Lanka",
+    "mapsUrl": "https://maps.app.goo.gl/jUbEFD14GiS97Hdo6",
     "formats": [
       "2D",
       "Dolby Atmos",
@@ -342,20 +304,6 @@
       "1 Screen",
       "AC"
     ]
-  },
-  {
-    "id": "eap-savoy-2",
-    "cinemaId": "eap",
-    "slug": "savoy-2-wellawatte",
-    "name": "Savoy 2",
-    "city": "Wellawatte",
-    "address": "No 12, Savoy Building, Wellwatte, Colombo 6",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%202%20Wellawatte%20Sri%20Lanka",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "+94117444466"
   },
   {
     "id": "pvr-ogf",
@@ -379,7 +327,6 @@
     ],
     "phone": "+94766447664",
     "details": "9 screens · A/C · 4K digital",
-    "confirmed": true,
     "specs": [
       "9 Screens",
       "AC"
@@ -578,7 +525,6 @@
     ],
     "phone": "+94212227712",
     "details": "3 screens · A/C · 2K digital",
-    "confirmed": true,
     "specs": [
       "3 Screens",
       "AC"
@@ -680,7 +626,7 @@
   },
   {
     "id": "nfc-majestic-city",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "majestic-city",
     "name": "Majestic City",
     "city": "Colombo",
@@ -697,7 +643,7 @@
     ],
     "phone": "+94769371960",
     "details": "3 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "3 Screens",
       "AC"
@@ -733,7 +679,7 @@
   },
   {
     "id": "nfc-ritz-borella",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "ritz-borella",
     "name": "Ritz Borella",
     "city": "Colombo",
@@ -749,7 +695,7 @@
     ],
     "phone": "+94112695384",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -819,7 +765,7 @@
   },
   {
     "id": "nfc-regal-dematagoda",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-dematagoda",
     "name": "Regal Dematagoda",
     "city": "Colombo",
@@ -836,9 +782,33 @@
     ],
     "phone": "+94723535530",
     "details": "3 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "3 Screens",
+      "AC"
+    ]
+  },
+  {
+    "id": "nfc-samantha-dematagoda",
+    "cinemaId": "nfc",
+    "slug": "samantha-dematagoda",
+    "name": "Samantha Dematagoda",
+    "city": "Colombo",
+    "town": "Dematagoda",
+    "address": "Dematagoda, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samantha%20Dematagoda%20cinema%20Dematagoda%20Sri%20Lanka",
+    "formats": [
+      "E-Cinema",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94117432429",
+    "details": "1 screen · A/C · digital (E-Cinema)",
+    "source": "nfc",
+    "specs": [
+      "1 Screen",
       "AC"
     ]
   },
@@ -945,7 +915,7 @@
   },
   {
     "id": "nfc-cinecity-maradana",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "cinecity-maradana",
     "name": "Cinecity Maradana",
     "city": "Colombo",
@@ -962,7 +932,7 @@
     ],
     "phone": "+94115355055",
     "details": "3 screens · A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "3 Screens",
       "AC"
@@ -1070,8 +1040,33 @@
     "confirmed": true
   },
   {
+    "id": "nfc-savoy-premier",
+    "cinemaId": "nfc",
+    "slug": "savoy-premier",
+    "name": "Savoy Premier",
+    "city": "Colombo",
+    "town": "Wellawatta",
+    "address": "Wellawatta, Colombo",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoy%20Premier%20cinema%20Wellawatta%20Sri%20Lanka",
+    "formats": [
+      "2K",
+      "A/C"
+    ],
+    "experiences": [
+      "Air Conditioned"
+    ],
+    "phone": "+94112446223",
+    "details": "1 screen · A/C · 2K digital",
+    "source": "nfc",
+    "confirmed": true,
+    "specs": [
+      "1 Screen",
+      "AC"
+    ]
+  },
+  {
     "id": "nfc-regal-katubedda",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-katubedda",
     "name": "Regal Katubedda",
     "city": "Colombo",
@@ -1088,7 +1083,7 @@
     ],
     "phone": "+94112183470",
     "details": "3 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "3 Screens",
       "AC"
@@ -1149,7 +1144,7 @@
   },
   {
     "id": "nfc-regal-gampaha",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-gampaha",
     "name": "Regal Gampaha",
     "city": "Gampaha",
@@ -1166,7 +1161,7 @@
     ],
     "phone": "+94115999999",
     "details": "2 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "2 Screens",
       "AC"
@@ -1318,7 +1313,7 @@
   },
   {
     "id": "nfc-wijya-cinema",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "wijya-cinema",
     "name": "Wijya Cinema",
     "city": "Gampaha",
@@ -1335,7 +1330,7 @@
     ],
     "phone": "+94741880216",
     "details": "1 screen · A/C · 4K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -1343,7 +1338,7 @@
   },
   {
     "id": "nfc-prasanna-lite",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "prasanna-lite",
     "name": "Prasanna Lite",
     "city": "Gampaha",
@@ -1359,7 +1354,7 @@
     ],
     "phone": "+94778233521",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -1634,7 +1629,7 @@
   },
   {
     "id": "nfc-regal-nuwara-eliya",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-nuwara-eliya",
     "name": "Regal Nuwara Eliya",
     "city": "Nuwara Eliya",
@@ -1651,7 +1646,7 @@
     ],
     "phone": "+9452222582",
     "details": "2 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "2 Screens",
       "AC"
@@ -1890,7 +1885,7 @@
   },
   {
     "id": "nfc-rex-badulla",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "rex-badulla",
     "name": "Rex Badulla",
     "city": "Badulla",
@@ -1904,7 +1899,7 @@
     "experiences": [],
     "phone": "+94773650269",
     "details": "2 screens · Non A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "2 Screens"
     ]
@@ -1932,7 +1927,7 @@
   },
   {
     "id": "nfc-regal-bandarawela",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "regal-bandarawela",
     "name": "Regal Bandarawela",
     "city": "Badulla",
@@ -1949,7 +1944,7 @@
     ],
     "phone": "+94572051638",
     "details": "2 screens · A/C · 2K digital",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "2 Screens",
       "AC"
@@ -2477,7 +2472,7 @@
   },
   {
     "id": "nfc-samanala-melsiripura",
-    "cinemaId": "bms",
+    "cinemaId": "nfc",
     "slug": "samanala-melsiripura",
     "name": "Samanala Melsiripura",
     "city": "Kurunegala",
@@ -2493,7 +2488,7 @@
     ],
     "phone": "+94760171210",
     "details": "1 screen · A/C · digital (E-Cinema)",
-    "confirmed": true,
+    "source": "nfc",
     "specs": [
       "1 Screen",
       "AC"
@@ -2930,22 +2925,6 @@
     "confirmed": true
   },
   {
-    "id": "bms-ck-cinema-kirindiwela",
-    "cinemaId": "bms",
-    "slug": "ck-cinema-kirindiwela",
-    "name": "CK Cinema",
-    "city": "Gampaha",
-    "town": "Kirindiwela",
-    "address": "Kirindiwela, Gampaha",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.043,80.132",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
     "id": "bms-regal-cinemas-polonnaruwa-polonnaruwa",
     "cinemaId": "bms",
     "slug": "regal-cinemas-polonnaruwa-polonnaruwa",
@@ -2962,46 +2941,14 @@
     "confirmed": true
   },
   {
-    "id": "bms-ruoo-cinema-katunayake",
+    "id": "bms-cinelma-theater-badulla",
     "cinemaId": "bms",
-    "slug": "ruoo-cinema-katunayake",
-    "name": "Ruoo Cinema",
-    "city": "Gampaha",
-    "town": "Katunayake",
-    "address": "Katunayake, Gampaha",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.166,79.885",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
-    "id": "bms-sk-cinema-matara",
-    "cinemaId": "bms",
-    "slug": "sk-cinema-matara",
-    "name": "SK Cinema",
-    "city": "Matara",
-    "town": "Matara",
-    "address": "Matara, Matara",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=5.944,80.550",
-    "formats": [
-      "2D"
-    ],
-    "experiences": [],
-    "phone": "",
-    "confirmed": true
-  },
-  {
-    "id": "bms-tarzen-cinema-kegalle",
-    "cinemaId": "bms",
-    "slug": "tarzen-cinema-kegalle",
-    "name": "Tarzen Cinema",
-    "city": "Kegalle",
-    "town": "Kegalle",
-    "address": "Kegalle, Kegalle",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7.253,80.344",
+    "slug": "cinelma-theater-badulla",
+    "name": "Cinelma Theater",
+    "city": "Badulla",
+    "town": "Badulla",
+    "address": "Badulla, Badulla",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=6.982,81.059",
     "formats": [
       "2D"
     ],

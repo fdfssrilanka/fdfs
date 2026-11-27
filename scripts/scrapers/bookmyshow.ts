@@ -22,16 +22,14 @@ const VENUE_TO_THEATRE: Record<string, string> = {
   NNCC: "nfc-nikado-kadawatha", RCGA: "nfc-regal-gampaha", RCAG: "eap-regal", RCBB: "nfc-ritz-borella", SCCA: "nfc-sarasavi-alawwa",
   SMGS: "eap-savoy-metro-gampaha", SCMA: "eap-savoy-metro-maharagama", SSCO: "nfc-shamrock-wennappuwa", SNKG: "eap-sinexpo-3d",
   VLCK: "nfc-vijayanthi-kaduwela", RCAC: "nfc-ricky-colombo-02",
+  // Same halls as the film-corporation directory entries, under BookMyShow's spelling (one page each, not two).
+  RCNM: "nfc-roo-katunayake", CKCK: "nfc-c-k-kirindiwela", SKCM: "nfc-s-k-matara", TCCK: "nfc-tarzan-kegalle",
 };
 
 /** Venues we did not have: name shown on fdfs.lk and the district they sit in. */
 const NEW: Record<string, { name: string; city: string; town: string }> = {
   IMDK: { name: "Imperial 3D Cinema", city: "Kurunegala", town: "Kurunegala" },
   RLCP: { name: "Regal Cinemas Polonnaruwa", city: "Polonnaruwa", town: "Polonnaruwa" },
-  RCNM: { name: "Ruoo Cinema", city: "Gampaha", town: "Katunayake" },
-  CKCK: { name: "CK Cinema", city: "Gampaha", town: "Kirindiwela" },
-  SKCM: { name: "SK Cinema", city: "Matara", town: "Matara" },
-  TCCK: { name: "Tarzen Cinema", city: "Kegalle", town: "Kegalle" },
   CBBT: { name: "Cinelma Theater", city: "Badulla", town: "Badulla" },
 };
 
@@ -69,10 +67,6 @@ export function applyBms(theatres: Theatre[], showtimes: Showtime[], movieList: 
   const snapshotDate = text[0]?.match(/^SNAPSHOT (\d{4}-\d{2}-\d{2})/)?.[1];
   const today = colomboDateTime().date;
   const emptyResult: BmsResult = { added: 0, theatresWith: 0, skippedHasOwnTimes: 0, unmatchedMovies: [] };
-  if (snapshotDate !== today) {
-    console.warn(`BookMyShow snapshot is dated ${snapshotDate ?? "unknown"}; Colombo date is ${today}, so its showtimes were not imported.`);
-    return emptyResult;
-  }
   const section = (name: string) => {
     const i = text.indexOf(name);
     const out: string[] = [];
@@ -80,6 +74,20 @@ export function applyBms(theatres: Theatre[], showtimes: Showtime[], movieList: 
     return out;
   };
   const venues = new Map(section("VENUES").map((l) => { const [i, rest] = l.split("="); const [code, name, lat, lng] = rest.split("|"); return [i, { code, name, lat, lng }]; }));
+  const byId = new Map(theatres.map((t) => [t.id, t]));
+  // The venues BookMyShow added exist whether or not the snapshot is current, so their pages stay up between snapshots.
+  for (const [code, n] of Object.entries(NEW)) {
+    const id = `bms-${slugify(n.name)}-${slugify(n.town)}`;
+    if (byId.has(id)) continue;
+    const v = [...venues.values()].find((x) => x.code === code);
+    const t: Theatre = { id, cinemaId: cinema.id, slug: slugify(`${n.name} ${n.town}`), name: n.name, city: n.city, town: n.town, address: `${n.town}, ${n.city}`, mapsUrl: `https://www.google.com/maps/search/?api=1&query=${v ? `${v.lat},${v.lng}` : encodeURIComponent(`${n.name} ${n.town}`)}`, formats: ["2D"], experiences: [], phone: "", confirmed: true };
+    theatres.push(t);
+    byId.set(id, t);
+  }
+  if (snapshotDate !== today) {
+    console.warn(`BookMyShow snapshot is dated ${snapshotDate ?? "unknown"}; Colombo date is ${today}, so its showtimes were not imported.`);
+    return emptyResult;
+  }
   const movies = new Map(section("MOVIES").map((l) => { const [i, rest] = l.split("="); const [code, slug] = rest.split("|"); return [i, { code, slug }]; }));
   const groups = new Map(section("GROUPS").map((l) => { const [i, g] = l.split("="); return [i, g]; }));
 
@@ -94,7 +102,6 @@ export function applyBms(theatres: Theatre[], showtimes: Showtime[], movieList: 
   }
 
   const hasOwn = new Set(showtimes.map((s) => s.theatreId));
-  const byId = new Map(theatres.map((t) => [t.id, t]));
   const result: BmsResult = { ...emptyResult };
   const touched = new Set<string>();
   const unmatched = new Set<string>();
@@ -104,15 +111,7 @@ export function applyBms(theatres: Theatre[], showtimes: Showtime[], movieList: 
     const known = VENUE_TO_THEATRE[v.code];
     if (known) return byId.get(known);
     const n = NEW[v.code];
-    if (!n) return undefined;
-    const id = `bms-${slugify(n.name)}-${slugify(n.town)}`;
-    let t = byId.get(id);
-    if (!t) {
-      t = { id, cinemaId: cinema.id, slug: slugify(`${n.name} ${n.town}`), name: n.name, city: n.city, town: n.town, address: `${n.town}, ${n.city}`, mapsUrl: `https://www.google.com/maps/search/?api=1&query=${v.lat},${v.lng}`, formats: ["2D"], experiences: [], phone: "", confirmed: true };
-      theatres.push(t);
-      byId.set(id, t);
-    }
-    return t;
+    return n ? byId.get(`bms-${slugify(n.name)}-${slugify(n.town)}`) : undefined;
   };
 
   for (const line of section("LINES")) {
