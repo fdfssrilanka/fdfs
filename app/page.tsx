@@ -89,7 +89,7 @@ export default function Home() {
           <p>
             Browse <Link href="/language/tamil" className="text-link underline underline-offset-2">Tamil movies</Link>, <Link href="/language/sinhala" className="text-link underline underline-offset-2">Sinhala films</Link>,{" "}
             <Link href="/language/english" className="text-link underline underline-offset-2">English movies</Link> and <Link href="/language/hindi" className="text-link underline underline-offset-2">Hindi movies</Link>, check what&apos;s{" "}
-            <Link href="/coming-soon" className="text-link underline underline-offset-2">coming soon</Link>, find <Link href="/imax" className="text-link underline underline-offset-2">IMAX cinemas</Link>, or read{" "}
+            <Link href="/coming-soon" className="text-link underline underline-offset-2">coming soon</Link> and the <Link href="/new-releases" className="text-link underline underline-offset-2">new releases by month</Link>, find <Link href="/imax" className="text-link underline underline-offset-2">IMAX cinemas</Link>, or read{" "}
             <Link href="/book-movie-tickets" className="text-link underline underline-offset-2">how to book movie tickets online</Link>.
           </p>
           <p>

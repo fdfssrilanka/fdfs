@@ -3,9 +3,10 @@ import Link from "next/link";
 import PageIntro from "@/components/PageIntro";
 import { getAreas, getCities } from "@/lib/data";
 import { regionOf } from "@/lib/geo";
+import { getNearTowns } from "@/lib/nearby";
 
 export const metadata: Metadata = {
-  title: "Film Halls by Town in Sri Lanka – Find a Cinema Near You | fdfs.lk",
+  title: "Film Halls by Town in Sri Lanka – Find the Nearest Cinema | fdfs.lk",
   description: "Film halls and cinemas in Sri Lanka listed by town, from Kiribathgoda and Dehiwala to Chilaw and Point Pedro, with addresses, phone numbers and showtimes.",
   alternates: { canonical: "/areas" },
 };
@@ -34,6 +35,14 @@ export default function AreasPage() {
           </section>
         ))}
       </div>
+      <section className="mt-10">
+        <h2 className="mb-2 text-lg font-extrabold">Nearest film halls to towns without a cinema</h2>
+        <p className="text-sm leading-loose">
+          {getNearTowns().map((n, i) => (
+            <span key={n.slug}>{i > 0 && " · "}<Link href={`/areas/${n.slug}`} className="text-link underline underline-offset-2">Film halls near {n.name}</Link></span>
+          ))}
+        </p>
+      </section>
     </div>
   );
 }

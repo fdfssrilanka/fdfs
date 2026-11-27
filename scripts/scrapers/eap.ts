@@ -32,7 +32,7 @@ const EXPERIENCES: Record<string, string[]> = { "Dolby Atmos": ["Dolby Atmos", "
 const flight = (html: string) => [...html.matchAll(/self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)/g)].map((m) => JSON.parse(m[1]) as string).join("");
 
 /** The JSON array stored under `key` in that text (brackets inside strings are skipped). */
-function arrayAt<T = any>(text: string, key: string): T[] {
+function arrayAt<T = unknown>(text: string, key: string): T[] {
   const start = text.indexOf(`"${key}":[`);
   if (start < 0) return [];
   const i = start + key.length + 3;

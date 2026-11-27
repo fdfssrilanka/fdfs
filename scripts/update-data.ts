@@ -18,6 +18,7 @@ import * as dialus from "./scrapers/dialus";
 import { findMovie } from "./lib/match";
 import { isUpcomingShowtime } from "./lib/showtime-window";
 import { createShowtimesCsv } from "./lib/showtimes-csv";
+import { cleanTitle } from "./lib/titles";
 import type { Movie, Showtime } from "../lib/types";
 
 const DATA = path.join(process.cwd(), "data");
@@ -90,6 +91,7 @@ async function main() {
   }
 
   for (const m of movies) {
+    m.title = cleanTitle(m.title);
     m.posterUrl = await localImage(m.posterUrl, "posters", m.slug);
     m.backdropUrl = await localImage(m.backdropUrl, "backdrops", m.slug);
   }

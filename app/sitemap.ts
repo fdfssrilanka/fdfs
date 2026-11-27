@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { LANGUAGES, getAreas, getCities, getGenrePages, getMovies, getTheatres, hasShowtimes } from "@/lib/data";
 import { getChains } from "@/lib/chains";
+import { getNearTowns } from "@/lib/nearby";
 import { EXPERIENCE_PAGES } from "@/lib/experience-pages";
 import { SITE_URL } from "@/lib/site";
 
@@ -29,6 +30,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...getGenrePages().map((g) => u(`/genres/${g.slug}`, 0.5)),
     ...getCities().map((c) => u(`/cities/${c.slug}`, 0.7)),
     ...getAreas().map((a) => u(`/areas/${a.slug}`, 0.5, a.theatres.some((t) => hasShowtimes(t.id)))),
+    ...getNearTowns().map((n) => u(`/areas/${n.slug}`, 0.5)),
+    u("/new-releases", 0.8),
     ...EXPERIENCE_PAGES.map((page) => u(`/experiences/${page.slug}`, 0.6)),
     ...getMovies().map((m) => ({
       ...u(`/movies/${m.slug}`, 0.8),

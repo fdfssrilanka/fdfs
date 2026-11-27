@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getCities, getNowShowing } from "@/lib/data";
+import { getCities, getGenrePages, getNowShowing } from "@/lib/data";
 import { getChains } from "@/lib/chains";
 import { t } from "@/lib/i18n";
 import Logo from "./Logo";
@@ -28,7 +28,7 @@ export default function Footer() {
           <Logo />
           <p className="mt-3 text-sm text-muted">{getNowShowing().length} movies now showing across Sri Lanka.</p>
         </div>
-        <Col title="Movies" links={[{ label: t("row.nowShowing"), href: "/movies" }, { label: t("row.comingSoon"), href: "/coming-soon" }]} />
+        <Col title="Movies" links={[{ label: t("row.nowShowing"), href: "/movies" }, { label: t("row.comingSoon"), href: "/coming-soon" }, { label: "New releases by month", href: "/new-releases" }, ...getGenrePages().slice(0, 4).map((g) => ({ label: `${g.name} movies`, href: `/genres/${g.slug}` }))]} />
         <Col title="Theatres" links={[{ label: "All theatres", href: "/theatres" }, { label: "Film halls by town", href: "/areas" }, ...getChains().map((c) => ({ label: c.name, href: `/cinemas/${c.slug}` })), { label: "Cinema contact numbers", href: "/cinema-contact-numbers" }]} />
         <Col title="Cities" wide className="col-span-2 sm:col-span-3 lg:col-span-1" links={cities.map((c) => ({ label: c.name, href: `/cities/${c.slug}` }))} />
         <Col title="Languages" links={["Tamil", "Sinhala", "English", "Hindi"].map((l) => ({ label: l, href: `/language/${l.toLowerCase()}` }))} />

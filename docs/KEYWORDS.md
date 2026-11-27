@@ -9,7 +9,9 @@ Which page targets which search phrases. Titles, H1s, intro copy, FAQs and JSON-
 | tamil movies sri lanka, tamil movies showing colombo | `/language/tamil` | title, H1 |
 | sinhala new film | `/language/sinhala` | title, H1 |
 | english movies sri lanka | `/language/english` | title, H1 |
-| new and upcoming movies, new release movie, films new | `/coming-soon` | title, H1, intro |
+| upcoming movies, coming soon movies | `/coming-soon` | title, H1, intro |
+| new release movie, films new, now movie, new films released, 2026 movies list, movie releases by month | `/new-releases` | title, H1, month headings, FAQ |
+| [town] film hall for searched towns with no cinema (Nugegoda, Kottawa, Bandaragama, Katukurunda, Katugastota, Polgahawela), nearest film hall | `/areas/[town]` (near variant) | title, H1, nearest halls with approximate distance, FAQ |
 | cinema hall, city cinema, cinema city | `/theatres`, `/cities/[slug]` | title, H1, intro |
 | book movie tickets (online), movie ticket booking (online), film ticket booking sri lanka | `/book-movie-tickets` | title, H1, steps, FAQ |
 | imax cinema, imax movie theater | `/imax` | title, H1, FAQ |
@@ -70,3 +72,11 @@ Modifiers no page serves yet: ticket price (~3,800 searches; cinemas don't publi
 
 ## Gap pages added 2026-11-27
 Gaps closed from the export above: brand-only searches (the 151-keyword "named theatre" bucket had theatre pages but no page for the chain itself), the contact modifier (~550 searches), genre browsing, and a crawlable index of the town pages. Still not built because nothing in our data backs them: ticket prices (the current sources publish none), photos, reviews, and towns with no listed cinema.
+
+## Second gap pass 2026-11-27 (against the Scope Ubersuggest export, 402 keywords)
+After the first pass, 80 keywords (~54,000 searches a month) still had no matching page. Built:
+- `/new-releases` for the "new release / films new / 2026 movies list / releases by month" cluster (~30,000).
+- "Film halls near" pages under `/areas/` for six searched towns with no cinema: Nugegoda, Kottawa, Bandaragama, Katukurunda, Katugastota, Polgahawela (~3,100). Halls are ranked by straight-line distance from town-centre coordinates in `lib/nearby.ts`.
+- Spelling variants on theatre pages: Roxy Cinema, Vasanthi Cinema, Max Cinema, Metro cinema, City Cinema Mount Lavinia.
+
+Left out on purpose: film titles that look like venues (Devi Kusumasana, Udeshi City, Darma Yudha 2, Moda Tharindu, Clarence), films no cinema lists yet (Michael, Avatar 3, Zootopia 2, Annihilation), Queens Cinema Galle (temporarily closed), lyrics and unrelated searches.
